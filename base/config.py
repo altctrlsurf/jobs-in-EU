@@ -33,12 +33,12 @@ class Output:
         ymd = datetime.now().strftime("%Y%m%d")
         self.output_path = os.path.join("output", ymd)
         if not os.path.exists(self.output_path):
-            os.makedirs(self.output_path)
+            os.makedirs(self.output_path, exist_ok=True)
 
         if self.base_name:
             self.output_path = os.path.join(self.output_path, self.base_name)
             if not os.path.exists(self.output_path):
-                os.makedirs(self.output_path)
+                os.makedirs(self.output_path, exist_ok=True)
 
     def get_filename(self, filename):
         return os.path.join(self.output_path, filename)
