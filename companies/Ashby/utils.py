@@ -1,8 +1,10 @@
 from datetime import datetime
+from base.utils import auto_map_countries
 
 class Extract:
 
     @staticmethod
+    @auto_map_countries
     def location(job_detail):
 
         primary_location = job_detail.get("location")

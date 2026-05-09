@@ -3,6 +3,8 @@ import requests
 from typing import Optional
 from dataclasses import dataclass
 from datetime import datetime
+from functools import wraps
+import re
 
 @dataclass
 class JobPosting:
@@ -94,3 +96,90 @@ class Get:
         if "contract" in job_type_str or "freelance" in job_type_str:
             return "contract"
         return ""
+    
+
+def auto_map_countries(func):
+    """Simpler decorator with fixed mapping"""
+    country_mapping = {
+        "USA": "United States",
+        "US": "United States",
+        "UK": "United Kingdom",
+        "UAE": "United Arab Emirates",
+        "UK&I": "United Kingdom & Ireland",
+        "Korea, Republic of": "South Korea",
+        "NORAM": "North America",
+        "AMER": "Americas",
+        "LATAM": "Latin America",
+        "APAC": "Asia-Pacific",
+        "EMEA": "Europe, Middle East, and Africa",
+        "DACH": "DACH Region",
+        "LGC-AMERICAS": "Americas",
+        "LCG-AMERICAS": "Americas"
+         }
+    
+    @wraps(func)
+    def wrapper(*args, **kwargs):
+        result = func(*args, **kwargs)
+        
+        if not isinstance(result, list):
+            return result
+        
+        # Step 1: Clean and map each location
+        cleaned_results = []
+        for item in result:
+            if isinstance(item, dict) and 'country' in item:
+                country = item['country']
+                
+                # Clean the country string: remove 'remote' (case insensitive) and dashes
+                country = re.sub(r'\bremote\b', '', country, flags=re.IGNORECASE)
+                country = country.replace('-', ' ').replace('_', ' ')
+                country = ' '.join(country.split())
+                country = country.strip()
+                
+                # Apply mapping if country exists in mapping
+                if country in country_mapping:
+                    country = country_mapping[country]
+                
+                item['country'] = country
+            
+            cleaned_results.append(item)
+        
+        # Step 2: Collapse duplicate countries
+        # If same country appears more than 3 times, collapse into one record with empty state/city
+        country_count = {}
+        for item in cleaned_results:
+            if isinstance(item, dict) and 'country' in item:
+                country = item['country']
+                country_count[country] = country_count.get(country, 0) + 1
+        
+        final_results = []
+        countries_to_collapse = {country for country, count in country_count.items() if count >= 3}
+        
+        for item in cleaned_results:
+            if isinstance(item, dict) and 'country' in item:
+                country = item['country']
+                
+                # If this country should be collapsed and we haven't added it yet
+                if country in countries_to_collapse:
+                    # Check if we already added the collapsed version
+                    if not any(r.get('country') == country and r.get('collapsed', False) for r in final_results):
+                        # Add collapsed record
+                        collapsed_item = {
+                            "is_remote": item.get('is_remote', False),
+                            "city": "",
+                            "state": "",
+                            "country": country,
+                            "collapsed": True  # Optional: flag to indicate it was collapsed
+                        }
+                        final_results.append(collapsed_item)
+                else:
+                    # Keep original record
+                    final_results.append(item)
+        
+        # Remove the 'collapsed' flag from output if you don't want it
+        for item in final_results:
+            item.pop('collapsed', None)
+        
+        return final_results
+    
+    return wrapper

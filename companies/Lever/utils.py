@@ -1,8 +1,10 @@
 
 from datetime import datetime
+from base.utils import auto_map_countries
 class Extract:
 
     @staticmethod
+    @auto_map_countries
     def location(job_detail):
         all_locations = job_detail.get("categories").get("allLocations")
         work_place_type = job_detail.get("workplaceType")
@@ -16,10 +18,12 @@ class Extract:
             return [{"is_remote": is_remote, "city": "", "state": "", "country": ""}]
 
         for loc_str in all_locations:
-            city = loc_str
-            state = loc_str
-            country = loc_str
-            results.append({"is_remote": is_remote, "city": city, "state": state, "country": country})
+            loc_str = loc_str.strip()
+            if ',' not in loc_str:
+                results.append({"is_remote": is_remote, "city": "", "state": "", "country": loc_str})
+            else:
+                country, state = loc_str.split(',', 1)
+                results.append({"is_remote": is_remote, "city": "", "state": state, "country": country})
 
         return results
 

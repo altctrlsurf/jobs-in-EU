@@ -1,9 +1,10 @@
 
-from base.utils import Get
+from base.utils import Get, auto_map_countries
 
 class Extract:
 
     @staticmethod
+    @auto_map_countries
     def parse_location_string(job_detail):
 
         locations = job_detail.get("locations")

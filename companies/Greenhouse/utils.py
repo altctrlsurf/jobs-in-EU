@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import re
 import html
 import pycountry
+from base.utils import  auto_map_countries
 
 
 CUSTOM_REGION_MAP = {
@@ -91,6 +92,7 @@ def resolve_location(val):
 class Extract:
 
     @staticmethod
+    @auto_map_countries
     def location(loc_str):
         results = []
         parts = loc_str.split(';')
