@@ -98,14 +98,15 @@ def process_csv_to_xml():
         logger.info("No valid data could be extracted from the CSV files.")
         return
 
-    merged_df = pd.concat(df_list, ignore_index=True)
+    df = pd.concat(df_list, ignore_index=True)
+    df_filtered = df[~df['job_title'].str.contains('apply for future', case=False, na=False)]
 
     # 5. Create 'latest_output' folder if it doesn't exist
     os.makedirs(latest_output_dir, exist_ok=True)
 
     # 6. Save merged CSV as latest.csv
     csv_output_path = os.path.join(latest_output_dir, 'latest.csv')
-    merged_df.to_csv(csv_output_path, index=False)
+    df_filtered.to_csv(csv_output_path, index=False)
     logger.info(f"Merged CSV saved to: {csv_output_path}")
 
     # 7. Convert to XML with CDATA for 'job_description'
@@ -117,10 +118,10 @@ def process_csv_to_xml():
         xml_file.write('<records>\n')
         
         # Iterate through dataframe rows
-        for _, row in merged_df.iterrows():
+        for _, row in df_filtered.iterrows():
             xml_file.write('  <record>\n')
             
-            for col_name in merged_df.columns:
+            for col_name in df_filtered.columns:
                 # Sanitize column name for XML tag (replace spaces with underscores)
                 safe_col_name = str(col_name).strip().replace(' ', '_').replace('&', 'and')
                 

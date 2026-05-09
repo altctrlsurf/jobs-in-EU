@@ -15,15 +15,15 @@ class Extract:
             is_remote = True
 
         if not all_locations:
-            return [{"is_remote": is_remote, "city": "", "state": "", "country": ""}]
+            return [{"is_remote": is_remote, "city": "", "state": "", "country": "Europe" if is_remote else None}]
 
         for loc_str in all_locations:
             loc_str = loc_str.strip()
             if ',' not in loc_str:
-                results.append({"is_remote": is_remote, "city": "", "state": "", "country": loc_str})
+                results.append({"is_remote": is_remote, "city": "", "state": "", "country": loc_str or ("Europe" if is_remote else None)})
             else:
-                country, state = loc_str.split(',', 1)
-                results.append({"is_remote": is_remote, "city": "", "state": state, "country": country})
+                country, city = loc_str.split(',', 1)
+                results.append({"is_remote": is_remote, "city": city, "state": "", "country": country or ("Europe" if is_remote else None)})
 
         return results
 

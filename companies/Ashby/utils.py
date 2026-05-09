@@ -32,7 +32,7 @@ class Extract:
                     state = ""
                     country = postal_address.get("addressCountry")
 
-            results.append({"is_remote": is_remote, "city": city, "state": state, "country": country})
+            results.append({"is_remote": is_remote, "city": city, "state": state, "country": country or ("Europe" if is_remote else None)})
 
         return results
 

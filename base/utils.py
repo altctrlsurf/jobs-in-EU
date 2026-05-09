@@ -90,9 +90,9 @@ class Get:
     def JobType(job_type_str):
         job_type_str = job_type_str.lower().strip().replace(" ", "")
         if "full" in job_type_str:
-            return "fulltime"
+            return "full-time"
         if "part" in job_type_str:
-            return "parttime"
+            return "part-time"
         if "contract" in job_type_str or "freelance" in job_type_str:
             return "contract"
         return ""
@@ -111,11 +111,18 @@ def auto_map_countries(func):
         "AMER": "Americas",
         "LATAM": "Latin America",
         "APAC": "Asia-Pacific",
-        "EMEA": "Europe, Middle East, and Africa",
         "DACH": "DACH Region",
         "LGC-AMERICAS": "Americas",
-        "LCG-AMERICAS": "Americas"
-         }
+        "LCG-AMERICAS": "Americas",
+
+        "EMEA": "Anywhere in EU",
+        "Europe": "Anywhere in EU",
+        "Global": "Anywhere in EU",
+        "EU": "Anywhere in EU",
+        "European Union": "Anywhere in EU"}
+    
+    regional_tags = ["EMEA", "Europe", "Global", "EU", "European Union", "Anywhere in EU"]
+
     
     @wraps(func)
     def wrapper(*args, **kwargs):
@@ -131,7 +138,7 @@ def auto_map_countries(func):
                 country = item['country']
                 
                 # Clean the country string: remove 'remote' (case insensitive) and dashes
-                country = re.sub(r'\bremote\b', '', country, flags=re.IGNORECASE)
+                country = re.sub(r'\s*\(\s*remote\s*\)|\s+remote\b', '', country, flags=re.IGNORECASE)
                 country = country.replace('-', ' ').replace('_', ' ')
                 country = ' '.join(country.split())
                 country = country.strip()
@@ -145,7 +152,7 @@ def auto_map_countries(func):
             cleaned_results.append(item)
         
         # Step 2: Collapse duplicate countries
-        # If same country appears more than 3 times, collapse into one record with empty state/city
+        # If same country appears more than 4 times, collapse into one record with empty state/city
         country_count = {}
         for item in cleaned_results:
             if isinstance(item, dict) and 'country' in item:
@@ -153,7 +160,7 @@ def auto_map_countries(func):
                 country_count[country] = country_count.get(country, 0) + 1
         
         final_results = []
-        countries_to_collapse = {country for country, count in country_count.items() if count >= 3}
+        countries_to_collapse = {country for country, count in country_count.items() if count >= 4}
         
         for item in cleaned_results:
             if isinstance(item, dict) and 'country' in item:
@@ -169,16 +176,20 @@ def auto_map_countries(func):
                             "city": "",
                             "state": "",
                             "country": country,
-                            "collapsed": True  # Optional: flag to indicate it was collapsed
                         }
                         final_results.append(collapsed_item)
                 else:
                     # Keep original record
                     final_results.append(item)
         
-        # Remove the 'collapsed' flag from output if you don't want it
         for item in final_results:
-            item.pop('collapsed', None)
+            if item["country"] in regional_tags:
+                single_record = [{
+                    "is_remote": item.get('is_remote', False),
+                    "city": "",
+                    "state": "",
+                    "country": "Anywhere in EU"}]
+                return single_record
         
         return final_results
     

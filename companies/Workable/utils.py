@@ -20,7 +20,7 @@ class Extract:
             city = loc_detail.get("city", "")
             hidden = loc_detail.get("hidden")
             if not hidden:
-                new_data = {"is_remote": is_remote, "city": city, "state": state, "country": country}
+                new_data = {"is_remote": is_remote, "city": city, "state": state, "country": country or ("Europe" if is_remote else None)}
                 if new_data not in results:
                     results.append(new_data)
 
