@@ -123,6 +123,12 @@ def auto_map_countries(func):
     
     regional_tags = ["EMEA", "Europe", "Global", "EU", "European Union", "Anywhere in EU"]
 
+    eu_countries_list = [
+    "Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic",
+    "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary",
+    "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands",
+    "Poland", "Portugal", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden"]
+
     
     @wraps(func)
     def wrapper(*args, **kwargs):
@@ -176,11 +182,15 @@ def auto_map_countries(func):
                             "city": "",
                             "state": "",
                             "country": country,
+                            "collapsed": True
                         }
                         final_results.append(collapsed_item)
                 else:
                     # Keep original record
                     final_results.append(item)
+
+        for item in final_results:
+            item.pop('collapsed', None)
         
         for item in final_results:
             if item["country"] in regional_tags:
@@ -190,6 +200,21 @@ def auto_map_countries(func):
                     "state": "",
                     "country": "Anywhere in EU"}]
                 return single_record
+
+        eu_country_counter = 0
+
+        for item in final_results:
+            if item["country"] in eu_countries_list:
+                eu_country_counter += 1
+
+        if eu_country_counter >= 4:
+            single_record = [{
+                    "is_remote": item.get('is_remote', False),
+                    "city": "",
+                    "state": "",
+                    "country": "Anywhere in EU"}]
+            return single_record
+
         
         return final_results
     
