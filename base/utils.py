@@ -102,6 +102,7 @@ def auto_map_countries(func):
     """Simpler decorator with fixed mapping"""
     country_mapping = {
         "USA": "United States",
+        "U.S.A.": "United States",
         "US": "United States",
         "UK": "United Kingdom",
         "UAE": "United Arab Emirates",
@@ -138,24 +139,22 @@ def auto_map_countries(func):
             return result
         
         # Step 1: Clean and map each location
+
         cleaned_results = []
         for item in result:
-            if isinstance(item, dict) and 'country' in item:
-                country = item['country']
-                
-                # Clean the country string: remove 'remote' (case insensitive) and dashes
-                country = re.sub(r'\s*\(\s*remote\s*\)|\s+remote\b', '', country, flags=re.IGNORECASE)
+            country = item.get('country')
+            country = "Anywhere in EU" if country.lower().strip() == 'remote' else country
+            if country:
+                country = re.sub(r'[-_\s]*remote[-_\s]*', ' ', country, flags=re.IGNORECASE)
+                country = re.sub(r'[-_\s]*\(remote\)[-_\s]*', ' ', country, flags=re.IGNORECASE)
                 country = country.replace('-', ' ').replace('_', ' ')
                 country = ' '.join(country.split())
                 country = country.strip()
-                
-                # Apply mapping if country exists in mapping
                 if country in country_mapping:
                     country = country_mapping[country]
-                
-                item['country'] = country
-            
+            item['country'] = country
             cleaned_results.append(item)
+
         
         # Step 2: Collapse duplicate countries
         # If same country appears more than 4 times, collapse into one record with empty state/city

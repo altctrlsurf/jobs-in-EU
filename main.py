@@ -115,11 +115,12 @@ def process_csv_to_xml():
     logger.info("Converting to XML...")
     with open(xml_output_path, 'w', encoding='utf-8') as xml_file:
         xml_file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-        xml_file.write('<records>\n')
+        folder_name = os.path.basename(latest_folder)
+        xml_file.write(f'<jobs file_date={folder_name}>\n')
         
         # Iterate through dataframe rows
         for _, row in df_filtered.iterrows():
-            xml_file.write('  <record>\n')
+            xml_file.write('  <job>\n')
             
             for col_name in df_filtered.columns:
                 # Sanitize column name for XML tag (replace spaces with underscores)
@@ -139,9 +140,9 @@ def process_csv_to_xml():
                     safe_val = escape(val)
                     xml_file.write(f'    <{safe_col_name}>{safe_val}</{safe_col_name}>\n')
                     
-            xml_file.write('  </record>\n')
+            xml_file.write('  </job>\n')
             
-        xml_file.write('</records>\n')
+        xml_file.write('</jobs>\n')
 
     logger.info(f"XML file successfully saved to: {xml_output_path}")
 
