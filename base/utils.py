@@ -147,7 +147,7 @@ def auto_map_countries(func):
             if country:
                 country = re.sub(r'[-_\s]*remote[-_\s]*', ' ', country, flags=re.IGNORECASE)
                 country = re.sub(r'[-_\s]*\(remote\)[-_\s]*', ' ', country, flags=re.IGNORECASE)
-                country = country.replace('-', ' ').replace('_', ' ')
+                country = country.replace('-', ' ').replace('_', ' ').replace('(', ' ').replace(')', ' ')
                 country = ' '.join(country.split())
                 country = country.strip()
                 if country in country_mapping:

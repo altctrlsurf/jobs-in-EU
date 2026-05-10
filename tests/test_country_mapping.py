@@ -2,7 +2,7 @@ from base.utils import auto_map_countries
 
 
 test_mapping_input_output = [[[{
-    "country": "Remote-US",
+    "country": "(Remote) US",
     "city": "San Francisco",
     "state": "California",
     "is_remote": False}], 
@@ -17,5 +17,7 @@ def call_mapping(data):
     return data
 
 def test_mapping():
-    for input, output in test_mapping_input_output:
-        assert call_mapping(input) == output
+    for input, expected_output in test_mapping_input_output:
+        output = call_mapping(input)
+        print(output)
+        assert output == expected_output
