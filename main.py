@@ -5,9 +5,11 @@ from base.config import logger
 import sys
 
 import os
+import shutil
 import glob
 import pandas as pd
 from xml.sax.saxutils import escape
+from datetime import datetime
 
 def execute_scraper(module_path):
     """Dynamically imports and runs the 'run' function of a scraper module."""
@@ -23,8 +25,16 @@ def execute_scraper(module_path):
     except Exception as e:
         logger.error(f"Critical error executing {module_path}: {e}")
 
+def cleanup_existing():
+    ymd = datetime.now().strftime("%Y%m%d")
+    output_path = os.path.join("output", ymd)
+    if os.path.exists(output_path):
+        shutil.rmtree(output_path)
+
 def main(run_folder = None):
     logger.info("--- Starting Global Scraper Orchestrator ---")
+
+    cleanup_existing()
     
     companies_dir = 'companies'
     scraper_modules = []
