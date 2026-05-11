@@ -1,0 +1,4 @@
+requests
+pycountry
+beautifulsoup4
+pandas
