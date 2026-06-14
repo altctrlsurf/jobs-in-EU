@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jobs file_date=20260613>
+<jobs file_date=20260614>
   <job>
     <reference_id>ashby_phantom_e7b83c02-55c2-4037-9209-93deb3b7492c</reference_id>
     <apply_url>https://jobs.ashbyhq.com/phantom/e7b83c02-55c2-4037-9209-93deb3b7492c/application</apply_url>
@@ -579,17 +579,17 @@
     <company_name>Cyberhaven</company_name>
     <company_website>https://www.cyberhaven.com/</company_website>
     <company_logo_url>https://app.ashbyhq.com/api/images/org-theme-wordmark/7b223dbc-d7e4-449e-9853-2a2c468c5acc/c5da958b-25d2-409c-92ae-4deb76d001b2/265475a7-680c-4522-b37e-f2d5e8b61a15.png</company_logo_url>
-    <job_title>Technical Support Engineer </job_title>
+    <job_title>Senior Technical Support Engineer </job_title>
     <job_type>full-time</job_type>
     <category>Support</category>
     <city></city>
     <state></state>
     <country>Bangalore</country>
     <is_remote>True</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
+    <salary_from>900000.0</salary_from>
+    <salary_to>1500000.0</salary_to>
+    <salary_currency>INR</salary_currency>
+    <salary_period>annual</salary_period>
     <post_date>06/08/2026</post_date>
     <expiration_date></expiration_date>
     <job_description><![CDATA[<h2><strong>About the Role</strong></h2><p style="min-height:1.5em">This is an ideal opportunity for a highly motivated individual to get in on the ground floor as we build out our Technical Support function at Cyberhaven. The Technical Support Engineer candidate is passionate about technology, is always curious, and driven to delight customers. A true problem solver, you will take personal ownership in seeing a problem through to resolution or escalating and collaborating with some of the most talented engineers in the world. You will become an expert on Cyberhaven’s end to end AI Data Security platform, understand how it interacts with all the endpoints our customers interact with, and understand how our customers are trying to reduce data loss threats across the organization. </p><p style="min-height:1.5em">Ideally, you will be comfortable speaking with security and customer operation teams. You must have technical depth, be client obsessed, and experience with a SaaS based security product. Having the desire to take initiative, own and resolve customer issues, and love working in a fast paced, high growth environment is key. This role reports to the Director of Support. </p><p style="min-height:1.5em"></p><h2><strong>What You'll Do</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Provide well-thought out and reliable directions in technical and non-technical terms, to help customers solve reported issues and guide them on proper use of our platform.</p></li><li><p style="min-height:1.5em">Take ownership of customer issues, including initial troubleshooting, identification of root cause and issue resolution or escalation.</p></li><li><p style="min-height:1.5em">Identify and escalate priority issues that need immediate attention.</p></li><li><p style="min-height:1.5em">Build an excellent rapport with our backline engineers and collaborate on solving complex issues.</p></li><li><p style="min-height:1.5em">Meet or exceed customer expectations on response quality, timeliness of responses and overall customer experience.</p></li><li><p style="min-height:1.5em">Serve as internal and external point of contact on customer escalations and ensure customer issues are resolved as expediently as possible.</p></li><li><p style="min-height:1.5em">Collect information, attempt to reproduce reported behavior, and document bugs with Engineering for product issues that are impacting customers.</p></li><li><p style="min-height:1.5em">Create process and troubleshooting documentation to enhance our support knowledge base.</p></li><li><p style="min-height:1.5em">Work with client resources and stakeholders to understand their data security risks and threats.</p></li><li><p style="min-height:1.5em">Work closely with the Head of Customer Experience to build processes, reporting, and metrics that will showcase Support productivity and client satisfaction.</p></li></ul><p style="min-height:1.5em"></p><h2><strong>Who You Are</strong></h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">2+ years experience in providing technical support to customers for software solutions</p></li><li><p style="min-height:1.5em">Deep technical background, with hands-on experience in supporting and troubleshooting security and/or endpoint technologies.</p></li><li><p style="min-height:1.5em">Ability to learn new technologies quickly.</p></li><li><p style="min-height:1.5em">Experience with Salesforce, JIRA and Github.</p></li><li><p style="min-height:1.5em">Proven experience with managing external and internal stakeholders.</p></li><li><p style="min-height:1.5em">Experience working with complex endpoint DLP solutions.</p></li><li><p style="min-height:1.5em">Ability to manage high priority support requests.Ability to work closely with a development team to communicate customer requirements.</p></li><li><p style="min-height:1.5em">Proven experience in meeting customer SLA expectations.</p></li><li><p style="min-height:1.5em">Excellent problem-solving and analytical abilities with creative and logical thinking.</p></li><li><p style="min-height:1.5em">Highly motivated, customer-centric person, strong customer empathy and focus.</p></li><li><p style="min-height:1.5em">Ability to work as part of a global team. Ability to remain calm, composed and articulate when dealing with tough customer situations.</p></li><li><p style="min-height:1.5em">Excellent written and verbal communication skills.</p></li><li><p style="min-height:1.5em">Strong problem-solving abilities (especially over the phone).</p></li><li><p style="min-height:1.5em">Located in Bangalore, India</p></li></ul><p style="min-height:1.5em">Joining Cyberhaven is a chance to revolutionize data security. Traditional tools fall short, but we’ve reimagined protection with AI-enabled data lineage that analyzes billions of workflows to understand data, detect risk, and stop threats. Backed by $250M from leading investors like Khosla and Redpoint, our team includes leaders who built industry-defining technologies at CrowdStrike, Palo Alto Networks, Meta, Google, and more. This role lets you shape the future of data security, alongside experts driven to help customers protect their most valuable information.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><em>Cyberhaven is committed to creating a diverse environment and is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</em></p>]]></job_description>
@@ -33511,6 +33511,84 @@ We're recruiting for <strong>trajectory, systems thinking, and AI fluency</stron
     <post_date>03/15/2025</post_date>
     <expiration_date></expiration_date>
     <job_description><![CDATA[<div><span style="font-size: 16px">Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.</span></div><div><br></div><div><span style="font-size: 16px;">We are looking for a Senior Software Engineer with 5-7 years of experience in Spring Boot development to design, develop, and maintain high-performance, highly available distributed systems. The ideal candidate should have a solid foundation in Java programming, familiar with microservices architecture, and able to work efficiently in a fast-paced environment.</span></div><div><b style="font-size: 18px">Why Binance</b></div><div><span style="font-size: 16px">• Shape the future with the world’s leading blockchain ecosystem</span></div><div><span style="font-size: 16px">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div><div><span style="font-size: 16px">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div><div><span style="font-size: 16px">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div><div><span style="font-size: 16px">• Competitive salary and company benefits</span></div><div><span style="font-size: 16px">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div><div><br></div><div><span style="font-size: 16px">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div><div><i style="font-size: 16px">By submitting a job application, you confirm that you have read and agree to our </i><b><a style="font-size: 16px" href="https://www.binance.com/en/candidate/privacy/notice"><i>Candidate Privacy Notice</i></a></b><i style="font-size: 16px">.</i></div>]]></job_description>
+  </job>
+  <job>
+    <reference_id>lever_binance_23ab4123-002c-45df-8340-2ad5c34d1fa1_hongkong</reference_id>
+    <apply_url>https://jobs.lever.co/binance/23ab4123-002c-45df-8340-2ad5c34d1fa1/apply</apply_url>
+    <job_url>https://jobs.lever.co/binance/23ab4123-002c-45df-8340-2ad5c34d1fa1</job_url>
+    <company_name>Binance</company_name>
+    <company_website>https://www.binance.com</company_website>
+    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
+    <job_title>Java Backend QA Engineer (White-box Focus)</job_title>
+    <job_type>full-time</job_type>
+    <category>QA</category>
+    <city></city>
+    <state></state>
+    <country>Hong Kong</country>
+    <is_remote>True</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>06/11/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div><span style="font-size: 16px">Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.</span></div><div><br></div><div>
+<h2><strong>About the Role</strong></h2>
+<p>We are looking for a passionate and curious <strong>Java Backend QA Engineer</strong> to join our team. You'll work closely with developers to ensure the quality of complex financial and Web3 products through deep technical testing — not just black-box validation, but real code-level understanding.</p>
+<p>This is a great opportunity for a <strong>young talent</strong> who wants to grow fast in a high-impact, high-velocity fintech environment.</p>
+</div><div><b style="font-size: 18px">Why Binance</b></div><div><span style="font-size: 16px">• Shape the future with the world’s leading blockchain ecosystem</span></div><div><span style="font-size: 16px">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div><div><span style="font-size: 16px">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div><div><span style="font-size: 16px">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div><div><span style="font-size: 16px">• Competitive salary and company benefits</span></div><div><span style="font-size: 16px">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div><div><br></div><div><span style="font-size: 16px">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div><div><i style="font-size: 16px">By submitting a job application, you confirm that you have read and agree to our </i><b><a style="font-size: 16px" href="https://www.binance.com/en/candidate/privacy/notice"><i>Candidate Privacy Notice</i></a></b><i style="font-size: 16px">.</i></div>]]></job_description>
+  </job>
+  <job>
+    <reference_id>lever_binance_23ab4123-002c-45df-8340-2ad5c34d1fa1_asia</reference_id>
+    <apply_url>https://jobs.lever.co/binance/23ab4123-002c-45df-8340-2ad5c34d1fa1/apply</apply_url>
+    <job_url>https://jobs.lever.co/binance/23ab4123-002c-45df-8340-2ad5c34d1fa1</job_url>
+    <company_name>Binance</company_name>
+    <company_website>https://www.binance.com</company_website>
+    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
+    <job_title>Java Backend QA Engineer (White-box Focus)</job_title>
+    <job_type>full-time</job_type>
+    <category>QA</category>
+    <city></city>
+    <state></state>
+    <country>Asia</country>
+    <is_remote>True</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>06/11/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div><span style="font-size: 16px">Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.</span></div><div><br></div><div>
+<h2><strong>About the Role</strong></h2>
+<p>We are looking for a passionate and curious <strong>Java Backend QA Engineer</strong> to join our team. You'll work closely with developers to ensure the quality of complex financial and Web3 products through deep technical testing — not just black-box validation, but real code-level understanding.</p>
+<p>This is a great opportunity for a <strong>young talent</strong> who wants to grow fast in a high-impact, high-velocity fintech environment.</p>
+</div><div><b style="font-size: 18px">Why Binance</b></div><div><span style="font-size: 16px">• Shape the future with the world’s leading blockchain ecosystem</span></div><div><span style="font-size: 16px">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div><div><span style="font-size: 16px">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div><div><span style="font-size: 16px">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div><div><span style="font-size: 16px">• Competitive salary and company benefits</span></div><div><span style="font-size: 16px">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div><div><br></div><div><span style="font-size: 16px">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div><div><i style="font-size: 16px">By submitting a job application, you confirm that you have read and agree to our </i><b><a style="font-size: 16px" href="https://www.binance.com/en/candidate/privacy/notice"><i>Candidate Privacy Notice</i></a></b><i style="font-size: 16px">.</i></div>]]></job_description>
+  </job>
+  <job>
+    <reference_id>lever_binance_23ab4123-002c-45df-8340-2ad5c34d1fa1_taiwan_taipei</reference_id>
+    <apply_url>https://jobs.lever.co/binance/23ab4123-002c-45df-8340-2ad5c34d1fa1/apply</apply_url>
+    <job_url>https://jobs.lever.co/binance/23ab4123-002c-45df-8340-2ad5c34d1fa1</job_url>
+    <company_name>Binance</company_name>
+    <company_website>https://www.binance.com</company_website>
+    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
+    <job_title>Java Backend QA Engineer (White-box Focus)</job_title>
+    <job_type>full-time</job_type>
+    <category>QA</category>
+    <city> Taipei</city>
+    <state></state>
+    <country>Taiwan</country>
+    <is_remote>True</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>06/11/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div><span style="font-size: 16px">Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.</span></div><div><br></div><div>
+<h2><strong>About the Role</strong></h2>
+<p>We are looking for a passionate and curious <strong>Java Backend QA Engineer</strong> to join our team. You'll work closely with developers to ensure the quality of complex financial and Web3 products through deep technical testing — not just black-box validation, but real code-level understanding.</p>
+<p>This is a great opportunity for a <strong>young talent</strong> who wants to grow fast in a high-impact, high-velocity fintech environment.</p>
+</div><div><b style="font-size: 18px">Why Binance</b></div><div><span style="font-size: 16px">• Shape the future with the world’s leading blockchain ecosystem</span></div><div><span style="font-size: 16px">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div><div><span style="font-size: 16px">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div><div><span style="font-size: 16px">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div><div><span style="font-size: 16px">• Competitive salary and company benefits</span></div><div><span style="font-size: 16px">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div><div><br></div><div><span style="font-size: 16px">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div><div><i style="font-size: 16px">By submitting a job application, you confirm that you have read and agree to our </i><b><a style="font-size: 16px" href="https://www.binance.com/en/candidate/privacy/notice"><i>Candidate Privacy Notice</i></a></b><i style="font-size: 16px">.</i></div>]]></job_description>
   </job>
   <job>
     <reference_id>lever_binance_065e4780-a148-49d8-a09f-de53363633f0_asia</reference_id>
