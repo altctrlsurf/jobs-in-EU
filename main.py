@@ -3,8 +3,6 @@ import importlib
 import concurrent.futures
 from base.config import logger
 import sys
-
-import os
 import shutil
 import glob
 import pandas as pd
@@ -30,6 +28,48 @@ def cleanup_existing():
     output_path = os.path.join("output", ymd)
     if os.path.exists(output_path):
         shutil.rmtree(output_path)
+
+def cleanup_old_data():
+    """Keeps only the latest 14 folders in 'output' and latest 14 files in 'logs'."""
+    logger.info("--- Starting cleanup of old data ---")
+    
+    # 1. Cleanup output folder
+    output_dir = "output"
+    if os.path.exists(output_dir):
+        # Get all subdirectories in the output folder
+        subfolders = [os.path.join(output_dir, d) for d in os.listdir(output_dir) 
+                      if os.path.isdir(os.path.join(output_dir, d))]
+        
+        # Sort alphabetically (YYYYMMDD format ensures chronological order)
+        subfolders.sort()
+        
+        if len(subfolders) > 14:
+            folders_to_delete = subfolders[:-14] # Get all except the last 14
+            for folder in folders_to_delete:
+                try:
+                    shutil.rmtree(folder)
+                    logger.info(f"Deleted old output folder: {folder}")
+                except Exception as e:
+                    logger.error(f"Failed to delete folder {folder}: {e}")
+
+    # 2. Cleanup logs folder
+    logs_dir = "logs"
+    if os.path.exists(logs_dir):
+        # Get all log files in the logs folder
+        log_files = [os.path.join(logs_dir, f) for f in os.listdir(logs_dir) 
+                     if os.path.isfile(os.path.join(logs_dir, f)) and f.endswith('.log')]
+        
+        # Sort alphabetically (scraper_YYYYMMDD_HHMMSS.log ensures chronological order)
+        log_files.sort()
+        
+        if len(log_files) > 14:
+            files_to_delete = log_files[:-14] # Get all except the last 14
+            for file in files_to_delete:
+                try:
+                    os.remove(file)
+                    logger.info(f"Deleted old log file: {file}")
+                except Exception as e:
+                    logger.error(f"Failed to delete log file {file}: {e}")
 
 def main(run_folder = None):
     logger.info("--- Starting Global Scraper Orchestrator ---")
@@ -157,11 +197,18 @@ def process_csv_to_xml():
     logger.info(f"XML file successfully saved to: {xml_output_path}")
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        main(sys.argv[1])
-    else:
-        main()
+    # if len(sys.argv) > 1:
+    #     main(sys.argv[1])
+    # else:
+    #     main()
+        
+    # try:
+    #     process_csv_to_xml()
+    # except Exception as e:
+    #     logger.exception(f'{e}')
+        
+    # Run the cleanup process at the very end
     try:
-        process_csv_to_xml()
+        cleanup_old_data()
     except Exception as e:
-        logger.exception(f'{e}')
+        logger.exception(f'Error during cleanup: {e}')
