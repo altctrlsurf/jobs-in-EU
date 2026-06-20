@@ -1,0 +1,2 @@
+2026-06-20 13:51:47,922 - main.py - MainThread - cleanup_old_data - 34 - INFO - --- Starting cleanup of old data ---
+2026-06-20 13:51:47,922 - main.py - MainThread - cleanup_old_data - 70 - INFO - Deleted old log file: logs/scraper_20260606_132306.log
