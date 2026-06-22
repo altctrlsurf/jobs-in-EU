@@ -207,7 +207,7 @@ if __name__ == "__main__":
     except Exception as e:
         logger.exception(f'{e}')
         
-    Run the cleanup process at the very end
+    # Run the cleanup process at the very end
     try:
         cleanup_old_data()
     except Exception as e:
