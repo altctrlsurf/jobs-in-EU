@@ -197,17 +197,17 @@ def process_csv_to_xml():
     logger.info(f"XML file successfully saved to: {xml_output_path}")
 
 if __name__ == "__main__":
-    # if len(sys.argv) > 1:
-    #     main(sys.argv[1])
-    # else:
-    #     main()
+    if len(sys.argv) > 1:
+        main(sys.argv[1])
+    else:
+        main()
         
-    # try:
-    #     process_csv_to_xml()
-    # except Exception as e:
-    #     logger.exception(f'{e}')
+    try:
+        process_csv_to_xml()
+    except Exception as e:
+        logger.exception(f'{e}')
         
-    # Run the cleanup process at the very end
+    Run the cleanup process at the very end
     try:
         cleanup_old_data()
     except Exception as e:
