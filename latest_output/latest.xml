@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jobs file_date=20260730>
+<jobs file_date=20260731>
   <job>
     <reference_id>ashby_phantom_e7b83c02-55c2-4037-9209-93deb3b7492c</reference_id>
     <apply_url>https://jobs.ashbyhq.com/phantom/e7b83c02-55c2-4037-9209-93deb3b7492c/application</apply_url>
@@ -540,7 +540,7 @@
     <category>Sales</category>
     <city></city>
     <state></state>
-    <country>Austin</country>
+    <country>Boston</country>
     <is_remote>True</is_remote>
     <salary_from>59500.0</salary_from>
     <salary_to>59500.0</salary_to>
@@ -837,28 +837,6 @@
     <job_description><![CDATA[<h2>About the Role</h2><p style="min-height:1.5em">Cyberhaven is seeking a driven and results-oriented Commercial Account Executive to join our growing sales team! As a critical member of our sales organization, you will play a pivotal role in driving revenue growth by developing and executing strategic sales initiatives targeted towards small and medium-sized businesses (SMBs).</p><p style="min-height:1.5em"></p><h2>What You'll Do</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Prospect and develop qualified leads within the SMB segment</p></li><li><p style="min-height:1.5em">Build strong relationships with key decision-makers at target accounts</p></li><li><p style="min-height:1.5em">Articulate the value proposition of Cyberhaven’s solutions to address specific customer challenges</p></li><li><p style="min-height:1.5em">Drive sales pipeline creation and navigate complex sales cycles</p></li><li><p style="min-height:1.5em">Negotiate and close deals to achieve ambitious sales targets</p></li><li><p style="min-height:1.5em">Develop and deliver compelling sales presentations</p></li><li><p style="min-height:1.5em">Stay up-to-date on industry trends and competitor offerings</p><p style="min-height:1.5em"></p></li></ul><h2>Who You Are</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Minimum of 3-5 years’ experience in B2B SMB sales, preferably in the cybersecurity industry (SaaS experience also preferred)</p></li><li><p style="min-height:1.5em">Proven track record of exceeding sales quotas in competitive environments</p></li><li><p style="min-height:1.5em">Strong understanding of the cybersecurity landscape and ransomware threats</p></li><li><p style="min-height:1.5em">Excellent communication, presentation, and interpersonal skills</p></li><li><p style="min-height:1.5em">Ability to build trust and rapport with clients at all levels</p></li><li><p style="min-height:1.5em">Self-motivated, results-driven individual with a hunter mentality</p></li><li><p style="min-height:1.5em">Proficient with Salesforce or other CRM platforms</p></li><li><p style="min-height:1.5em">Be a builder! We appreciate individuals who have created, built, founded, designed, or owned something</p></li><li><p style="min-height:1.5em">Value the journey as much as the outcome</p></li><li><p style="min-height:1.5em">You are a winner who loves achieving success alongside others</p></li><li><p style="min-height:1.5em">Thoughtfulness, preparedness, and hard work are the cornerstones of your success</p></li><li><p style="min-height:1.5em">Able to navigate relationships, and empathize with others.</p><p style="min-height:1.5em"></p></li></ul><p style="min-height:1.5em">Joining Cyberhaven is a chance to revolutionize data security. Traditional tools fall short, but we’ve reimagined protection with AI-enabled data lineage that analyzes billions of workflows to understand data, detect risk, and stop threats. Backed by $250M from leading investors like Khosla and Redpoint, our team includes leaders who built industry-defining technologies at CrowdStrike, Palo Alto Networks, Meta, Google, and more. This role lets you shape the future of data security, alongside experts driven to help customers protect their most valuable information.</p><p style="min-height:1.5em"><strong>AI Tools Disclosure:</strong> As part of Cyberhaven's hiring process, we use recruiting tools that include AI-powered features to help with tasks like scheduling, note-taking, workflow automation, and other recruiting activities ("AI Tools"). The AI Tools may process information you provide during the application and interview process. When AI-assisted interview note taking is used, candidates are notified in advance and have the option to opt out of the AI-assisted interview note taking.</p><p style="min-height:1.5em"><em>Cyberhaven is committed to creating a diverse environment and is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</em></p>]]></job_description>
   </job>
   <job>
-    <reference_id>ashby_cyberhaven_c95944ec-10f3-4c98-b32c-75e5a9b61f92</reference_id>
-    <apply_url>https://jobs.ashbyhq.com/cyberhaven/c95944ec-10f3-4c98-b32c-75e5a9b61f92/application</apply_url>
-    <job_url>https://jobs.ashbyhq.com/cyberhaven/c95944ec-10f3-4c98-b32c-75e5a9b61f92</job_url>
-    <company_name>Cyberhaven</company_name>
-    <company_website>https://www.cyberhaven.com/</company_website>
-    <company_logo_url>https://app.ashbyhq.com/api/images/org-theme-wordmark/7b223dbc-d7e4-449e-9853-2a2c468c5acc/c5da958b-25d2-409c-92ae-4deb76d001b2/265475a7-680c-4522-b37e-f2d5e8b61a15.png</company_logo_url>
-    <job_title>Sales Development Representative (New Grad)</job_title>
-    <job_type>full-time</job_type>
-    <category>Sales</category>
-    <city></city>
-    <state></state>
-    <country>Austin</country>
-    <is_remote>True</is_remote>
-    <salary_from>49000.0</salary_from>
-    <salary_to>49000.0</salary_to>
-    <salary_currency>USD</salary_currency>
-    <salary_period>annual</salary_period>
-    <post_date>05/06/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<p style="min-height:1.5em"><strong>About the Role</strong></p><p style="min-height:1.5em">We're hiring an entry-level Sales Development Representative to join our team at Cyberhaven, based in Austin, TX or Mountain View, CA. This is a ground-floor opportunity for a driven new graduate to break into enterprise cybersecurity sales at a company that's redefining data loss prevention and insider risk.</p><p style="min-height:1.5em">You'll work closely with experienced Account Executives, Marketing, and Sales leadership to build top-of-funnel pipeline and develop the foundational skills that will define your career in B2B SaaS sales. We'll invest heavily in your growth - we're looking for someone with the raw talent, intellectual curiosity, and competitive drive to become a top performer.</p><div style="min-height:1.2em;margin-top:0;margin-bottom:0"> </div><p style="min-height:1.5em"><strong>What You'll Do</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Identify and research target accounts and key stakeholders using tools like LinkedIn Sales Navigator and ZoomInfo</p></li><li><p style="min-height:1.5em">Engage prospects through thoughtful outreach via email, phone, and social channels</p></li><li><p style="min-height:1.5em">Qualify inbound and outbound leads by uncovering pain points and business needs</p></li><li><p style="min-height:1.5em">Collaborate with Sales and Marketing to refine messaging and contribute to campaigns</p></li><li><p style="min-height:1.5em">Maintain accurate records in CRM and sales engagement tools (training provided)</p></li><li><p style="min-height:1.5em">Build early-stage pipeline and develop the habits that drive quota attainment</p></li></ul><p style="min-height:1.5em"><strong>Who You Are</strong></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Bachelor's degree from a top-tier or Ivy League university, preferably in Business, Economics, Communications, or Political Science</p></li><li><p style="min-height:1.5em">Prior internship in sales, business development, or a customer-facing role at a SaaS or technology company</p></li><li><p style="min-height:1.5em">Involvement in sales competitions, campus entrepreneurship programs, or university sales organizations is a strong signal</p></li><li><p style="min-height:1.5em">Exceptional written and verbal communicator - clear, confident, and concise</p></li><li><p style="min-height:1.5em">Intellectually curious about technology with the drive to learn cybersecurity concepts and translate them into business value</p></li><li><p style="min-height:1.5em">Competitive, self-motivated, and energized by hitting targets</p></li><li><p style="min-height:1.5em">Coachable - you seek feedback and apply it fast</p></li><li><p style="min-height:1.5em">AI-forward mindset - you actively use AI tools to work smarter, move faster, and personalize outreach at scale</p></li><li><p style="min-height:1.5em">Collaborative and comfortable working across Sales, Marketing, and technical teams</p></li></ul><p style="min-height:1.5em">Joining Cyberhaven is a chance to revolutionize data security. Traditional tools fall short, but we’ve reimagined protection with AI-enabled data lineage that analyzes billions of workflows to understand data, detect risk, and stop threats. Backed by $250M from leading investors like Khosla and Redpoint, our team includes leaders who built industry-defining technologies at CrowdStrike, Palo Alto Networks, Meta, Google, and more. This role lets you shape the future of data security, alongside experts driven to help customers protect their most valuable information.</p><p style="min-height:1.5em"><strong>AI Tools Disclosure:</strong> As part of Cyberhaven's hiring process, we use recruiting tools that include AI-powered features to help with tasks like scheduling, note-taking, workflow automation, and other recruiting activities ("AI Tools"). The AI Tools may process information you provide during the application and interview process. When AI-assisted interview note taking is used, candidates are notified in advance and have the option to opt out of the AI-assisted interview note taking.</p><p style="min-height:1.5em"><em>Cyberhaven is committed to creating a diverse environment and is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</em></p>]]></job_description>
-  </job>
-  <job>
     <reference_id>ashby_cyberhaven_a29457f1-12dc-40a0-b720-c609eab687aa_chicago</reference_id>
     <apply_url>https://jobs.ashbyhq.com/cyberhaven/a29457f1-12dc-40a0-b720-c609eab687aa/application</apply_url>
     <job_url>https://jobs.ashbyhq.com/cyberhaven/a29457f1-12dc-40a0-b720-c609eab687aa</job_url>
@@ -1063,7 +1041,7 @@
     <company_name>Zapier</company_name>
     <company_website>https://zapier.com/</company_website>
     <company_logo_url>https://app.ashbyhq.com/api/images/org-theme-wordmark/445b8e3d-921a-4001-9ef9-fee6982cf7af/898ad906-eb78-4e80-9f38-515de19ca3c5/8c30fbc1-4060-4a8d-89e0-ad7ec0eeec3a.png</company_logo_url>
-    <job_title>Director, Engineering, Enterprise</job_title>
+    <job_title>Director, Engineering (Enterprise)</job_title>
     <job_type>full-time</job_type>
     <category>Engineering</category>
     <city></city>
@@ -3873,6 +3851,84 @@ We're recruiting for <strong>trajectory, systems thinking, and AI fluency</stron
 <div>Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</div>]]></job_description>
   </job>
   <job>
+    <reference_id>lever_binance_8cd93838-3c12-4386-8dc2-8dfe69873e27_asia</reference_id>
+    <apply_url>https://jobs.lever.co/binance/8cd93838-3c12-4386-8dc2-8dfe69873e27/apply</apply_url>
+    <job_url>https://jobs.lever.co/binance/8cd93838-3c12-4386-8dc2-8dfe69873e27</job_url>
+    <company_name>Binance</company_name>
+    <company_website>https://www.binance.com</company_website>
+    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
+    <job_title>Binance Accelerator Program -  AI Supportability Engineer</job_title>
+    <job_type></job_type>
+    <category>DevOps/SRE</category>
+    <city></city>
+    <state></state>
+    <country>Asia</country>
+    <is_remote>True</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>06/22/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.</div>
+<div>&nbsp;</div>
+<div><strong>About Binance Accelerator Program</strong></div>
+<div>Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program <a href="https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651">HERE</a>.</div>
+<div><strong>&nbsp;</strong></div>
+<div><strong>Who may apply</strong></div>
+<div>Current university students and recent graduates.</div>
+<div><em>*Terms of employment / engagement shall be subject to contract and local applicable laws</em></div>
+<div>&nbsp;</div><div><span style="font-size: 16px;">Why Binance</span></div>
+<div><span style="font-size: 16px;">• Shape the future with the world’s leading blockchain ecosystem</span></div>
+<div><span style="font-size: 16px;">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div>
+<div><span style="font-size: 16px;">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div>
+<div><span style="font-size: 16px;">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div>
+<div><span style="font-size: 16px;">• Competitive salary and company benefits</span></div>
+<div><span style="font-size: 16px;">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: 16px;">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div>
+<div><em style="font-size: 16px;">By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>]]></job_description>
+  </job>
+  <job>
+    <reference_id>lever_binance_8cd93838-3c12-4386-8dc2-8dfe69873e27_taiwan_taipei</reference_id>
+    <apply_url>https://jobs.lever.co/binance/8cd93838-3c12-4386-8dc2-8dfe69873e27/apply</apply_url>
+    <job_url>https://jobs.lever.co/binance/8cd93838-3c12-4386-8dc2-8dfe69873e27</job_url>
+    <company_name>Binance</company_name>
+    <company_website>https://www.binance.com</company_website>
+    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
+    <job_title>Binance Accelerator Program -  AI Supportability Engineer</job_title>
+    <job_type></job_type>
+    <category>DevOps/SRE</category>
+    <city> Taipei</city>
+    <state></state>
+    <country>Taiwan</country>
+    <is_remote>True</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>06/22/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.</div>
+<div>&nbsp;</div>
+<div><strong>About Binance Accelerator Program</strong></div>
+<div>Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program <a href="https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651">HERE</a>.</div>
+<div><strong>&nbsp;</strong></div>
+<div><strong>Who may apply</strong></div>
+<div>Current university students and recent graduates.</div>
+<div><em>*Terms of employment / engagement shall be subject to contract and local applicable laws</em></div>
+<div>&nbsp;</div><div><span style="font-size: 16px;">Why Binance</span></div>
+<div><span style="font-size: 16px;">• Shape the future with the world’s leading blockchain ecosystem</span></div>
+<div><span style="font-size: 16px;">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div>
+<div><span style="font-size: 16px;">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div>
+<div><span style="font-size: 16px;">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div>
+<div><span style="font-size: 16px;">• Competitive salary and company benefits</span></div>
+<div><span style="font-size: 16px;">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: 16px;">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div>
+<div><em style="font-size: 16px;">By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>]]></job_description>
+  </job>
+  <job>
     <reference_id>lever_binance_303def79-701c-4b29-aceb-e07877a22d1d_taiwan_taipei</reference_id>
     <apply_url>https://jobs.lever.co/binance/303def79-701c-4b29-aceb-e07877a22d1d/apply</apply_url>
     <job_url>https://jobs.lever.co/binance/303def79-701c-4b29-aceb-e07877a22d1d</job_url>
@@ -4621,240 +4677,6 @@ We're recruiting for <strong>trajectory, systems thinking, and AI fluency</stron
     <salary_currency></salary_currency>
     <salary_period></salary_period>
     <post_date>07/24/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<div>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.</div>
-<div>&nbsp;</div>
-<div><strong>About Binance Accelerator Program</strong></div>
-<div>Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program <a href="https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651">HERE</a>.</div>
-<div><strong>&nbsp;</strong></div>
-<div><strong>Who may apply</strong></div>
-<div>Current university students and recent graduates.</div>
-<div><em>*Terms of employment / engagement shall be subject to contract and local applicable laws</em></div>
-<div>&nbsp;</div><div><span style="font-size: 16px;">Why Binance</span></div>
-<div><span style="font-size: 16px;">• Shape the future with the world’s leading blockchain ecosystem</span></div>
-<div><span style="font-size: 16px;">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div>
-<div><span style="font-size: 16px;">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div>
-<div><span style="font-size: 16px;">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div>
-<div><span style="font-size: 16px;">• Competitive salary and company benefits</span></div>
-<div><span style="font-size: 16px;">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div>
-<div>&nbsp;</div>
-<div><span style="font-size: 16px;">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div>
-<div><em style="font-size: 16px;">By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>]]></job_description>
-  </job>
-  <job>
-    <reference_id>lever_binance_10e9173b-7cef-402b-9223-ac61599f005c_asia</reference_id>
-    <apply_url>https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c/apply</apply_url>
-    <job_url>https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c</job_url>
-    <company_name>Binance</company_name>
-    <company_website>https://www.binance.com</company_website>
-    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
-    <job_title>Binance Accelerator Program - Ai Engineer</job_title>
-    <job_type></job_type>
-    <category>Backend</category>
-    <city></city>
-    <state></state>
-    <country>Asia</country>
-    <is_remote>True</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
-    <post_date>07/07/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<div>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.</div>
-<div>&nbsp;</div>
-<div><strong>About Binance Accelerator Program</strong></div>
-<div>Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program <a href="https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651">HERE</a>.</div>
-<div><strong>&nbsp;</strong></div>
-<div><strong>Who may apply</strong></div>
-<div>Current university students and recent graduates.</div>
-<div><em>*Terms of employment / engagement shall be subject to contract and local applicable laws</em></div>
-<div>&nbsp;</div><div><span style="font-size: 16px;">Why Binance</span></div>
-<div><span style="font-size: 16px;">• Shape the future with the world’s leading blockchain ecosystem</span></div>
-<div><span style="font-size: 16px;">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div>
-<div><span style="font-size: 16px;">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div>
-<div><span style="font-size: 16px;">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div>
-<div><span style="font-size: 16px;">• Competitive salary and company benefits</span></div>
-<div><span style="font-size: 16px;">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div>
-<div>&nbsp;</div>
-<div><span style="font-size: 16px;">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div>
-<div><em style="font-size: 16px;">By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>]]></job_description>
-  </job>
-  <job>
-    <reference_id>lever_binance_10e9173b-7cef-402b-9223-ac61599f005c_taiwan_taipei</reference_id>
-    <apply_url>https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c/apply</apply_url>
-    <job_url>https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c</job_url>
-    <company_name>Binance</company_name>
-    <company_website>https://www.binance.com</company_website>
-    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
-    <job_title>Binance Accelerator Program - Ai Engineer</job_title>
-    <job_type></job_type>
-    <category>Backend</category>
-    <city> Taipei</city>
-    <state></state>
-    <country>Taiwan</country>
-    <is_remote>True</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
-    <post_date>07/07/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<div>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.</div>
-<div>&nbsp;</div>
-<div><strong>About Binance Accelerator Program</strong></div>
-<div>Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program <a href="https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651">HERE</a>.</div>
-<div><strong>&nbsp;</strong></div>
-<div><strong>Who may apply</strong></div>
-<div>Current university students and recent graduates.</div>
-<div><em>*Terms of employment / engagement shall be subject to contract and local applicable laws</em></div>
-<div>&nbsp;</div><div><span style="font-size: 16px;">Why Binance</span></div>
-<div><span style="font-size: 16px;">• Shape the future with the world’s leading blockchain ecosystem</span></div>
-<div><span style="font-size: 16px;">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div>
-<div><span style="font-size: 16px;">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div>
-<div><span style="font-size: 16px;">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div>
-<div><span style="font-size: 16px;">• Competitive salary and company benefits</span></div>
-<div><span style="font-size: 16px;">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div>
-<div>&nbsp;</div>
-<div><span style="font-size: 16px;">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div>
-<div><em style="font-size: 16px;">By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>]]></job_description>
-  </job>
-  <job>
-    <reference_id>lever_binance_10e9173b-7cef-402b-9223-ac61599f005c_hongkong</reference_id>
-    <apply_url>https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c/apply</apply_url>
-    <job_url>https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c</job_url>
-    <company_name>Binance</company_name>
-    <company_website>https://www.binance.com</company_website>
-    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
-    <job_title>Binance Accelerator Program - Ai Engineer</job_title>
-    <job_type></job_type>
-    <category>Backend</category>
-    <city></city>
-    <state></state>
-    <country>Hong Kong</country>
-    <is_remote>True</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
-    <post_date>07/07/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<div>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.</div>
-<div>&nbsp;</div>
-<div><strong>About Binance Accelerator Program</strong></div>
-<div>Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program <a href="https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651">HERE</a>.</div>
-<div><strong>&nbsp;</strong></div>
-<div><strong>Who may apply</strong></div>
-<div>Current university students and recent graduates.</div>
-<div><em>*Terms of employment / engagement shall be subject to contract and local applicable laws</em></div>
-<div>&nbsp;</div><div><span style="font-size: 16px;">Why Binance</span></div>
-<div><span style="font-size: 16px;">• Shape the future with the world’s leading blockchain ecosystem</span></div>
-<div><span style="font-size: 16px;">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div>
-<div><span style="font-size: 16px;">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div>
-<div><span style="font-size: 16px;">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div>
-<div><span style="font-size: 16px;">• Competitive salary and company benefits</span></div>
-<div><span style="font-size: 16px;">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div>
-<div>&nbsp;</div>
-<div><span style="font-size: 16px;">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div>
-<div><em style="font-size: 16px;">By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>]]></job_description>
-  </job>
-  <job>
-    <reference_id>lever_binance_fe2b0bf9-95bb-40c5-959b-f991278a1cbe_asia</reference_id>
-    <apply_url>https://jobs.lever.co/binance/fe2b0bf9-95bb-40c5-959b-f991278a1cbe/apply</apply_url>
-    <job_url>https://jobs.lever.co/binance/fe2b0bf9-95bb-40c5-959b-f991278a1cbe</job_url>
-    <company_name>Binance</company_name>
-    <company_website>https://www.binance.com</company_website>
-    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
-    <job_title>Binance Accelerator Program - Ai Engineer</job_title>
-    <job_type></job_type>
-    <category>Backend</category>
-    <city></city>
-    <state></state>
-    <country>Asia</country>
-    <is_remote>True</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
-    <post_date>01/29/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<div>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.</div>
-<div>&nbsp;</div>
-<div><strong>About Binance Accelerator Program</strong></div>
-<div>Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program <a href="https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651">HERE</a>.</div>
-<div><strong>&nbsp;</strong></div>
-<div><strong>Who may apply</strong></div>
-<div>Current university students and recent graduates.</div>
-<div><em>*Terms of employment / engagement shall be subject to contract and local applicable laws</em></div>
-<div>&nbsp;</div><div><span style="font-size: 16px;">Why Binance</span></div>
-<div><span style="font-size: 16px;">• Shape the future with the world’s leading blockchain ecosystem</span></div>
-<div><span style="font-size: 16px;">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div>
-<div><span style="font-size: 16px;">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div>
-<div><span style="font-size: 16px;">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div>
-<div><span style="font-size: 16px;">• Competitive salary and company benefits</span></div>
-<div><span style="font-size: 16px;">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div>
-<div>&nbsp;</div>
-<div><span style="font-size: 16px;">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div>
-<div><em style="font-size: 16px;">By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>]]></job_description>
-  </job>
-  <job>
-    <reference_id>lever_binance_fe2b0bf9-95bb-40c5-959b-f991278a1cbe_taiwan_taipei</reference_id>
-    <apply_url>https://jobs.lever.co/binance/fe2b0bf9-95bb-40c5-959b-f991278a1cbe/apply</apply_url>
-    <job_url>https://jobs.lever.co/binance/fe2b0bf9-95bb-40c5-959b-f991278a1cbe</job_url>
-    <company_name>Binance</company_name>
-    <company_website>https://www.binance.com</company_website>
-    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
-    <job_title>Binance Accelerator Program - Ai Engineer</job_title>
-    <job_type></job_type>
-    <category>Backend</category>
-    <city> Taipei</city>
-    <state></state>
-    <country>Taiwan</country>
-    <is_remote>True</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
-    <post_date>01/29/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<div>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.</div>
-<div>&nbsp;</div>
-<div><strong>About Binance Accelerator Program</strong></div>
-<div>Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program <a href="https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651">HERE</a>.</div>
-<div><strong>&nbsp;</strong></div>
-<div><strong>Who may apply</strong></div>
-<div>Current university students and recent graduates.</div>
-<div><em>*Terms of employment / engagement shall be subject to contract and local applicable laws</em></div>
-<div>&nbsp;</div><div><span style="font-size: 16px;">Why Binance</span></div>
-<div><span style="font-size: 16px;">• Shape the future with the world’s leading blockchain ecosystem</span></div>
-<div><span style="font-size: 16px;">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div>
-<div><span style="font-size: 16px;">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div>
-<div><span style="font-size: 16px;">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div>
-<div><span style="font-size: 16px;">• Competitive salary and company benefits</span></div>
-<div><span style="font-size: 16px;">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div>
-<div>&nbsp;</div>
-<div><span style="font-size: 16px;">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div>
-<div><em style="font-size: 16px;">By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>]]></job_description>
-  </job>
-  <job>
-    <reference_id>lever_binance_fe2b0bf9-95bb-40c5-959b-f991278a1cbe_hongkong</reference_id>
-    <apply_url>https://jobs.lever.co/binance/fe2b0bf9-95bb-40c5-959b-f991278a1cbe/apply</apply_url>
-    <job_url>https://jobs.lever.co/binance/fe2b0bf9-95bb-40c5-959b-f991278a1cbe</job_url>
-    <company_name>Binance</company_name>
-    <company_website>https://www.binance.com</company_website>
-    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
-    <job_title>Binance Accelerator Program - Ai Engineer</job_title>
-    <job_type></job_type>
-    <category>Backend</category>
-    <city></city>
-    <state></state>
-    <country>Hong Kong</country>
-    <is_remote>True</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
-    <post_date>01/29/2026</post_date>
     <expiration_date></expiration_date>
     <job_description><![CDATA[<div>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.</div>
 <div>&nbsp;</div>
@@ -13410,84 +13232,6 @@ We're recruiting for <strong>trajectory, systems thinking, and AI fluency</stron
 <div><em style="font-size: 16px;">By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>]]></job_description>
   </job>
   <job>
-    <reference_id>lever_binance_8cd93838-3c12-4386-8dc2-8dfe69873e27_asia</reference_id>
-    <apply_url>https://jobs.lever.co/binance/8cd93838-3c12-4386-8dc2-8dfe69873e27/apply</apply_url>
-    <job_url>https://jobs.lever.co/binance/8cd93838-3c12-4386-8dc2-8dfe69873e27</job_url>
-    <company_name>Binance</company_name>
-    <company_website>https://www.binance.com</company_website>
-    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
-    <job_title>Binance Accelerator Program - TechOps Engineer (APAC Timezone)</job_title>
-    <job_type></job_type>
-    <category>DevOps/SRE</category>
-    <city></city>
-    <state></state>
-    <country>Asia</country>
-    <is_remote>True</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
-    <post_date>06/22/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<div>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.</div>
-<div>&nbsp;</div>
-<div><strong>About Binance Accelerator Program</strong></div>
-<div>Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program <a href="https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651">HERE</a>.</div>
-<div><strong>&nbsp;</strong></div>
-<div><strong>Who may apply</strong></div>
-<div>Current university students and recent graduates.</div>
-<div><em>*Terms of employment / engagement shall be subject to contract and local applicable laws</em></div>
-<div>&nbsp;</div><div><span style="font-size: 16px;">Why Binance</span></div>
-<div><span style="font-size: 16px;">• Shape the future with the world’s leading blockchain ecosystem</span></div>
-<div><span style="font-size: 16px;">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div>
-<div><span style="font-size: 16px;">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div>
-<div><span style="font-size: 16px;">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div>
-<div><span style="font-size: 16px;">• Competitive salary and company benefits</span></div>
-<div><span style="font-size: 16px;">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div>
-<div>&nbsp;</div>
-<div><span style="font-size: 16px;">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div>
-<div><em style="font-size: 16px;">By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>]]></job_description>
-  </job>
-  <job>
-    <reference_id>lever_binance_8cd93838-3c12-4386-8dc2-8dfe69873e27_taiwan_taipei</reference_id>
-    <apply_url>https://jobs.lever.co/binance/8cd93838-3c12-4386-8dc2-8dfe69873e27/apply</apply_url>
-    <job_url>https://jobs.lever.co/binance/8cd93838-3c12-4386-8dc2-8dfe69873e27</job_url>
-    <company_name>Binance</company_name>
-    <company_website>https://www.binance.com</company_website>
-    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
-    <job_title>Binance Accelerator Program - TechOps Engineer (APAC Timezone)</job_title>
-    <job_type></job_type>
-    <category>DevOps/SRE</category>
-    <city> Taipei</city>
-    <state></state>
-    <country>Taiwan</country>
-    <is_remote>True</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
-    <post_date>06/22/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<div>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.</div>
-<div>&nbsp;</div>
-<div><strong>About Binance Accelerator Program</strong></div>
-<div>Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program <a href="https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651">HERE</a>.</div>
-<div><strong>&nbsp;</strong></div>
-<div><strong>Who may apply</strong></div>
-<div>Current university students and recent graduates.</div>
-<div><em>*Terms of employment / engagement shall be subject to contract and local applicable laws</em></div>
-<div>&nbsp;</div><div><span style="font-size: 16px;">Why Binance</span></div>
-<div><span style="font-size: 16px;">• Shape the future with the world’s leading blockchain ecosystem</span></div>
-<div><span style="font-size: 16px;">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div>
-<div><span style="font-size: 16px;">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div>
-<div><span style="font-size: 16px;">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div>
-<div><span style="font-size: 16px;">• Competitive salary and company benefits</span></div>
-<div><span style="font-size: 16px;">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div>
-<div>&nbsp;</div>
-<div><span style="font-size: 16px;">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div>
-<div><em style="font-size: 16px;">By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>]]></job_description>
-  </job>
-  <job>
     <reference_id>lever_binance_b1b01056-0de9-4b4a-9962-bee31fb8e7d3_asia</reference_id>
     <apply_url>https://jobs.lever.co/binance/b1b01056-0de9-4b4a-9962-bee31fb8e7d3/apply</apply_url>
     <job_url>https://jobs.lever.co/binance/b1b01056-0de9-4b4a-9962-bee31fb8e7d3</job_url>
@@ -14257,6 +14001,123 @@ We're recruiting for <strong>trajectory, systems thinking, and AI fluency</stron
 <div><em style="font-size: 16px;">By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>]]></job_description>
   </job>
   <job>
+    <reference_id>lever_binance_10e9173b-7cef-402b-9223-ac61599f005c_asia</reference_id>
+    <apply_url>https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c/apply</apply_url>
+    <job_url>https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c</job_url>
+    <company_name>Binance</company_name>
+    <company_website>https://www.binance.com</company_website>
+    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
+    <job_title>Binance Accelerator Program -AI Agent Observability  Engineer</job_title>
+    <job_type></job_type>
+    <category>Backend</category>
+    <city></city>
+    <state></state>
+    <country>Asia</country>
+    <is_remote>True</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>07/07/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.</div>
+<div>&nbsp;</div>
+<div><strong>About Binance Accelerator Program</strong></div>
+<div>Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program <a href="https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651">HERE</a>.</div>
+<div><strong>&nbsp;</strong></div>
+<div><strong>Who may apply</strong></div>
+<div>Current university students and recent graduates.</div>
+<div><em>*Terms of employment / engagement shall be subject to contract and local applicable laws</em></div>
+<div>&nbsp;</div><div><span style="font-size: 16px;">Why Binance</span></div>
+<div><span style="font-size: 16px;">• Shape the future with the world’s leading blockchain ecosystem</span></div>
+<div><span style="font-size: 16px;">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div>
+<div><span style="font-size: 16px;">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div>
+<div><span style="font-size: 16px;">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div>
+<div><span style="font-size: 16px;">• Competitive salary and company benefits</span></div>
+<div><span style="font-size: 16px;">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: 16px;">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div>
+<div><em style="font-size: 16px;">By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>]]></job_description>
+  </job>
+  <job>
+    <reference_id>lever_binance_10e9173b-7cef-402b-9223-ac61599f005c_taiwan_taipei</reference_id>
+    <apply_url>https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c/apply</apply_url>
+    <job_url>https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c</job_url>
+    <company_name>Binance</company_name>
+    <company_website>https://www.binance.com</company_website>
+    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
+    <job_title>Binance Accelerator Program -AI Agent Observability  Engineer</job_title>
+    <job_type></job_type>
+    <category>Backend</category>
+    <city> Taipei</city>
+    <state></state>
+    <country>Taiwan</country>
+    <is_remote>True</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>07/07/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.</div>
+<div>&nbsp;</div>
+<div><strong>About Binance Accelerator Program</strong></div>
+<div>Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program <a href="https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651">HERE</a>.</div>
+<div><strong>&nbsp;</strong></div>
+<div><strong>Who may apply</strong></div>
+<div>Current university students and recent graduates.</div>
+<div><em>*Terms of employment / engagement shall be subject to contract and local applicable laws</em></div>
+<div>&nbsp;</div><div><span style="font-size: 16px;">Why Binance</span></div>
+<div><span style="font-size: 16px;">• Shape the future with the world’s leading blockchain ecosystem</span></div>
+<div><span style="font-size: 16px;">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div>
+<div><span style="font-size: 16px;">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div>
+<div><span style="font-size: 16px;">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div>
+<div><span style="font-size: 16px;">• Competitive salary and company benefits</span></div>
+<div><span style="font-size: 16px;">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: 16px;">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div>
+<div><em style="font-size: 16px;">By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>]]></job_description>
+  </job>
+  <job>
+    <reference_id>lever_binance_10e9173b-7cef-402b-9223-ac61599f005c_hongkong</reference_id>
+    <apply_url>https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c/apply</apply_url>
+    <job_url>https://jobs.lever.co/binance/10e9173b-7cef-402b-9223-ac61599f005c</job_url>
+    <company_name>Binance</company_name>
+    <company_website>https://www.binance.com</company_website>
+    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
+    <job_title>Binance Accelerator Program -AI Agent Observability  Engineer</job_title>
+    <job_type></job_type>
+    <category>Backend</category>
+    <city></city>
+    <state></state>
+    <country>Hong Kong</country>
+    <is_remote>True</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>07/07/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.</div>
+<div>&nbsp;</div>
+<div><strong>About Binance Accelerator Program</strong></div>
+<div>Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program <a href="https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651">HERE</a>.</div>
+<div><strong>&nbsp;</strong></div>
+<div><strong>Who may apply</strong></div>
+<div>Current university students and recent graduates.</div>
+<div><em>*Terms of employment / engagement shall be subject to contract and local applicable laws</em></div>
+<div>&nbsp;</div><div><span style="font-size: 16px;">Why Binance</span></div>
+<div><span style="font-size: 16px;">• Shape the future with the world’s leading blockchain ecosystem</span></div>
+<div><span style="font-size: 16px;">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div>
+<div><span style="font-size: 16px;">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div>
+<div><span style="font-size: 16px;">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div>
+<div><span style="font-size: 16px;">• Competitive salary and company benefits</span></div>
+<div><span style="font-size: 16px;">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: 16px;">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div>
+<div><em style="font-size: 16px;">By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>]]></job_description>
+  </job>
+  <job>
     <reference_id>lever_binance_5186735e-4e8a-4962-b402-0fafa00bbde5</reference_id>
     <apply_url>https://jobs.lever.co/binance/5186735e-4e8a-4962-b402-0fafa00bbde5/apply</apply_url>
     <job_url>https://jobs.lever.co/binance/5186735e-4e8a-4962-b402-0fafa00bbde5</job_url>
@@ -14896,56 +14757,6 @@ We're recruiting for <strong>trajectory, systems thinking, and AI fluency</stron
 <div>&nbsp;</div>
 <div><strong>About The Role</strong></div>
 <div>We are seeking a highly driven Business Development Manager to accelerate the global growth of Binance Pay. This role focuses on identifying high-value merchant partners, driving commercial negotiations, enabling product adoption, and building strategic collaborations that enhance the Binance Pay ecosystem. You will work cross-functionally with Product, Marketing, Partnerships, Compliance, legal and regional teams to execute go-to-market strategies and scale payment use cases across markets.</div><div><b style="font-size: 18px">Why Binance</b></div><div><span style="font-size: 16px">• Shape the future with the world’s leading blockchain ecosystem</span></div><div><span style="font-size: 16px">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div><div><span style="font-size: 16px">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div><div><span style="font-size: 16px">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div><div><span style="font-size: 16px">• Competitive salary and company benefits</span></div><div><span style="font-size: 16px">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div><div><br></div><div><span style="font-size: 16px">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div><div><i style="font-size: 16px">By submitting a job application, you confirm that you have read and agree to our </i><b><a style="font-size: 16px" href="https://www.binance.com/en/candidate/privacy/notice"><i>Candidate Privacy Notice</i></a></b><i style="font-size: 16px">.</i></div>]]></job_description>
-  </job>
-  <job>
-    <reference_id>lever_binance_6e134bb0-fadf-49a3-a624-eee90475c3fd_unitedarabemirates_dubai</reference_id>
-    <apply_url>https://jobs.lever.co/binance/6e134bb0-fadf-49a3-a624-eee90475c3fd/apply</apply_url>
-    <job_url>https://jobs.lever.co/binance/6e134bb0-fadf-49a3-a624-eee90475c3fd</job_url>
-    <company_name>Binance</company_name>
-    <company_website>https://www.binance.com</company_website>
-    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
-    <job_title>Business Development - Payment (MENA)</job_title>
-    <job_type></job_type>
-    <category>Business Development</category>
-    <city> Dubai</city>
-    <state></state>
-    <country>United Arab Emirates</country>
-    <is_remote>True</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
-    <post_date>07/16/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<div>
-<p>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.</p>
-<div>About The Team<br>The Binance Pay &amp; Card team is revolutionizing the way people transact and manage their finances globally. Binance Pay is a cutting-edge payment solution that enables users to send, receive, and pay with crypto seamlessly. Join us to be part of a dynamic team driving the future of digital payments and financial technology.&nbsp;</div>
-</div>]]></job_description>
-  </job>
-  <job>
-    <reference_id>lever_binance_6e134bb0-fadf-49a3-a624-eee90475c3fd_unitedarabemirates_abudhabi</reference_id>
-    <apply_url>https://jobs.lever.co/binance/6e134bb0-fadf-49a3-a624-eee90475c3fd/apply</apply_url>
-    <job_url>https://jobs.lever.co/binance/6e134bb0-fadf-49a3-a624-eee90475c3fd</job_url>
-    <company_name>Binance</company_name>
-    <company_website>https://www.binance.com</company_website>
-    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
-    <job_title>Business Development - Payment (MENA)</job_title>
-    <job_type></job_type>
-    <category>Business Development</category>
-    <city> Abu Dhabi</city>
-    <state></state>
-    <country>United Arab Emirates</country>
-    <is_remote>True</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
-    <post_date>07/16/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<div>
-<p>Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.</p>
-<div>About The Team<br>The Binance Pay &amp; Card team is revolutionizing the way people transact and manage their finances globally. Binance Pay is a cutting-edge payment solution that enables users to send, receive, and pay with crypto seamlessly. Join us to be part of a dynamic team driving the future of digital payments and financial technology.&nbsp;</div>
-</div>]]></job_description>
   </job>
   <job>
     <reference_id>lever_binance_f919775a-7959-452a-877f-b53ec3e094a6</reference_id>
@@ -17342,6 +17153,31 @@ We're recruiting for <strong>trajectory, systems thinking, and AI fluency</stron
     <post_date>07/06/2026</post_date>
     <expiration_date></expiration_date>
     <job_description><![CDATA[<div><span style="font-size: 16px">Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.</span></div><div><b style="font-size: 18px">Why Binance</b></div><div><span style="font-size: 16px">• Shape the future with the world’s leading blockchain ecosystem</span></div><div><span style="font-size: 16px">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div><div><span style="font-size: 16px">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div><div><span style="font-size: 16px">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div><div><span style="font-size: 16px">• Competitive salary and company benefits</span></div><div><span style="font-size: 16px">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div><div><br></div><div><span style="font-size: 16px">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div><div><i style="font-size: 16px">By submitting a job application, you confirm that you have read and agree to our </i><b><a style="font-size: 16px" href="https://www.binance.com/en/candidate/privacy/notice"><i>Candidate Privacy Notice</i></a></b><i style="font-size: 16px">.</i></div>]]></job_description>
+  </job>
+  <job>
+    <reference_id>lever_binance_5a6ed076-7852-4575-a47e-6fe1e1d66592</reference_id>
+    <apply_url>https://jobs.lever.co/binance/5a6ed076-7852-4575-a47e-6fe1e1d66592/apply</apply_url>
+    <job_url>https://jobs.lever.co/binance/5a6ed076-7852-4575-a47e-6fe1e1d66592</job_url>
+    <company_name>Binance</company_name>
+    <company_website>https://www.binance.com</company_website>
+    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
+    <job_title>GEO Strategist</job_title>
+    <job_type>full-time</job_type>
+    <category>Marketing</category>
+    <city></city>
+    <state></state>
+    <country>Anywhere in EU</country>
+    <is_remote>False</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>07/31/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div><span style="font-size: 16px">Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.</span></div><div><br></div><div>
+<p>We are seeking a subject matter expert in <strong>Generative Engine Optimization (GEO)</strong> to own Binance's presence and citation authority across AI-powered search surfaces — ChatGPT, Perplexity, Gemini, and Claude.</p>
+<p>This independent contributor role partners closely with Content, Tech, and Data teams to build GEO into a systematic, measured acquisition channel, closing the citation gap against key competitors and establishing definitional authority in AI-generated crypto content.</p>
+</div><div><b style="font-size: 18px">Why Binance</b></div><div><span style="font-size: 16px">• Shape the future with the world’s leading blockchain ecosystem</span></div><div><span style="font-size: 16px">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div><div><span style="font-size: 16px">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div><div><span style="font-size: 16px">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div><div><span style="font-size: 16px">• Competitive salary and company benefits</span></div><div><span style="font-size: 16px">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div><div><br></div><div><span style="font-size: 16px">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div><div><i style="font-size: 16px">By submitting a job application, you confirm that you have read and agree to our </i><b><a style="font-size: 16px" href="https://www.binance.com/en/candidate/privacy/notice"><i>Candidate Privacy Notice</i></a></b><i style="font-size: 16px">.</i></div>]]></job_description>
   </job>
   <job>
     <reference_id>lever_binance_339500b1-81d1-4c63-978e-9b162069f372_cisregion</reference_id>
@@ -23658,50 +23494,6 @@ We're recruiting for <strong>trajectory, systems thinking, and AI fluency</stron
 <div><strong>About The Opportunity:&nbsp;</strong>You will join a team of risk &amp; trading professionals, serving as the first line of defense against irregular market movements. The team is responsible to ensure our users and company are well protected by identifying early signs of high risk activities (i.e liquidation events, high volatility periods) . In addition to real-time monitoring, you will also have the opportunity to work on risk alerts/tools enhancements.</div>]]></job_description>
   </job>
   <job>
-    <reference_id>lever_binance_25777f0c-6219-4ec2-a34b-518b1380c9de_hongkong</reference_id>
-    <apply_url>https://jobs.lever.co/binance/25777f0c-6219-4ec2-a34b-518b1380c9de/apply</apply_url>
-    <job_url>https://jobs.lever.co/binance/25777f0c-6219-4ec2-a34b-518b1380c9de</job_url>
-    <company_name>Binance</company_name>
-    <company_website>https://www.binance.com</company_website>
-    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
-    <job_title>Recommendation Strategy Product Manager</job_title>
-    <job_type>full-time</job_type>
-    <category>Product</category>
-    <city></city>
-    <state></state>
-    <country>Hong Kong</country>
-    <is_remote>True</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
-    <post_date>02/02/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<div><span style="font-size: 16px">Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.</span></div><div><b style="font-size: 18px">Why Binance</b></div><div><span style="font-size: 16px">• Shape the future with the world’s leading blockchain ecosystem</span></div><div><span style="font-size: 16px">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div><div><span style="font-size: 16px">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div><div><span style="font-size: 16px">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div><div><span style="font-size: 16px">• Competitive salary and company benefits</span></div><div><span style="font-size: 16px">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div><div><br></div><div><span style="font-size: 16px">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div><div><i style="font-size: 16px">By submitting a job application, you confirm that you have read and agree to our </i><b><a style="font-size: 16px" href="https://www.binance.com/en/candidate/privacy/notice"><i>Candidate Privacy Notice</i></a></b><i style="font-size: 16px">.</i></div>]]></job_description>
-  </job>
-  <job>
-    <reference_id>lever_binance_25777f0c-6219-4ec2-a34b-518b1380c9de_taiwan_taipei</reference_id>
-    <apply_url>https://jobs.lever.co/binance/25777f0c-6219-4ec2-a34b-518b1380c9de/apply</apply_url>
-    <job_url>https://jobs.lever.co/binance/25777f0c-6219-4ec2-a34b-518b1380c9de</job_url>
-    <company_name>Binance</company_name>
-    <company_website>https://www.binance.com</company_website>
-    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
-    <job_title>Recommendation Strategy Product Manager</job_title>
-    <job_type>full-time</job_type>
-    <category>Product</category>
-    <city> Taipei</city>
-    <state></state>
-    <country>Taiwan</country>
-    <is_remote>True</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
-    <post_date>02/02/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<div><span style="font-size: 16px">Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.</span></div><div><b style="font-size: 18px">Why Binance</b></div><div><span style="font-size: 16px">• Shape the future with the world’s leading blockchain ecosystem</span></div><div><span style="font-size: 16px">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div><div><span style="font-size: 16px">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div><div><span style="font-size: 16px">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div><div><span style="font-size: 16px">• Competitive salary and company benefits</span></div><div><span style="font-size: 16px">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div><div><br></div><div><span style="font-size: 16px">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div><div><i style="font-size: 16px">By submitting a job application, you confirm that you have read and agree to our </i><b><a style="font-size: 16px" href="https://www.binance.com/en/candidate/privacy/notice"><i>Candidate Privacy Notice</i></a></b><i style="font-size: 16px">.</i></div>]]></job_description>
-  </job>
-  <job>
     <reference_id>lever_binance_53357ba5-a562-4e82-b533-0f863bd71a52_brazil_saopaulo</reference_id>
     <apply_url>https://jobs.lever.co/binance/53357ba5-a562-4e82-b533-0f863bd71a52/apply</apply_url>
     <job_url>https://jobs.lever.co/binance/53357ba5-a562-4e82-b533-0f863bd71a52</job_url>
@@ -27068,6 +26860,72 @@ We're recruiting for <strong>trajectory, systems thinking, and AI fluency</stron
     <post_date>06/22/2022</post_date>
     <expiration_date></expiration_date>
     <job_description><![CDATA[<div><span style="font-size: 16px">Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.</span></div><div><br></div><div><b><u style="font-size: 16px;">Team Introduction </u></b></div><div><span style="font-size: 16px;">The Central Product Team at Binance is where innovation meets user experience. We're shaping the core platforms and services that support Binance’s global ecosystem, optimizing user interactions, and enhancing operational efficiency. If you're passionate about building scalable, secure solutions that drive crypto adoption, join us and be part of a team that's redefining the digital asset experience.</span></div><div><b style="font-size: 18px">Why Binance</b></div><div><span style="font-size: 16px">• Shape the future with the world’s leading blockchain ecosystem</span></div><div><span style="font-size: 16px">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div><div><span style="font-size: 16px">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div><div><span style="font-size: 16px">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div><div><span style="font-size: 16px">• Competitive salary and company benefits</span></div><div><span style="font-size: 16px">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div><div><br></div><div><span style="font-size: 16px">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div><div><i style="font-size: 16px">By submitting a job application, you confirm that you have read and agree to our </i><b><a style="font-size: 16px" href="https://www.binance.com/en/candidate/privacy/notice"><i>Candidate Privacy Notice</i></a></b><i style="font-size: 16px">.</i></div>]]></job_description>
+  </job>
+  <job>
+    <reference_id>lever_binance_b7142863-b96a-4075-aa16-9431083c1420_hongkong</reference_id>
+    <apply_url>https://jobs.lever.co/binance/b7142863-b96a-4075-aa16-9431083c1420/apply</apply_url>
+    <job_url>https://jobs.lever.co/binance/b7142863-b96a-4075-aa16-9431083c1420</job_url>
+    <company_name>Binance</company_name>
+    <company_website>https://www.binance.com</company_website>
+    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
+    <job_title>Senior Product Manager, Margin &amp; Settlement Infrastructure</job_title>
+    <job_type>full-time</job_type>
+    <category>Product</category>
+    <city></city>
+    <state></state>
+    <country>Hong Kong</country>
+    <is_remote>True</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>07/31/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div><span style="font-size: 16px">Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.</span></div><div><b style="font-size: 18px">Why Binance</b></div><div><span style="font-size: 16px">• Shape the future with the world’s leading blockchain ecosystem</span></div><div><span style="font-size: 16px">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div><div><span style="font-size: 16px">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div><div><span style="font-size: 16px">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div><div><span style="font-size: 16px">• Competitive salary and company benefits</span></div><div><span style="font-size: 16px">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div><div><br></div><div><span style="font-size: 16px">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div><div><i style="font-size: 16px">By submitting a job application, you confirm that you have read and agree to our </i><b><a style="font-size: 16px" href="https://www.binance.com/en/candidate/privacy/notice"><i>Candidate Privacy Notice</i></a></b><i style="font-size: 16px">.</i></div>]]></job_description>
+  </job>
+  <job>
+    <reference_id>lever_binance_b7142863-b96a-4075-aa16-9431083c1420_asia</reference_id>
+    <apply_url>https://jobs.lever.co/binance/b7142863-b96a-4075-aa16-9431083c1420/apply</apply_url>
+    <job_url>https://jobs.lever.co/binance/b7142863-b96a-4075-aa16-9431083c1420</job_url>
+    <company_name>Binance</company_name>
+    <company_website>https://www.binance.com</company_website>
+    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
+    <job_title>Senior Product Manager, Margin &amp; Settlement Infrastructure</job_title>
+    <job_type>full-time</job_type>
+    <category>Product</category>
+    <city></city>
+    <state></state>
+    <country>Asia</country>
+    <is_remote>True</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>07/31/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div><span style="font-size: 16px">Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.</span></div><div><b style="font-size: 18px">Why Binance</b></div><div><span style="font-size: 16px">• Shape the future with the world’s leading blockchain ecosystem</span></div><div><span style="font-size: 16px">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div><div><span style="font-size: 16px">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div><div><span style="font-size: 16px">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div><div><span style="font-size: 16px">• Competitive salary and company benefits</span></div><div><span style="font-size: 16px">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div><div><br></div><div><span style="font-size: 16px">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div><div><i style="font-size: 16px">By submitting a job application, you confirm that you have read and agree to our </i><b><a style="font-size: 16px" href="https://www.binance.com/en/candidate/privacy/notice"><i>Candidate Privacy Notice</i></a></b><i style="font-size: 16px">.</i></div>]]></job_description>
+  </job>
+  <job>
+    <reference_id>lever_binance_b7142863-b96a-4075-aa16-9431083c1420_taiwan_taipei</reference_id>
+    <apply_url>https://jobs.lever.co/binance/b7142863-b96a-4075-aa16-9431083c1420/apply</apply_url>
+    <job_url>https://jobs.lever.co/binance/b7142863-b96a-4075-aa16-9431083c1420</job_url>
+    <company_name>Binance</company_name>
+    <company_website>https://www.binance.com</company_website>
+    <company_logo_url>https://lever-client-logos.s3.amazonaws.com/bb6bb63e-bcc7-4c25-b774-48987c172588-1530598079062.png</company_logo_url>
+    <job_title>Senior Product Manager, Margin &amp; Settlement Infrastructure</job_title>
+    <job_type>full-time</job_type>
+    <category>Product</category>
+    <city> Taipei</city>
+    <state></state>
+    <country>Taiwan</country>
+    <is_remote>True</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>07/31/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div><span style="font-size: 16px">Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.</span></div><div><b style="font-size: 18px">Why Binance</b></div><div><span style="font-size: 16px">• Shape the future with the world’s leading blockchain ecosystem</span></div><div><span style="font-size: 16px">• Collaborate with world-class talent in a user-centric global organization with a flat structure</span></div><div><span style="font-size: 16px">• Tackle unique, fast-paced projects with autonomy in an innovative environment</span></div><div><span style="font-size: 16px">• Thrive in a results-driven workplace with opportunities for career growth and continuous learning</span></div><div><span style="font-size: 16px">• Competitive salary and company benefits</span></div><div><span style="font-size: 16px">• Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team)</span></div><div><br></div><div><span style="font-size: 16px">Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</span></div><div><i style="font-size: 16px">By submitting a job application, you confirm that you have read and agree to our </i><b><a style="font-size: 16px" href="https://www.binance.com/en/candidate/privacy/notice"><i>Candidate Privacy Notice</i></a></b><i style="font-size: 16px">.</i></div>]]></job_description>
   </job>
   <job>
     <reference_id>lever_binance_8916b15f-12ca-46e3-ae88-e62a85f14e1e_asia</reference_id>
