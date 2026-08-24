@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jobs file_date=20260823>
+<jobs file_date=20260824>
   <job>
     <reference_id>ashby_phantom_e7b83c02-55c2-4037-9209-93deb3b7492c</reference_id>
     <apply_url>https://jobs.ashbyhq.com/phantom/e7b83c02-55c2-4037-9209-93deb3b7492c/application</apply_url>
@@ -1143,28 +1143,6 @@
     <post_date>07/10/2026</post_date>
     <expiration_date></expiration_date>
     <job_description><![CDATA[<h2><strong>AI at Zapier</strong></h2><p style="min-height:1.5em">At <a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/about"><u>Zapier</u></a>, we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them <strong>responsibly and transparently</strong>.</p><p style="min-height:1.5em">Check out our guidance on <a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/l/jobs/ai-at-zapier"><strong>How to Collaborate with AI During Zapier’s Hiring Process</strong></a><strong>,</strong> including how to use AI tools like ChatGPT, Claude, Gemini, or others during our hiring process - and when not to.</p><div style="min-height:1.2em;margin-top:0;margin-bottom:0"> </div><p style="min-height:1.5em"><strong>Job Posted</strong>: July 10th, 2026</p><p style="min-height:1.5em"><strong>Location</strong>: NAMER</p><p style="min-height:1.5em"></p><h1>Hi there!</h1><p style="min-height:1.5em">As Zapier expands into the enterprise market and accelerates AI-driven development, incident management is increasingly critical to customer trust and operational reliability. The Incident Operations Specialist keeps that program running day to day through reliable tooling, clean data, repeatable workflows, and AI-powered automation.</p><p style="min-height:1.5em">You’ll report to the Incident Program Manager and help shape how Zapier responds to incidents, learns from them, and supports the people doing that work. This is an operations role with technical depth, not a software engineering role. We care most about two things: <strong>proven incident management experience</strong> and <strong>genuine AI fluency</strong>. The rest is coachable.</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/jobs/our-commitment-to-applicants/"><u>Our Commitment to Applicants</u></a></p></li><li><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/jobs/culture-and-values-at-zapier/"><u>Culture and Values at Zapier</u></a></p></li><li><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/learn/remote-work/"><u>Zapier Guide to Remote Work</u></a></p></li><li><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/jobs/zapier-code-of-conduct/"><u>Zapier Code of Conduct</u></a></p></li><li><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/jobs/working-on-diversity-and-inclusivity/"><u>Diversity and Inclusivity at Zapier</u></a></p></li></ul><p style="min-height:1.5em"></p><h2>What we're looking for</h2><p style="min-height:1.5em"><strong>AI fluency (required, not optional).</strong> This is a hard requirement at point of hire, not something you'll grow into on the job. Concretely, we're looking for:</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">You use AI-native tools (Cursor, Claude, Copilot, or similar) as your default working environment, not as a novelty.</p></li><li><p style="min-height:1.5em">You've built AI-powered workflows that keep running when you're offline, not one-off prompts. You can describe two or three specific examples, what they replaced, and what verification you built in.</p></li><li><p style="min-height:1.5em">You can quantify how AI has changed your throughput or quality.</p></li><li><p style="min-height:1.5em">You know when AI output needs checking, especially under incident-time pressure, and you have a point of view on how you calibrate trust.</p></li><li><p style="min-height:1.5em"><em>Please note: If your AI usage is mostly occasional prompting of a chat interface, this role isn't the right fit yet.</em></p></li></ul><p style="min-height:1.5em"><strong>Incident response and analysis experience: </strong>You've worked in incident response, reliability, or a closely adjacent role. You've been hands-on with tools like <a target="_blank" rel="noopener noreferrer nofollow" href="http://incident.io"><u>incident.io</u></a> and PagerDuty: on-call rotations, escalation paths, routing, integrations. You've analysed incidents after the fact, spotted patterns across many of them, and turned that into program-level improvements.</p><p style="min-height:1.5em"><strong>Technical depth to build your own tools: </strong>You're not a software engineer, but you can write SQL against Databricks, wire up API integrations, build Slack workflows, and prototype lightweight AI agents. If a workflow doesn't exist, you build it. If a dashboard is broken, you fix it.</p><p style="min-height:1.5em"><strong>How you work: </strong>Async-first and visible: status in public channels, no need to chase. You close the loop, prioritise ruthlessly, and push back on off-program requests rather than getting pulled thin. You translate technical detail into plain language for Support, GTM, and leadership without losing the signal.</p><p style="min-height:1.5em"></p><h2>What you'll do</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Own incident tooling operations.</strong> Keep <a target="_blank" rel="noopener noreferrer nofollow" href="http://incident.io"><u>incident.io</u></a>, PagerDuty, on-call rotations, escalation paths, and Slack-based workflows configured, reliable, and integrated. Fix what breaks.</p></li><li><p style="min-height:1.5em"><strong>Build and maintain AI-powered workflows.</strong> Thread summarisation, postmortem drafting, follow-up triage, severity classification, data hygiene. Turn one-off experiments into durable systems.</p></li><li><p style="min-height:1.5em"><strong>Analyze incidents and drive improvement.</strong> Participate in incidents and postmortems, spot recurring patterns, surface program-level friction with recommended fixes, not just problems.</p></li><li><p style="min-height:1.5em"><strong>Operate data and reporting.</strong> Build and troubleshoot dashboards and reports (Databricks, Grafana, Looker). Guard data quality and metric accuracy.</p></li><li><p style="min-height:1.5em"><strong>Sustain the IC community.</strong> Grow the community of practice for Incident Commanders and Support Leads. Coach responders on what good looks like.</p></li><li><p style="min-height:1.5em"><strong>Keep documentation usable under pressure.</strong> Playbooks, templates, guides. Flag gaps where program-level guidance needs updating.</p></li></ul><h2>Our stack</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Incident: </strong><a target="_blank" rel="noopener noreferrer nofollow" href="http://incident.io"><u>incident.io</u></a>, PagerDuty, Slack</p></li><li><p style="min-height:1.5em"><strong>Data and observability: </strong>Databricks, Grafana, Looker, SQL, Datadog, Prometheus, Opensearch, Graylog</p></li><li><p style="min-height:1.5em"><strong>AI: </strong>Cursor, Zapier AI, Claude, or equivalent</p></li><li><p style="min-height:1.5em"><strong>Collaboration: </strong>GitLab, Coda, Google Workspace, Jira, Zendesk</p></li></ul><p style="min-height:1.5em"></p><h2><strong>Application Deadline:</strong></h2><p style="min-height:1.5em">The anticipated application window is 30 days from the date job is posted, unless the number of applicants requires it to close sooner or later, or if the position is filled.</p><p style="min-height:1.5em"><em>Even though we’re an all-remote company, we still need to be thoughtful about where we have Zapiens working. Check out</em><a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/spreadsheets/d/1_lXQvKwuU4xXEbye7EW_En8iv1ZIMlQNmT7B2Mzbo24/edit?gid=0#gid=0"><em> this resource</em></a><em> for a list of countries where we currently cannot have Zapiens permanently working.</em></p>]]></job_description>
-  </job>
-  <job>
-    <reference_id>ashby_zapier_28ec7ca4-234c-464d-97ee-f96e9956d1ce</reference_id>
-    <apply_url>https://jobs.ashbyhq.com/zapier/28ec7ca4-234c-464d-97ee-f96e9956d1ce/application</apply_url>
-    <job_url>https://jobs.ashbyhq.com/zapier/28ec7ca4-234c-464d-97ee-f96e9956d1ce</job_url>
-    <company_name>Zapier</company_name>
-    <company_website>https://zapier.com/</company_website>
-    <company_logo_url>https://app.ashbyhq.com/api/images/org-theme-wordmark/445b8e3d-921a-4001-9ef9-fee6982cf7af/898ad906-eb78-4e80-9f38-515de19ca3c5/8c30fbc1-4060-4a8d-89e0-ad7ec0eeec3a.png</company_logo_url>
-    <job_title>Lead Technical Recruiter</job_title>
-    <job_type>full-time</job_type>
-    <category>People</category>
-    <city></city>
-    <state></state>
-    <country>NAMER</country>
-    <is_remote>True</is_remote>
-    <salary_from>143900.0</salary_from>
-    <salary_to>215900.0</salary_to>
-    <salary_currency>USD</salary_currency>
-    <salary_period>annual</salary_period>
-    <post_date>08/13/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<h2><strong>AI at Zapier</strong></h2><p style="min-height:1.5em">At <a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/about"><u>Zapier</u></a>, we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them <strong>responsibly and transparently</strong>.</p><p style="min-height:1.5em">Check out our guidance on <a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/l/jobs/ai-at-zapier"><strong>How to Collaborate with AI During Zapier’s Hiring Process</strong></a><strong>,</strong> including how to use AI tools like ChatGPT, Claude, Gemini, or others during our hiring process - and when not to.</p><div style="min-height:1.2em;margin-top:0;margin-bottom:0"> </div><p style="min-height:1.5em"><strong>Job posted: 8/5/2026 </strong>(we will be accepting applications through 8/21/2026)</p><p style="min-height:1.5em"><strong>Location:</strong> Americas</p><p style="min-height:1.5em"></p><p style="min-height:1.5em">Hi there! I’m <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/jonofre/">Jaime</a>, and I lead global recruiting for Zapier’s technical and product-building teams. We’re hiring an Americas-based Lead Technical Recruiter to join our team. We’re a highly tenured, technically savvy group that cares deeply about landing exceptional talent and creating thoughtful, transparent experiences for every candidate. We do this while leveraging AI tooling to change the way we’re working.</p><p style="min-height:1.5em">This is an exciting role for a recruiter who operates beyond their own req load. You’ll shape talent strategy for an entire department, partner closely with senior leaders, and help define how our team uses AI and scalable process innovation to do our best work.</p><p style="min-height:1.5em">As a Lead Technical Recruiter, you’ll drive talent strategy across complex technical hiring needs while helping improve the systems, partnerships, and operating rhythms that make great hiring possible at scale. This role matters because it expands our ability to support high-stakes technical hiring with stronger strategy, clearer stakeholder guidance, and more durable recruiting processes.</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/jobs/our-commitment-to-applicants/">Our Commitment to Applicants</a></p></li><li><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/jobs/culture-and-values-at-zapier/">Culture and Values at Zapier</a></p></li><li><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/learn/remote-work/">Zapier Guide to Remote Work</a></p></li><li><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/jobs/zapier-code-of-conduct/">Zapier Code of Conduct</a></p></li><li><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/jobs/working-on-diversity-and-inclusivity/">Diversity and Inclusivity at Zapier</a></p></li></ul><p style="min-height:1.5em"></p><h2>About You</h2><p style="min-height:1.5em">In the spirit of Default to Transparency: we’ll be extremely picky about who we hire for this role. We care less about titles held and more about what you’ve accomplished, and how you achieved it. Below are some of the skills, behaviors and experiences you have to be successful.</p><ul style="min-height:1.5em"><li><p style="min-height:1.5em"><strong>Significant, senior-level full-cycle technical recruiting experience</strong>. You’ve had ownership of hiring strategy beyond your own reqs or for complex pipelines. Ideally this is across various engineering disciplines including Applied AI, Software Engineering, Infrastructure, and Security.</p></li><li><p style="min-height:1.5em"><strong>Strategic operational and systems thinking. </strong>You have strong operational instincts that connect recruiting to business outcomes, along with a solid systems mindset to create efficient, future-looking talent plans (comp analysis, competitive positioning, org-level market mapping) and process, not just fills reqs. This also means you anticipate problems before they surface.</p></li><li><p style="min-height:1.5em"><strong>Trust building with senior leaders and TA peers. </strong>You’re savvy at building strong relationships with peers and key leaders that enables you to partner and influence on complex hiring scenarios, and build alignment around a recommendation rather than just presenting one.</p></li><li><p style="min-height:1.5em"><strong>High AI fluency, ready to lead with it</strong>. Our team is on the leading end of AI fluency and usage. Ideally, yours is on par or better. That said, having a learning mindset, excitement around AI, and a solid understanding of usage fundamentals is more important. At minimum, you should be using AI as a core part of how you work.</p></li><li><p style="min-height:1.5em"><strong>Driving results without a title</strong>. You know how to drive results regardless of if you own the work directly or if its been delegated. That means knowing how to mentor and coach peers and hold stakeholders accountable.</p></li><li><p style="min-height:1.5em"><strong>Strong opinions loosely held. </strong>As a subject matter expert, you hold strong opinions based on data, experience, and desired outcomes, but you also know how/when to flex when presented with additional details, context, or ideas.</p></li><li><p style="min-height:1.5em"><strong>Resourceful with ambiguity</strong>. You know how to connect the dots and don’t feel stalled when you have limited information. You know how to create plans that are good enough to move forward vs. the perfect solution, and are comfortable pivoting quickly. You’re tied to outcomes, not projects.</p></li><li><p style="min-height:1.5em"><strong>Champion for diversity hiring &amp; inclusive interview practices</strong> . You know how to advocate for and build diverse talent pools, and can shape process at the team/department level, not just individual roles.</p></li></ul><p style="min-height:1.5em"></p><h2>Things You’ll Do</h2><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Advise hiring managers, directors, and executives on talent strategy and complex technical hiring decisions.</p></li><li><p style="min-height:1.5em">Drive talent intelligence and market mapping that informs acquisition strategy for an entire department or vertical.</p></li><li><p style="min-height:1.5em">Use AI to design repeatable workflows, improve recruiting outputs, and increase team efficiency.</p></li><li><p style="min-height:1.5em">Build future-looking recruiting plans, including compensation analysis and competitive positioning recommendations.</p></li><li><p style="min-height:1.5em">Partner across recruiting, operations, and hiring teams to solve process bottlenecks and improve hiring effectiveness.</p></li><li><p style="min-height:1.5em">Lead AI transformation, process improvement, and high-impact projects that improve candidate experience, stakeholder satisfaction, and recruiting systems at scale.</p></li><li><p style="min-height:1.5em">Mentor teammates through hands-on problem-solving and help raise the overall capability of the technical recruiting team.</p></li><li><p style="min-height:1.5em">Lead talent brand initiatives for your vertical, from events to platform presence to targeted attraction campaigns, aligned to Zapier’s broader EVP.</p></li></ul><p style="min-height:1.5em"></p><h2><strong>How to Apply</strong></h2><p style="min-height:1.5em">At Zapier, we believe that diverse perspectives and experiences make us better, which is why we have a non-standard application process designed to promote inclusion and equity. We're looking for the best fit for each of our roles, regardless of the type of companies in your background, so we encourage you to apply even if your skills and experiences don’t exactly match the job description. All we ask is that you answer a few in-depth questions in our application that would typically be asked at the start of an interview process. This helps speed things up by letting us get to know you and your skillset a bit better right out of the gate. Please be sure to answer each question; the resume and CV fields are optional.</p><p style="min-height:1.5em">Education is not a requirement for our roles; however, if you receive an offer, you will need to include your most recent educational experience as part of our background check process.</p><p style="min-height:1.5em">After you apply, you are going to hear back from us—even if we don’t see an immediate fit with our team. In fact, throughout the process, we strive to never go more than seven days without letting you know the status of your application. We know we’ll make mistakes from time to time, so if you ever have questions about where you stand or about the process, just ask your recruiter!</p><p style="min-height:1.5em">Zapier is an equal-opportunity employer and we're excited to work with talented and empathetic people of all identities. Zapier does not discriminate based on someone's identity in any aspect of hiring or employment as required by law and in line with our commitment to Diversity, Inclusion, Belonging and Equity. Our<a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/jobs/zapier-code-of-conduct"> <u>code of conduct</u></a> provides a beacon for the kind of company we strive to be, and we celebrate our differences because those differences are what allow us to make a product that serves a global user base. Zapier will consider all qualified applicants, including those with criminal histories, consistent with applicable laws.</p><p style="min-height:1.5em">Zapier prioritizes the security of our customers' information and is dedicated to adhering to all applicable data privacy laws. You can<a target="_blank" rel="noopener noreferrer nofollow" href="https://zapier.com/legal/data-privacy"> <u>review our privacy policy here</u></a>.</p><p style="min-height:1.5em">Zapier is committed to inclusion. As part of this commitment, Zapier welcomes applications from individuals with disabilities and will work to provide reasonable accommodations. If reasonable accommodations are needed to participate in the job application or interview process, please contact jobs@zapier.com.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"></p><h2><strong>Application Deadline:</strong></h2><p style="min-height:1.5em">The anticipated application window is 30 days from the date job is posted, unless the number of applicants requires it to close sooner or later, or if the position is filled.</p><p style="min-height:1.5em"><em>Even though we’re an all-remote company, we still need to be thoughtful about where we have Zapiens working. Check out</em><a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/spreadsheets/d/1_lXQvKwuU4xXEbye7EW_En8iv1ZIMlQNmT7B2Mzbo24/edit?gid=0#gid=0"><em> this resource</em></a><em> for a list of countries where we currently cannot have Zapiens permanently working.</em></p>]]></job_description>
   </job>
   <job>
     <reference_id>ashby_duck-duck-go_12b7b49c-ee06-4d70-8504-657343ebe4d0</reference_id>
@@ -10705,6 +10683,7 @@
 <li>Experience collaborating with Product, Engineering, and Sales teams to turn customer feedback into product fixes, feature improvements, and roadmap priorities.</li>
 <li>Familiarity with DevOps practices and technologies such as Kubernetes and serverless computing, and an understanding of how different GitLab implementations operate and affect customers.</li>
 <li>Demonstrated ability to learn, collaborate across teams, and apply transferable skills from related technical support or engineering roles.</li>
+<li>Fluent Korean language skills (required)</li>
 </ul>
 <h2><strong>About the team</strong></h2>
 <p>We're a globally distributed group of Support Engineers across the Americas, Europe, the Middle East, and Africa, and Asia-Pacific. We work asynchronously and stay connected through pairing sessions, one-on-one meetings, coffee chats, and Slack.&nbsp;We structure our shifts to support our personal lives while meeting customer needs. Thanks to GitLab’s transparency value, you can see what we are working on and how we operate on our<a href="https://about.gitlab.com/handbook/support/"> Support Team page</a>.</p><div class="content-conclusion"><h4><strong>How GitLab Supports Full-Time Employees</strong></h4>
@@ -11859,6 +11838,137 @@
 </ul>
 <h2>About the team</h2>
 <p>The <strong><strong class="textBold">Data Products</strong></strong> team is building the foundation for how GitLab turns software delivery data into reliable, interoperable, and actionable intelligence for customers and internal teams. Our scope includes Software Engineering Intelligence, dashboard and reporting frameworks, external data access and output, and internal and external data ingestion across areas such as DORA metrics, value stream reporting, AI impact, software delivery trends, security and quality metrics, custom reporting, data access APIs, OpenTelemetry-based output, and ingestion into the Knowledge Graph and Data Insights Platform. We work in a high-ambiguity, high-impact space, and we collaborate closely across product and platform groups using GitLab's asynchronous, distributed way of working.</p><div class="content-conclusion"><h4><strong>How GitLab Supports Full-Time Employees</strong></h4>
+<ul>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/">Benefits to support your health, finances, and well-being</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto">Flexible Paid Time Off&nbsp;</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/">Team Member Resource Groups</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/total-rewards/stock-options/">Equity Compensation &amp; Employee Stock Purchase Plan</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/">Growth and Development Fund</a></li>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave">Parental Leave</a>&nbsp;</li>
+</ul>
+<p>Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from <a href="https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups">underrepresented groups</a> are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.</p>
+<hr>
+<p><strong>Country Hiring Guidelines: </strong>GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&nbsp;&nbsp;</p>
+<p><strong>Privacy Policy: </strong>Please review our <a href="https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/" target="_blank">Recruitment Privacy Policy.</a> Your privacy is important to us.</p>
+<p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy" target="_blank">GitLab’s EEO Policy</a>&nbsp;and&nbsp;<a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices" target="_blank">EEO is the Law</a>. If you have a disability or special need that requires&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation" target="_blank">accommodation</a>, please let us know during the&nbsp;<a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process" target="_blank">recruiting process</a>.</p></div>]]></job_description>
+  </job>
+  <job>
+    <reference_id>greenhouse_gitlab_8716271002</reference_id>
+    <apply_url>https://job-boards.greenhouse.io/gitlab/jobs/8716271002</apply_url>
+    <job_url>https://job-boards.greenhouse.io/gitlab/jobs/8716271002</job_url>
+    <company_name>Gitlab</company_name>
+    <company_website>https://gitlab.com</company_website>
+    <company_logo_url>https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/254/300/original/Tanuki_white_square.png</company_logo_url>
+    <job_title>Senior Backend Engineer - Database Change Management</job_title>
+    <job_type>full-time</job_type>
+    <category>Data Engineering</category>
+    <city>Bangalore</city>
+    <state></state>
+    <country>India</country>
+    <is_remote>False</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>08/24/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p>
+<p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href="https://www.youtube.com/watch?v=OuZIb5zszQI">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p>
+<p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><p><strong>Senior Backend Engineer - Database Change Management<br><br></strong>An overview of this role<br><br>As a Senior Backend Engineer, Database Upgrades, you'll help replace GitLab's sequential database migration system with a dependency graph model that makes upgrades faster and safer for GitLab.com and self-managed customers. You'll lead the design and delivery of a migration validation and test framework, including versioned fixture data across about 1,000 tables, a continuous integration (CI)-integrated test runner, and required correctness checks. You'll also serve as the senior technical anchor for our India-based engineering group, using clear written decisions to influence a team working across India, Asia-Pacific, Europe, the Middle East, Africa, and the United States. The manager for this role is based on the US West Coast.</p>
+<p>We're open to hiring this role at Staff level for a candidate whose experience matches that scope. At Staff level, you'll also own architecture decisions for the migration system and lead design work across teams.</p>
+<h2>What you’ll do</h2>
+<ul>
+<li value="1">Lead the design and delivery of the migration validation and test framework from initial approach through production use.</li>
+<li value="2">Contribute to a dependency graph migration system that supports safe ordering, parallel execution, and three-phase, low-downtime upgrades.</li>
+<li value="3">Mentor intermediate engineers through pairing, code review, and design feedback.</li>
+<li value="4">Make and document technical decisions asynchronously so team members can build on them across time zones.</li>
+<li value="5">Review schema migrations from engineers across GitLab for safety, backward compatibility, and reliability.</li>
+<li value="6">Collaborate with Distribution, Quality Assurance, Database Architecture, Database Automation, and database framework teams to support GitLab.com and self-managed deployment methods.</li>
+<li value="7">At Staff level, author and defend architecture proposals and represent the team in technical reviews across GitLab.</li>
+</ul>
+<h2>What you’ll bring</h2>
+<ul>
+<li value="1">Deep experience with Ruby on Rails in large production codebases, including Active Record migration internals, or comparable depth in another framework's migration system, such as Django or Ecto.</li>
+<li value="2">Production PostgreSQL experience, including schema changes on large tables, locking behavior, and data definition language failure modes under load.</li>
+<li value="3">A track record of leading delivery of a system from design through implementation and adoption.</li>
+<li value="4">Experience mentoring engineers through pairing, code review, and technical feedback.</li>
+<li value="5">Strong written communication and the ability to make progress independently in an asynchronous, distributed environment.</li>
+<li value="6">Sound judgment when balancing reliability, safety, backward compatibility, and delivery needs.</li>
+<li value="7">An interest in serving as a senior technical presence for an India-based engineering group while collaborating across regions.</li>
+</ul>
+<h2>About the team</h2>
+<p>We’re working on the largest change to GitLab's migration system in its history, with a focus on making upgrades safer and easier for customers, including the roughly one-third of self-managed customers who are two or more required upgrade stops behind.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p><div class="content-conclusion"><h4><strong>How GitLab Supports Full-Time Employees</strong></h4>
+<ul>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/">Benefits to support your health, finances, and well-being</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto">Flexible Paid Time Off&nbsp;</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/">Team Member Resource Groups</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/total-rewards/stock-options/">Equity Compensation &amp; Employee Stock Purchase Plan</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/">Growth and Development Fund</a></li>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave">Parental Leave</a>&nbsp;</li>
+</ul>
+<p>Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from <a href="https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups">underrepresented groups</a> are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.</p>
+<hr>
+<p><strong>Country Hiring Guidelines: </strong>GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&nbsp;&nbsp;</p>
+<p><strong>Privacy Policy: </strong>Please review our <a href="https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/" target="_blank">Recruitment Privacy Policy.</a> Your privacy is important to us.</p>
+<p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy" target="_blank">GitLab’s EEO Policy</a>&nbsp;and&nbsp;<a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices" target="_blank">EEO is the Law</a>. If you have a disability or special need that requires&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation" target="_blank">accommodation</a>, please let us know during the&nbsp;<a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process" target="_blank">recruiting process</a>.</p></div>]]></job_description>
+  </job>
+  <job>
+    <reference_id>greenhouse_gitlab_8722304002</reference_id>
+    <apply_url>https://job-boards.greenhouse.io/gitlab/jobs/8722304002</apply_url>
+    <job_url>https://job-boards.greenhouse.io/gitlab/jobs/8722304002</job_url>
+    <company_name>Gitlab</company_name>
+    <company_website>https://gitlab.com</company_website>
+    <company_logo_url>https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/254/300/original/Tanuki_white_square.png</company_logo_url>
+    <job_title>Intermediate Backend Engineer - Database Change Management</job_title>
+    <job_type>full-time</job_type>
+    <category>Data Engineering</category>
+    <city>Bangalore</city>
+    <state></state>
+    <country>India</country>
+    <is_remote>False</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>08/24/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p>
+<p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href="https://www.youtube.com/watch?v=OuZIb5zszQI">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p>
+<p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2><strong>Intermediate Backend Engineer - Database Change Management&nbsp;<br><br></strong></h2>
+<h2>An overview of this role</h2>
+<p>As an Intermediate Backend Engineer on the team that owns GitLab's database upgrade experience, you'll help build the software that makes upgrades safe, fast, and predictable for both GitLab.com and self-managed customers. Working in Ruby on Rails and PostgreSQL alongside experienced engineers, you'll build and test the system that applies database schema changes during an upgrade and catches problems before they reach customers. It is an all-remote, asynchronous, highly team-based environment where you'll get mentorship and grow your skills in backend engineering, system design, and the reliability issues customers face when upgrading.</p>
+<p>Some examples of our projects:</p>
+<ul>
+<li value="1"><a class="textLink" href="https://gitlab.com/groups/gitlab-org/-/epics/17719">System that runs database schema changes safely during upgrades</a></li>
+<li value="2"><a class="textLink" href="https://gitlab.com/groups/gitlab-org/-/epics/16152">Framework for testing schema changes before they ship to production</a></li>
+<li value="3">Checks that catch problems before upgrades run</li>
+</ul>
+<h2>What you’ll do</h2>
+<ul>
+<li value="1">Build and test the system that safely applies database schema changes during upgrades for both GitLab.com and self-managed customers.</li>
+<li value="2">Develop and maintain testing frameworks that validate schema changes before they reach production.</li>
+<li value="3">Implement checks and safeguards that catch problems before upgrades run, preventing failed or slow upgrades for customers.</li>
+<li value="4">Review and improve database schema migrations from other engineers and external contributors to ensure safety, consistency, and backward compatibility.</li>
+<li value="5">Work cross-functionally with operations, packaging, distribution, and QA teams to ensure the upgrade experience is reliable and smooth for all customers.</li>
+<li value="6">Document upgrade procedures, schema change patterns, and migration best practices to help other engineers work with and maintain the system.</li>
+<li value="7">Work with operations teams to identify their needs and continuously improve the safety and speed of customer upgrades, with success measured by fewer failed or slow upgrades and a more reliable upgrade experience.</li>
+</ul>
+<p>In this role, you'll succeed by shipping incremental improvements and, over time, taking ownership of larger pieces of work with shorter revision cycles.</p>
+<h2>What you’ll bring</h2>
+<ul>
+<li value="1">Professional software engineering experience working with PostgreSQL in large, complex production environments, including schema migrations and performance tuning.</li>
+<li value="2">Proficiency with Ruby on Rails, with experience designing, implementing, and reviewing backend features and services.</li>
+<li value="3">Ability to reason about software design, algorithms, and system-level trade-offs, particularly regarding reliability, safety, and backward compatibility in production upgrades.</li>
+<li value="4">Strong written communication skills and comfort working asynchronously in an all-remote, distributed team.</li>
+<li value="5">Self-directed work style with effective organizational skills and the ability to manage priorities as a "manager of one."</li>
+<li value="6">Alignment with GitLab's values, including transparency, teamwork, inclusion, and contribution to open source practices.</li>
+<li value="7">Experience working with operations or infrastructure teams, or willingness to learn how to effectively work across organizational boundaries.</li>
+</ul>
+<h2>About the team</h2>
+<p>We are a remote, agile backend group within the Database Excellence stage, with a focused mission on the database upgrade experience. We work asynchronously and partner closely with Database Architecture, Database Health, Database Automation, packaging and distribution, QA, and operations teams. Our work ensures that customers can upgrade safely, quickly, and predictably.</p>
+<h2><br><br></h2><div class="content-conclusion"><h4><strong>How GitLab Supports Full-Time Employees</strong></h4>
 <ul>
 <li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/">Benefits to support your health, finances, and well-being</a></li>
 <li><a href="https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto">Flexible Paid Time Off&nbsp;</a></li>
@@ -17949,6 +18059,69 @@
 <p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy" target="_blank">GitLab’s EEO Policy</a>&nbsp;and&nbsp;<a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices" target="_blank">EEO is the Law</a>. If you have a disability or special need that requires&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation" target="_blank">accommodation</a>, please let us know during the&nbsp;<a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process" target="_blank">recruiting process</a>.</p></div>]]></job_description>
   </job>
   <job>
+    <reference_id>greenhouse_gitlab_8463917002</reference_id>
+    <apply_url>https://job-boards.greenhouse.io/gitlab/jobs/8463917002</apply_url>
+    <job_url>https://job-boards.greenhouse.io/gitlab/jobs/8463917002</job_url>
+    <company_name>Gitlab</company_name>
+    <company_website>https://gitlab.com</company_website>
+    <company_logo_url>https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/254/300/original/Tanuki_white_square.png</company_logo_url>
+    <job_title>Engineering Manager, Gitlab Delivery: Upgrades</job_title>
+    <job_type>full-time</job_type>
+    <category>Platforms Engineering</category>
+    <city>Bangalore</city>
+    <state></state>
+    <country>India</country>
+    <is_remote>False</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>03/22/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p>
+<p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href="https://www.youtube.com/watch?v=OuZIb5zszQI">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p>
+<p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2>An overview of this role</h2>
+<p>As the <strong><strong class="textBold">Engineering Manager, GitLab Delivery - Operate</strong></strong>, you’ll guide a globally distributed team focused on making it easier for customers to deploy, upgrade, and run GitLab reliably in their own infrastructure. You’ll help shape the systems and tooling that support environments ranging from single-node virtual machines to large Kubernetes clusters, with a focus on <strong><strong class="textBold">reliability</strong></strong>, <strong><strong class="textBold">operational simplicity</strong></strong>, <strong><strong class="textBold">upgrade velocity</strong></strong>, and <strong><strong class="textBold">zero-downtime capabilities</strong></strong> across <strong><strong class="textBold">GitLab.com</strong></strong>, <strong><strong class="textBold">GitLab Dedicated</strong></strong>, and <strong><strong class="textBold">self-managed</strong></strong> deployments. In this role, you’ll partner closely with a Product Manager and work across Infrastructure Platforms to connect customer needs and business goals with practical engineering choices.</p>
+<p>This is a hands-on leadership opportunity for someone who wants to support a high-performing team while influencing how GitLab is delivered at scale. In your first year, you’ll help the team deliver better deployment and upgrade experiences, guide technical direction in areas like <strong><strong class="textBold">Kubernetes Operators</strong></strong>, <strong><strong class="textBold">Helm charts</strong></strong>, and <strong><strong class="textBold">cloud-native deployment architectures</strong></strong>, and contribute to incident management to help support the availability of GitLab.com.</p>
+<h2>What you’ll do</h2>
+<ul>
+<li value="1"><strong><strong class="textBold">Guide</strong></strong> a globally distributed engineering team and create an environment where team members can do strong work and grow in an all-remote, asynchronous setting.</li>
+<li value="2"><strong><strong class="textBold">Hire</strong></strong> onboard, and develop team members who align with GitLab’s values and contribute to an outcome-focused engineering organization.</li>
+<li value="3"><strong><strong class="textBold">Manage</strong></strong> and improve agile, asynchronous workflows so the team can deliver deployment tooling and services iteratively and reliably.</li>
+<li value="4"><strong><strong class="textBold">Partner</strong></strong> with Product Management and engineering peers across Infrastructure Platforms to align team priorities with customer needs and business goals.</li>
+<li value="5"><strong><strong class="textBold">Own</strong></strong> the reliability, upgrade experience, and operational simplicity of GitLab deployments across self-managed environments, GitLab.com, and GitLab Dedicated.</li>
+<li value="6"><strong><strong class="textBold">Improve</strong></strong> deployment patterns, observability, zero-downtime capabilities, and upgrade orchestration for customers running GitLab on their own infrastructure.</li>
+<li value="7"><strong><strong class="textBold">Apply</strong></strong> technical judgment in areas such as Kubernetes Operators, Helm charts, and stateful application delivery to guide choices and unblock the team.</li>
+<li value="8"><strong><strong class="textBold">Participate</strong></strong> in incident management and work with reliability and development teams to help maintain the availability of GitLab.com.</li>
+</ul>
+<h2>What you’ll bring</h2>
+<ul>
+<li value="1"><strong><strong class="textBold">Experience guiding</strong></strong> deployment tooling, platform engineering, or site reliability engineering teams that operate at meaningful scale.</li>
+<li value="2"><strong><strong class="textBold">Strong technical knowledge</strong></strong> of Kubernetes Operators, Helm charts for stateful applications, and upgrade orchestration patterns.</li>
+<li value="3"><strong><strong class="textBold">Familiarity with</strong></strong> cloud-native deployment architectures, database lifecycle management, schema migrations, and zero-downtime upgrade strategies.</li>
+<li value="4"><strong><strong class="textBold">Experience working on</strong></strong> enterprise-scale or consumer-scale platforms, ideally in a product-focused software environment.</li>
+<li value="5"><strong><strong class="textBold">Ability to investigate</strong></strong> complex deployment and operational issues and explain tradeoffs clearly to both technical and non-technical stakeholders.</li>
+<li value="6"><strong><strong class="textBold">Experience building</strong></strong> high-performing, distributed teams and supporting team members in an asynchronous, all-remote environment.</li>
+<li value="7"><strong><strong class="textBold">Effective cross-functional skills</strong></strong> across functions such as Infrastructure, Support, and Customer Success to improve customer outcomes.</li>
+<li value="8"><strong><strong class="textBold">Openness to diverse paths</strong></strong> into the role, including transferable skills, formal computer science education, or equivalent practical experience, along with interest in open source and developer tools.</li>
+</ul>
+<h2>About the team</h2>
+<p>The <strong><strong class="textBold">GitLab Delivery - Operate</strong></strong> team is part of the <strong><strong class="textBold">Infrastructure Platforms</strong></strong> department, which enables how GitLab operates, scales, and is delivered across <strong><strong class="textBold">GitLab.com</strong></strong>, <strong><strong class="textBold">GitLab Dedicated</strong></strong>, and <strong><strong class="textBold">self-managed</strong></strong> offerings. We are a globally distributed team that owns deployment tooling and operational patterns to help customers run GitLab reliably on infrastructure ranging from virtual machines to Kubernetes clusters. We work asynchronously across regions and work closely with other Infrastructure teams, along with Support and Customer Success, to turn lessons from operating GitLab at scale into product and tooling improvements that benefit customers across all deployment models.</p><div class="content-conclusion"><h4><strong>How GitLab Supports Full-Time Employees</strong></h4>
+<ul>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/">Benefits to support your health, finances, and well-being</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto">Flexible Paid Time Off&nbsp;</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/">Team Member Resource Groups</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/total-rewards/stock-options/">Equity Compensation &amp; Employee Stock Purchase Plan</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/">Growth and Development Fund</a></li>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave">Parental Leave</a>&nbsp;</li>
+</ul>
+<p>Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from <a href="https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups">underrepresented groups</a> are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.</p>
+<hr>
+<p><strong>Country Hiring Guidelines: </strong>GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&nbsp;&nbsp;</p>
+<p><strong>Privacy Policy: </strong>Please review our <a href="https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/" target="_blank">Recruitment Privacy Policy.</a> Your privacy is important to us.</p>
+<p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy" target="_blank">GitLab’s EEO Policy</a>&nbsp;and&nbsp;<a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices" target="_blank">EEO is the Law</a>. If you have a disability or special need that requires&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation" target="_blank">accommodation</a>, please let us know during the&nbsp;<a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process" target="_blank">recruiting process</a>.</p></div>]]></job_description>
+  </job>
+  <job>
     <reference_id>greenhouse_gitlab_8463922002</reference_id>
     <apply_url>https://job-boards.greenhouse.io/gitlab/jobs/8463922002</apply_url>
     <job_url>https://job-boards.greenhouse.io/gitlab/jobs/8463922002</job_url>
@@ -20744,84 +20917,6 @@
 <p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy" target="_blank">GitLab’s EEO Policy</a>&nbsp;and&nbsp;<a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices" target="_blank">EEO is the Law</a>. If you have a disability or special need that requires&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation" target="_blank">accommodation</a>, please let us know during the&nbsp;<a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process" target="_blank">recruiting process</a>.</p></div>]]></job_description>
   </job>
   <job>
-    <reference_id>greenhouse_gitlab_8591221002</reference_id>
-    <apply_url>https://job-boards.greenhouse.io/gitlab/jobs/8591221002</apply_url>
-    <job_url>https://job-boards.greenhouse.io/gitlab/jobs/8591221002</job_url>
-    <company_name>Gitlab</company_name>
-    <company_website>https://gitlab.com</company_website>
-    <company_logo_url>https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/254/300/original/Tanuki_white_square.png</company_logo_url>
-    <job_title>Senior Solutions Architect, Global SI (India)</job_title>
-    <job_type>full-time</job_type>
-    <category>SA</category>
-    <city>Bangalore</city>
-    <state></state>
-    <country>India</country>
-    <is_remote>True</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
-    <post_date>06/17/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p>
-<p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href="https://www.youtube.com/watch?v=OuZIb5zszQI">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p>
-<p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2>Overview of the Role</h2>
-<p>As an Ecosystem Solutions Architect, you'll be a trusted advisor to GitLab's partners, helping them understand how GitLab's DevSecOps platform can power differentiated, services-led solutions and generate repeatable, partner-sourced revenue. You'll support the Ecosystem Sales Managers, whose role is to work with field account teams to achieve their revenue goals by leveraging partners to scale the quantity, value, and strategic relevance of deals.</p>
-<p>Like all GitLab Solutions Architects, you are a trusted technical advisor who drives and manages the technology evaluation and validation stages, speaks about technology in industry-standard terms rather than GitLab-specific language, and creates reusable technical assets that scale across the region. The differentiator in this seat is the GSI lens: you build with and through the integrator, not only for an end customer.</p>
-<h2>What you'll do&nbsp;</h2>
-<ul>
-<li>Collaborate with Ecosystem Sales Managers and partner sales leaders to shape and execute Partner Activation Plans that drive partner-sourced pipeline and GitLab adoption.</li>
-<li>Own the technical aspects of partner activation, including building and delivering demos, reference architectures, and workshops that support contribution, commitment, and capability activation.</li>
-<li>Serve as the Directly Responsible Individual on partner technical activation plans, ensuring technical risks and gaps are identified, addressed, and aligned to mutual GitLab, partner, and customer outcomes.</li>
-<li>Build and maintain strong relationships with technical and business stakeholders at partners so they progress from awareness to actively leading high-value activities like deal registrations and solution development.</li>
-<li>Act as the partner advocate to internal teams by sharing field feedback and insights with Product, Engineering, Sales, Marketing, and Partner Enablement to influence roadmap and programs.</li>
-</ul>
-<h2>Must Haves</h2>
-<ul>
-<li>India-based and authorized to work in India (Bangalore, Mumbai, or Delhi).</li>
-<li>Senior-level technical pre-sales / Solutions Architect / sales engineering experience; able to guide stakeholders through solution design and evaluation.</li>
-<li>Proficiency across the end-to-end software development lifecycle, modern DevSecOps practices, and CI/CD workflows; hands-on experience with GitLab or a comparable source-control / CI-CD / DevSecOps platform, with the ability to map platform capabilities to customer use cases.</li>
-<li>Demonstrated experience working with or leadership roles inside India-based GSIs — partner-facing or delivery/practice side. This is the line that makes it a GSI hire, not a generic SA.</li>
-<li>Channel / cloud / partner-ecosystem fluency: understands partner-sourced motion, deal registration, co-sell, and services-led GTM — not a direct-sales-only background.</li>
-<li>Communicates credibly from practitioner to executive; can own a technical activation plan as the DRI.</li>
-<li>Embraces AI as a core productivity multiplier and incorporates it into daily workflow.</li>
-</ul>
-<h2>Nice To Haves</h2>
-<ul>
-<li>An existing network inside one or more of the named GSIs. - not merely as a line-worker, though</li>
-<li>Experience standing up partner delivery practices, enablement tracks, or certification programs.</li>
-<li>Cloud-marketplace / hyperscaler co-sell familiarity (AWS or GCP) — a plus, not a requirement.</li>
-<li>Depth in GitLab, AI development, Kubernetes, infrastructure-as-code, or application security (SAST/DAST).</li>
-<li>Coverage value beyond India proper (APAC GSI delivery hubs).</li>
-</ul>
-<p>&nbsp;</p>
-<h2>How GitLab will support you</h2>
-<ul>
-<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/">Be</a><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/" target="_blank">nefits to support your health, finances, and well-being</a></li>
-<li><a href="https://handbook.gitlab.com/handbook/people-group/paid-time-off/" target="_blank">Flexible Paid Time Off&nbsp;</a></li>
-<li><a href="https://handbook.gitlab.com/handbook/company/culture/inclusion/erg-guide/" target="_blank">Team Member Resource Groups</a></li>
-<li><a href="https://handbook.gitlab.com/handbook/total-rewards/stock-options/" target="_blank">Equity Compensation &amp; Employee Stock Purchase Plan</a></li>
-<li><a href="https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/" target="_blank">Growth and Development Fund</a></li>
-<li><a href="https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave" target="_blank">Parental leave </a></li>
-<li><a href="https://handbook.gitlab.com/handbook/finance/expenses/#equipment" target="_blank">Home office support</a></li>
-</ul>
-<h2>Hiring process</h2>
-<p><span style="font-weight: 400;">Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from </span><a href="https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups" target="_blank"><span style="font-weight: 400;">underrepresented groups</span></a><span style="font-weight: 400;"> are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.</span></p><div class="content-conclusion"><h4><strong>How GitLab Supports Full-Time Employees</strong></h4>
-<ul>
-<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/">Benefits to support your health, finances, and well-being</a></li>
-<li><a href="https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto">Flexible Paid Time Off&nbsp;</a></li>
-<li><a href="https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/">Team Member Resource Groups</a></li>
-<li><a href="https://handbook.gitlab.com/handbook/total-rewards/stock-options/">Equity Compensation &amp; Employee Stock Purchase Plan</a></li>
-<li><a href="https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/">Growth and Development Fund</a></li>
-<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave">Parental Leave</a>&nbsp;</li>
-</ul>
-<p>Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from <a href="https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups">underrepresented groups</a> are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.</p>
-<hr>
-<p><strong>Country Hiring Guidelines: </strong>GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&nbsp;&nbsp;</p>
-<p><strong>Privacy Policy: </strong>Please review our <a href="https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/" target="_blank">Recruitment Privacy Policy.</a> Your privacy is important to us.</p>
-<p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy" target="_blank">GitLab’s EEO Policy</a>&nbsp;and&nbsp;<a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices" target="_blank">EEO is the Law</a>. If you have a disability or special need that requires&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation" target="_blank">accommodation</a>, please let us know during the&nbsp;<a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process" target="_blank">recruiting process</a>.</p></div>]]></job_description>
-  </job>
-  <job>
     <reference_id>greenhouse_gitlab_8611700002_ksa</reference_id>
     <apply_url>https://job-boards.greenhouse.io/gitlab/jobs/8611700002</apply_url>
     <job_url>https://job-boards.greenhouse.io/gitlab/jobs/8611700002</job_url>
@@ -21256,6 +21351,70 @@
 <li><a href="https://handbook.gitlab.com/handbook/finance/expenses/#equipment" target="_blank">Home office</a> support</li>
 </ul>
 <p>Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from <a href="https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups">underrepresented groups</a> are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.</p><div class="content-conclusion"><h4><strong>How GitLab Supports Full-Time Employees</strong></h4>
+<ul>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/">Benefits to support your health, finances, and well-being</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto">Flexible Paid Time Off&nbsp;</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/">Team Member Resource Groups</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/total-rewards/stock-options/">Equity Compensation &amp; Employee Stock Purchase Plan</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/">Growth and Development Fund</a></li>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave">Parental Leave</a>&nbsp;</li>
+</ul>
+<p>Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from <a href="https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups">underrepresented groups</a> are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.</p>
+<hr>
+<p><strong>Country Hiring Guidelines: </strong>GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&nbsp;&nbsp;</p>
+<p><strong>Privacy Policy: </strong>Please review our <a href="https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/" target="_blank">Recruitment Privacy Policy.</a> Your privacy is important to us.</p>
+<p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy" target="_blank">GitLab’s EEO Policy</a>&nbsp;and&nbsp;<a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices" target="_blank">EEO is the Law</a>. If you have a disability or special need that requires&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation" target="_blank">accommodation</a>, please let us know during the&nbsp;<a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process" target="_blank">recruiting process</a>.</p></div>]]></job_description>
+  </job>
+  <job>
+    <reference_id>greenhouse_gitlab_8627022002</reference_id>
+    <apply_url>https://job-boards.greenhouse.io/gitlab/jobs/8627022002</apply_url>
+    <job_url>https://job-boards.greenhouse.io/gitlab/jobs/8627022002</job_url>
+    <company_name>Gitlab</company_name>
+    <company_website>https://gitlab.com</company_website>
+    <company_logo_url>https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/254/300/original/Tanuki_white_square.png</company_logo_url>
+    <job_title>Senior Solutions Architect - Turkey</job_title>
+    <job_type>full-time</job_type>
+    <category>SA</category>
+    <city></city>
+    <state></state>
+    <country>Turkey</country>
+    <is_remote>True</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>07/13/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p>
+<p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href="https://www.youtube.com/watch?v=OuZIb5zszQI">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p>
+<p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h1>Senior Solutions Architect</h1>
+<h2>An overview of this role</h2>
+<p>As a Senior Solutions Architect in GitLab's Southern EMEA team, you'll be a trusted advisor to GitLab prospects and customers in the Turkey region, helping them understand how GitLab's AI-powered DevSecOps platform addresses both technical requirements and business objectives across the entire software development lifecycle. You'll guide organizations through their digital transformation journeys, from planning through monitoring, using your technical expertise, understanding of cloud and modern software development practices, and strong customer empathy.</p>
+<p>Reporting to a regional Solutions Architect Manager and partnering closely with Account Executives and cross-functional teams, you'll own technical evaluations, including proofs of value and workshops, shape solution architectures, and serve as the voice of the customer back to Product Management. You'll focus on driving successful platform adoption, influencing revenue growth through solution selling, and building long-term, trust-based relationships that showcase GitLab's differentiated position in an AI-driven DevSecOps landscape.</p>
+<h2>What you’ll do</h2>
+<ul>
+<li value="1">Lead technical discovery, demos, and validation to show how GitLab's AI-powered DevSecOps platform meets customers' technical and business needs across the full lifecycle.</li>
+<li value="2">Drive the technical evaluation process as the directly responsible individual, including solution design, proof of concept or proof of value ownership, workshop design, and the technical components of tenders, audits, and value stream assessments.</li>
+<li value="3">Collaborate with Account Executives and regional sales teams across Italy to shape and execute account strategies that support new customer acquisition and expansion.</li>
+<li value="4">Build and deepen relationships with technical practitioners and business leaders, guiding them through GitLab-driven transformation and enabling them to become GitLab advocates.</li>
+<li value="5">Advise customers on modern software development, continuous integration, continuous deployment, security, and cloud practices, challenging existing approaches to improve return on investment.</li>
+<li value="6">Serve as the voice of the customer with Product Management, Engineering, Sales, and Marketing by sharing feedback, use cases, and competitive insights that inform roadmap and positioning.</li>
+<li value="7">Maintain and extend your technical expertise in GitLab, DevSecOps, AI, and related cloud technologies, creating reusable examples, best practice guidance, and technical collateral for customers and partners.</li>
+<li value="8">Invest in your own growth and development through ongoing learning, mentorship, and knowledge sharing to continuously improve the impact of the Solutions Architect team.</li>
+</ul>
+<h2>What you’ll bring</h2>
+<ul>
+<li value="1">Experience engaging with customers in technical pre-sales, consulting, or similar roles, guiding them through solution design and evaluation.</li>
+<li value="2">Proficiency with the end-to-end software development lifecycle, including modern DevSecOps practices and continuous integration and continuous deployment workflows.</li>
+<li value="3">Hands-on experience with GitLab or comparable source control, continuous integration and continuous deployment, and collaboration platforms, and the ability to map platform capabilities to customer use cases.</li>
+<li value="4">Practical knowledge of cloud computing concepts and related technologies, with the ability to discuss deployment, security, and operations options with technical teams.</li>
+<li value="5">Ability to lead technical evaluations such as proofs of concept or proofs of value, contribute to tenders or audits, and design and run workshops or value stream assessments.</li>
+<li value="6">Clear technical communication and presentation skills, with the ability to adapt messages for practitioners through to senior business and technical decision makers.</li>
+<li value="7">Skill in building trusted relationships, listening with empathy, and acting as a customer advocate to internal teams such as Product, Engineering, Sales, and Marketing.</li>
+<li value="8">Motivation to continuously develop professionally, including learning new technologies, deepening GitLab platform expertise, and applying transferable experience from related fields.</li>
+</ul>
+<h2>About the team</h2>
+<p>The Solutions Architect team is part of GitLab's Sales organization and serves as the technical counterpart to Account Executives, with this role focused on opportunities across Southern EMEA and reporting into a regional Solutions Architect Manager. The team helps customers realize the full value of GitLab's AI-powered DevSecOps platform by advising on architecture, running technical evaluations such as proofs of value, and guiding customers through digital transformation. We work closely with Sales, Product Management, Engineering, and Marketing, collaborating asynchronously across regions to share best practices, create reusable technical collateral, and act as the voice of the customer. The team is focused on helping customers modernize end-to-end software delivery, adopt GitLab at scale, and navigate a rapidly evolving AI and DevSecOps landscape.</p><div class="content-conclusion"><h4><strong>How GitLab Supports Full-Time Employees</strong></h4>
 <ul>
 <li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/">Benefits to support your health, finances, and well-being</a></li>
 <li><a href="https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto">Flexible Paid Time Off&nbsp;</a></li>
@@ -22969,6 +23128,75 @@
 <p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy" target="_blank">GitLab’s EEO Policy</a>&nbsp;and&nbsp;<a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices" target="_blank">EEO is the Law</a>. If you have a disability or special need that requires&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation" target="_blank">accommodation</a>, please let us know during the&nbsp;<a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process" target="_blank">recruiting process</a>.</p></div>]]></job_description>
   </job>
   <job>
+    <reference_id>greenhouse_gitlab_8736457002</reference_id>
+    <apply_url>https://job-boards.greenhouse.io/gitlab/jobs/8736457002</apply_url>
+    <job_url>https://job-boards.greenhouse.io/gitlab/jobs/8736457002</job_url>
+    <company_name>Gitlab</company_name>
+    <company_website>https://gitlab.com</company_website>
+    <company_logo_url>https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/254/300/original/Tanuki_white_square.png</company_logo_url>
+    <job_title>Business Development Representative (Sydney or Melbourne)</job_title>
+    <job_type>full-time</job_type>
+    <category>Sales Development</category>
+    <city></city>
+    <state></state>
+    <country>Australia</country>
+    <is_remote>True</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>08/24/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p>
+<p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href="https://www.youtube.com/watch?v=OuZIb5zszQI">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p>
+<p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2><strong>An overview of this role</strong></h2>
+<p>This position is based in Australia (remote) either in Sydney or Melbourne</p>
+<p>GitLab is looking for an enthusiastic and strategic Business Development Representative (BDR) to join our growing Go To Market team. As a BDR at GitLab, you will lead the initial outreach to targeted Enterprise and Mid-Market accounts in Australia, working in conjunction with our Field and Digital Marketing teams. In this role you will leverage creative marketing and sales tactics to prospect and engage with multiple buyer personas and roles to introduce GitLab's value proposition. You will be responsible for generating qualified meetings and pipeline for GitLab's Sales organization.</p>
+<p>Don't have extensive knowledge about GitLab yet? Don't worry! We have an extensive onboarding and training program at GitLab, and we will provide you with the necessary DevOps and GitLab knowledge to be successful in your role.</p>
+<h2><strong>What you’ll do</strong></h2>
+<ul>
+<li>Manage inbound lead flow and execute outbound prospecting initiatives.</li>
+<li>Conduct high-level discovery conversations in target accounts.</li>
+<li>Meet or exceed BDR sourced Sales Accepted Opportunity (SAO) volume targets.</li>
+<li>Collaborate with and leverage teammates to develop targeted lists, call strategies, and messaging to drive opportunities.</li>
+<li>Use business and industry knowledge to research accounts, identify key players, generate interest, identify compelling events, and develop accounts.</li>
+<li>Execute a variety of touches (call, email, social, etc.) on all leads in your assigned territory using Outreach.io.</li>
+<li>Manage, track, and report on all activities and results using Salesforce.</li>
+<li>Participate in documenting all processes in the GitLab handbook and update as needed with your Sales Development Manager.</li>
+<li>Collaborate with Field and Corporate Marketing to drive attendance at regional marketing events.</li>
+<li>Attend field marketing events to engage with participants, identify opportunities, and schedule meetings.</li>
+<li>Act as a mentor for new BDR hires in helping them navigate their key accounts.</li>
+<li>Collaborate with Digital Marketing to develop targeted marketing tactics against your assigned target accounts.</li>
+<li>Share innovative ideas and collaborate with the team to continuously refine BDR strategies and drive measurable results.</li>
+</ul>
+<h2><strong>What you’ll bring</strong></h2>
+<ul>
+<li>Professional proficiency in English. Proficiency in other Asian languages is a plus.</li>
+<li>Positive and energetic phone skills, excellent listening skills, and strong writing skills.</li>
+<li>A self-starter with a track record of successful, credible achievements.</li>
+<li>Knowledge of business process, roles, and organizational structure.</li>
+<li>Experience in developing Enterprise and Mid-Market business in Australia&nbsp;</li>
+<li>Demonstrated persistence in meeting or exceeding targets through consistent follow-up, effective objection handling, and continuous improvement.</li>
+<li>Demonstrated interest in GitLab and the DevOps space, such as staying current on GitLab releases or industry trends.</li>
+<li>Proficient in using Salesforce (incl. Salesforce reporting) and LinkedIn. Proficiency in other prospecting tools (Zoominfo, Cognism, Outreach, 6Sense, etc.) is a plus.</li>
+<li>Previous tech industry experience; experience in sales development, marketing, and/or sales; and outbound prospecting experience.</li>
+</ul>
+<div id="message-list_1787546295.665159"><strong>About the team</strong><br>As part of GitLab's growing Sales team, you will work closely with the Field and Digital Marketing teams, as well as the Sales and Customer Success teams. Our BDRs come from diverse backgrounds, and we provide extensive onboarding and training so you have the DevOps and GitLab knowledge you need to succeed. You'll partner with Account Executives, working fully remote and distributed across AUNZ, collaborating asynchronously through GitLab, video calls, and shared playbooks. This role provides a clear path for advancing to an Account Executive position within GitLab.</div><div class="content-conclusion"><h4><strong>How GitLab Supports Full-Time Employees</strong></h4>
+<ul>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/">Benefits to support your health, finances, and well-being</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto">Flexible Paid Time Off&nbsp;</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/">Team Member Resource Groups</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/total-rewards/stock-options/">Equity Compensation &amp; Employee Stock Purchase Plan</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/">Growth and Development Fund</a></li>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave">Parental Leave</a>&nbsp;</li>
+</ul>
+<p>Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from <a href="https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups">underrepresented groups</a> are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.</p>
+<hr>
+<p><strong>Country Hiring Guidelines: </strong>GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&nbsp;&nbsp;</p>
+<p><strong>Privacy Policy: </strong>Please review our <a href="https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/" target="_blank">Recruitment Privacy Policy.</a> Your privacy is important to us.</p>
+<p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy" target="_blank">GitLab’s EEO Policy</a>&nbsp;and&nbsp;<a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices" target="_blank">EEO is the Law</a>. If you have a disability or special need that requires&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation" target="_blank">accommodation</a>, please let us know during the&nbsp;<a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process" target="_blank">recruiting process</a>.</p></div>]]></job_description>
+  </job>
+  <job>
     <reference_id>greenhouse_gitlab_8478405002</reference_id>
     <apply_url>https://job-boards.greenhouse.io/gitlab/jobs/8478405002</apply_url>
     <job_url>https://job-boards.greenhouse.io/gitlab/jobs/8478405002</job_url>
@@ -23086,75 +23314,6 @@
 <h3><strong>About the team</strong></h3>
 <p>The SSCS Add-On team is part of GitLab's Software Supply Chain Security stage and is focused on building a commercial offering that addresses real supply chain security challenges for enterprise customers. The team works on capabilities that combine multiple parts of the GitLab product into a more complete security solution for organizations with strong compliance and risk management needs.</p>
 <p>The work is both technically interesting and strategically important. The team is building in a space shaped by fast-moving threats, evolving customer requirements, and close coordination with nearby teams across the broader security area. That combination creates an environment where engineers can contribute to product direction while solving practical backend challenges in a visible part of GitLab's platform. For more on how related teams work, see <a href="https://handbook.gitlab.com/handbook/engineering/development/sec/software-supply-chain-security/pipeline-security/">Team Handbook Page</a>.</p><div class="content-conclusion"><h4><strong>How GitLab Supports Full-Time Employees</strong></h4>
-<ul>
-<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/">Benefits to support your health, finances, and well-being</a></li>
-<li><a href="https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto">Flexible Paid Time Off&nbsp;</a></li>
-<li><a href="https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/">Team Member Resource Groups</a></li>
-<li><a href="https://handbook.gitlab.com/handbook/total-rewards/stock-options/">Equity Compensation &amp; Employee Stock Purchase Plan</a></li>
-<li><a href="https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/">Growth and Development Fund</a></li>
-<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave">Parental Leave</a>&nbsp;</li>
-</ul>
-<p>Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from <a href="https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups">underrepresented groups</a> are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.</p>
-<hr>
-<p><strong>Country Hiring Guidelines: </strong>GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&nbsp;&nbsp;</p>
-<p><strong>Privacy Policy: </strong>Please review our <a href="https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/" target="_blank">Recruitment Privacy Policy.</a> Your privacy is important to us.</p>
-<p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy" target="_blank">GitLab’s EEO Policy</a>&nbsp;and&nbsp;<a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices" target="_blank">EEO is the Law</a>. If you have a disability or special need that requires&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation" target="_blank">accommodation</a>, please let us know during the&nbsp;<a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process" target="_blank">recruiting process</a>.</p></div>]]></job_description>
-  </job>
-  <job>
-    <reference_id>greenhouse_gitlab_8480580002</reference_id>
-    <apply_url>https://job-boards.greenhouse.io/gitlab/jobs/8480580002</apply_url>
-    <job_url>https://job-boards.greenhouse.io/gitlab/jobs/8480580002</job_url>
-    <company_name>Gitlab</company_name>
-    <company_website>https://gitlab.com</company_website>
-    <company_logo_url>https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/254/300/original/Tanuki_white_square.png</company_logo_url>
-    <job_title>Senior Backend Engineer,  SSCS: Supply Chain</job_title>
-    <job_type>full-time</job_type>
-    <category>Sec Engineering</category>
-    <city>Bangalore</city>
-    <state></state>
-    <country>India</country>
-    <is_remote>False</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
-    <post_date>04/10/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p>
-<p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href="https://www.youtube.com/watch?v=OuZIb5zszQI">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p>
-<p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h3><strong>An overview of this role</strong></h3>
-<p>As a Senior Backend Engineer at GitLab, you will help build the core capabilities of our dedicated software supply chain security Add-On. This commercial offering helps organizations control what software enters their builds, verify the integrity of what they ship, and identify malicious packages before they reach production. You will work across a set of connected backend systems that support package policy enforcement, artifact signing and verification, provenance attestation, and malicious package intelligence.</p>
-<p>This is a founding role on a small team with a high level of responsibility. The engineering choices you make in API design, testing, performance, and security will help shape how this product grows. You will work closely with a Staff Backend Engineer on architecture and partner with other engineers to deliver secure, reliable features for enterprise customers with complex supply chain security needs. This role is well suited for someone who wants to combine solid Ruby on Rails backend skills with deep technical problems in security, platform design, and product development in GitLab's all-remote, asynchronous environment.</p>
-<p>Some examples of our projects:</p>
-<ul>
-<li>Building backend services for package policy enforcement and dependency control</li>
-<li>Implementing artifact signing, verification, and provenance workflows using the Sigstore ecosystem</li>
-</ul>
-<h3><strong>What you’ll do</strong></h3>
-<ul>
-<li>Design and implement backend features across the Add-On's software supply chain security surface, including policy enforcement, artifact signing and verification, provenance attestation APIs, and malicious package detection integrations, delivering secure capabilities that meet enterprise customer requirements.</li>
-<li>Build and improve the package policy evaluation engine, including rule compilation, request matching, enforcement decisions, and performance-sensitive execution paths tied to GitLab's Dependency Firewall infrastructure, improving accuracy, reliability, and execution performance.</li>
-<li>Develop artifact signing and verification workflows, including Sigstore and Cosign integrations, signing key lifecycle management, keyless signing with OpenID Connect (OIDC), and policy-based promotion gates, enabling trusted and auditable software delivery.</li>
-<li>Create and evolve the configuration interfaces that enterprise security teams use, including backend APIs and the GraphQL surface for expressing supply chain security requirements, improving usability and adoption for customer administrators.</li>
-<li>Integrate Add-On capabilities with GitLab's existing security policy framework, including policy inheritance and policy-as-code support through YAML, expanding coverage across customer security workflows.</li>
-<li>Collaborate with adjacent teams as malicious package intelligence is incorporated into the Add-On offering, helping deliver cohesive workflows and faster response to package risk.</li>
-<li>Write and maintain comprehensive RSpec and integration test coverage, and help improve test reliability across the team, increasing confidence in releases and reducing regressions.</li>
-<li>Review merge requests with a security-first mindset and implement solutions with substantial decision-making scope in partnership with the Staff Backend Engineer, maintaining code quality and secure engineering standards.</li>
-</ul>
-<h3><strong>What you’ll bring</strong></h3>
-<ul>
-<li>Proven backend engineering experience, including production Ruby on Rails expertise, as this is the team's primary language.</li>
-<li>Working knowledge of Go or a clear willingness and ability to ramp up quickly in it.</li>
-<li>Solid API design skills, including experience with REST, GraphQL, and defining clear internal service boundaries.</li>
-<li>Solid PostgreSQL fundamentals, including schema design, query optimization, and indexing strategies.</li>
-<li>Experience with Redis for caching and distributed coordination patterns.</li>
-<li>A security-aware engineering mindset, with sound judgment around trust boundaries, input validation, and failure modes.</li>
-<li>Familiarity with software supply chain security concepts such as Supply-chain Levels for Software Artifacts (SLSA), software bill of materials (SBOM), artifact signing, or related security scanning approaches.</li>
-<li>Interest in complex policy, registry, or platform problems, including areas such as rules engines, package ecosystems, cryptographic signing, or DevSecOps product development.</li>
-</ul>
-<h3><strong>About the team</strong></h3>
-<p>The SSCS Add-On team is part of GitLab's Software Supply Chain Security stage and is focused on building a commercial offering that addresses real supply chain security challenges for enterprise customers. The team works on capabilities that combine multiple parts of the GitLab product into a more complete security solution for organizations with strong compliance and risk management needs.</p>
-<p>The work is both technically interesting and strategically important. The team is building in a space shaped by fast-moving threats, evolving customer requirements, and close coordination with nearby teams across the broader security area. That combination creates an environment where engineers can contribute to product direction while solving practical backend challenges in a visible part of GitLab's platform. For more on how related teams work, see&nbsp;<a class="textLink" href="https://handbook.gitlab.com/handbook/engineering/development/sec/software-supply-chain-security/pipeline-security/" target="_blank">Team Handbook Page</a>.</p><div class="content-conclusion"><h4><strong>How GitLab Supports Full-Time Employees</strong></h4>
 <ul>
 <li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/">Benefits to support your health, finances, and well-being</a></li>
 <li><a href="https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto">Flexible Paid Time Off&nbsp;</a></li>
@@ -28416,7 +28575,9 @@ We don't want you to miss any communication from us! To ensure you receive updat
 <li>Experience with SQL, business intelligence tools, or automation platforms preferred</li>
 <li>Exceptional communication skills and ability to thrive in fast-paced, ambiguous environments</li>
 <li>Strong bias toward action with demonstrated ownership mentality</li>
-</ul><div class="content-conclusion"><p>*Offers will also include bonus + equity</p>
+</ul>
+<h2><strong>What’s In It For You</strong></h2>
+<p>Invisible is committed to fair and competitive pay, ensuring that compensation reflects both market conditions and the value each team member brings. Our salary structure accounts for regional differences in cost of living while maintaining internal equity.</p><div class="content-conclusion"><p>*Offers will also include bonus + equity</p>
 <p>You can find more information about our geographic pay tiers <strong><a class="c-link" href="https://invisibletech.ai/compensation-and-pay-tiers" target="_blank" data-stringify-link="https://invisibletech.ai/compensation-and-pay-tiers" data-sk="tooltip_parent">here</a>.</strong> During the interview process, your Invisible Talent Acquisition Partner will confirm which tier applies to your location. For candidates outside the U.S., compensation is adjusted to reflect local market conditions and cost of living.<br><br>Bonuses and equity are included in all offers. Final compensation is determined by a combination of factors, including location, job-related experience, skills, knowledge, internal pay equity, and overall market conditions. Because of this, every offer is unique. Additional details on total compensation and benefits will be discussed during the hiring process.</p>
 <h2><strong>What It's Like to Work at Invisible:</strong></h2>
 <p><span style="color: rgb(0, 0, 0);">At Invisible, we’re not just redefining work—we’re reinventing it. We operate at the intersection of advanced AI and human ingenuity, pushing the boundaries of what’s possible to unlock productivity and scale. Ownership is at the core of everything we do. Here, you won’t just execute tasks—you’ll build, innovate, and shape the future alongside world-class clients pushing the boundaries of AI.</span></p>
@@ -28473,7 +28634,9 @@ We don't want you to miss any communication from us! To ensure you receive updat
 <li>Experience with SQL, business intelligence tools, or automation platforms preferred</li>
 <li>Exceptional communication skills and ability to thrive in fast-paced, ambiguous environments</li>
 <li>Strong bias toward action with demonstrated ownership mentality</li>
-</ul><div class="content-conclusion"><p>*Offers will also include bonus + equity</p>
+</ul>
+<h2><strong>What’s In It For You</strong></h2>
+<p>Invisible is committed to fair and competitive pay, ensuring that compensation reflects both market conditions and the value each team member brings. Our salary structure accounts for regional differences in cost of living while maintaining internal equity.</p><div class="content-conclusion"><p>*Offers will also include bonus + equity</p>
 <p>You can find more information about our geographic pay tiers <strong><a class="c-link" href="https://invisibletech.ai/compensation-and-pay-tiers" target="_blank" data-stringify-link="https://invisibletech.ai/compensation-and-pay-tiers" data-sk="tooltip_parent">here</a>.</strong> During the interview process, your Invisible Talent Acquisition Partner will confirm which tier applies to your location. For candidates outside the U.S., compensation is adjusted to reflect local market conditions and cost of living.<br><br>Bonuses and equity are included in all offers. Final compensation is determined by a combination of factors, including location, job-related experience, skills, knowledge, internal pay equity, and overall market conditions. Because of this, every offer is unique. Additional details on total compensation and benefits will be discussed during the hiring process.</p>
 <h2><strong>What It's Like to Work at Invisible:</strong></h2>
 <p><span style="color: rgb(0, 0, 0);">At Invisible, we’re not just redefining work—we’re reinventing it. We operate at the intersection of advanced AI and human ingenuity, pushing the boundaries of what’s possible to unlock productivity and scale. Ownership is at the core of everything we do. Here, you won’t just execute tasks—you’ll build, innovate, and shape the future alongside world-class clients pushing the boundaries of AI.</span></p>
@@ -28647,7 +28810,7 @@ We don't want you to miss any communication from us! To ensure you receive updat
 <li><strong>Quantitative Problem Solving &amp; Strategic Business Cases: </strong>Build highly rigorous, assumption-driven, and fact-based business cases to drive executive-level decision-making. Establish real-time analytics, define KPIs, and lead continuous performance analysis to ensure exceptional quality and workflow optimization at scale.</li>
 <li><strong>Mentorship &amp; Team Leadership:</strong> Serve as a coach and mentor to other Enterprise Solutions Managers. Guide and upskill operational staff and internal delivery teams, fostering a culture of rigorous problem-solving, extreme ownership, and operational excellence.</li>
 </ul>
-<p><strong>What We Need</strong></p>
+<h2><strong>What We Need</strong></h2>
 <ul>
 <li><strong>The Profile (5–8+ Years Experience):</strong> High-rigor analytical and operational leadership experience from top-tier management consulting (e.g., MBB Engagement Manager, Big 4 Manager/Senior Manager) or a high-growth tech environment (e.g., Senior BizOps, Strategy &amp; Operations, or Strategic Delivery).</li>
 <li><strong>Executive Client-Facing Excellence:</strong> Strong executive presence and a proven ability to lead complex, multi-stakeholder enterprise accounts, directly advising and influencing C-level and VP-level leadership.</li>
@@ -28656,7 +28819,10 @@ We don't want you to miss any communication from us! To ensure you receive updat
 <li><strong>Cross-Functional Execution:</strong> Demonstrated experience gathering requirements from commercial or go-to-market teams and working tightly alongside technical leadership and engineers to execute on software, automation, or AI solutions.</li>
 <li><strong>Deep Project Management:</strong> Exceptional ability to break down massive, highly ambiguous projects into actionable workstreams and execute them with relentless precision.</li>
 <li><strong>Mindset:</strong> Strong bias toward action, absolute ownership mentality, and the ability to thrive in a fast-paced, highly ambiguous environment.</li>
-</ul><div class="content-pay-transparency"><div class="pay-input"><div class="title">Salary Range</div><div class="pay-range"><span>$176,000</span><span class="divider">&mdash;</span><span>$207,000 USD</span></div></div></div><div class="content-conclusion"><p>*Offers will also include bonus + equity</p>
+</ul>
+<h2><strong>What’s In It For You</strong></h2>
+<p>Invisible is committed to fair and competitive pay, ensuring that compensation reflects both market conditions and the value each team member brings. Our salary structure accounts for regional differences in cost of living while maintaining internal equity.</p>
+<p>For this position, the annual salary ranges by location are:</p><div class="content-pay-transparency"><div class="pay-input"><div class="title">Salary Range</div><div class="pay-range"><span>$176,000</span><span class="divider">&mdash;</span><span>$207,000 USD</span></div></div></div><div class="content-conclusion"><p>*Offers will also include bonus + equity</p>
 <p>You can find more information about our geographic pay tiers <strong><a class="c-link" href="https://invisibletech.ai/compensation-and-pay-tiers" target="_blank" data-stringify-link="https://invisibletech.ai/compensation-and-pay-tiers" data-sk="tooltip_parent">here</a>.</strong> During the interview process, your Invisible Talent Acquisition Partner will confirm which tier applies to your location. For candidates outside the U.S., compensation is adjusted to reflect local market conditions and cost of living.<br><br>Bonuses and equity are included in all offers. Final compensation is determined by a combination of factors, including location, job-related experience, skills, knowledge, internal pay equity, and overall market conditions. Because of this, every offer is unique. Additional details on total compensation and benefits will be discussed during the hiring process.</p>
 <h2><strong>What It's Like to Work at Invisible:</strong></h2>
 <p><span style="color: rgb(0, 0, 0);">At Invisible, we’re not just redefining work—we’re reinventing it. We operate at the intersection of advanced AI and human ingenuity, pushing the boundaries of what’s possible to unlock productivity and scale. Ownership is at the core of everything we do. Here, you won’t just execute tasks—you’ll build, innovate, and shape the future alongside world-class clients pushing the boundaries of AI.</span></p>
@@ -28703,7 +28869,7 @@ We don't want you to miss any communication from us! To ensure you receive updat
 <li><strong>Quantitative Problem Solving &amp; Strategic Business Cases: </strong>Build highly rigorous, assumption-driven, and fact-based business cases to drive executive-level decision-making. Establish real-time analytics, define KPIs, and lead continuous performance analysis to ensure exceptional quality and workflow optimization at scale.</li>
 <li><strong>Mentorship &amp; Team Leadership:</strong> Serve as a coach and mentor to other Enterprise Solutions Managers. Guide and upskill operational staff and internal delivery teams, fostering a culture of rigorous problem-solving, extreme ownership, and operational excellence.</li>
 </ul>
-<p><strong>What We Need</strong></p>
+<h2><strong>What We Need</strong></h2>
 <ul>
 <li><strong>The Profile (5–8+ Years Experience):</strong> High-rigor analytical and operational leadership experience from top-tier management consulting (e.g., MBB Engagement Manager, Big 4 Manager/Senior Manager) or a high-growth tech environment (e.g., Senior BizOps, Strategy &amp; Operations, or Strategic Delivery).</li>
 <li><strong>Executive Client-Facing Excellence:</strong> Strong executive presence and a proven ability to lead complex, multi-stakeholder enterprise accounts, directly advising and influencing C-level and VP-level leadership.</li>
@@ -28712,7 +28878,10 @@ We don't want you to miss any communication from us! To ensure you receive updat
 <li><strong>Cross-Functional Execution:</strong> Demonstrated experience gathering requirements from commercial or go-to-market teams and working tightly alongside technical leadership and engineers to execute on software, automation, or AI solutions.</li>
 <li><strong>Deep Project Management:</strong> Exceptional ability to break down massive, highly ambiguous projects into actionable workstreams and execute them with relentless precision.</li>
 <li><strong>Mindset:</strong> Strong bias toward action, absolute ownership mentality, and the ability to thrive in a fast-paced, highly ambiguous environment.</li>
-</ul><div class="content-pay-transparency"><div class="pay-input"><div class="title">Salary Range</div><div class="pay-range"><span>$176,000</span><span class="divider">&mdash;</span><span>$207,000 USD</span></div></div></div><div class="content-conclusion"><p>*Offers will also include bonus + equity</p>
+</ul>
+<h2><strong>What’s In It For You</strong></h2>
+<p>Invisible is committed to fair and competitive pay, ensuring that compensation reflects both market conditions and the value each team member brings. Our salary structure accounts for regional differences in cost of living while maintaining internal equity.</p>
+<p>For this position, the annual salary ranges by location are:</p><div class="content-pay-transparency"><div class="pay-input"><div class="title">Salary Range</div><div class="pay-range"><span>$176,000</span><span class="divider">&mdash;</span><span>$207,000 USD</span></div></div></div><div class="content-conclusion"><p>*Offers will also include bonus + equity</p>
 <p>You can find more information about our geographic pay tiers <strong><a class="c-link" href="https://invisibletech.ai/compensation-and-pay-tiers" target="_blank" data-stringify-link="https://invisibletech.ai/compensation-and-pay-tiers" data-sk="tooltip_parent">here</a>.</strong> During the interview process, your Invisible Talent Acquisition Partner will confirm which tier applies to your location. For candidates outside the U.S., compensation is adjusted to reflect local market conditions and cost of living.<br><br>Bonuses and equity are included in all offers. Final compensation is determined by a combination of factors, including location, job-related experience, skills, knowledge, internal pay equity, and overall market conditions. Because of this, every offer is unique. Additional details on total compensation and benefits will be discussed during the hiring process.</p>
 <h2><strong>What It's Like to Work at Invisible:</strong></h2>
 <p><span style="color: rgb(0, 0, 0);">At Invisible, we’re not just redefining work—we’re reinventing it. We operate at the intersection of advanced AI and human ingenuity, pushing the boundaries of what’s possible to unlock productivity and scale. Ownership is at the core of everything we do. Here, you won’t just execute tasks—you’ll build, innovate, and shape the future alongside world-class clients pushing the boundaries of AI.</span></p>
