@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jobs file_date=20261126>
+<jobs file_date=20261127>
   <job>
     <reference_id>greenhouse_sourcegraph91_6103628004</reference_id>
     <apply_url>https://job-boards.greenhouse.io/sourcegraph91/jobs/6103628004</apply_url>
@@ -7233,6 +7233,134 @@
 <p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy" target="_blank">GitLab’s EEO Policy</a>&nbsp;and&nbsp;<a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices" target="_blank">EEO is the Law</a>. If you have a disability or special need that requires&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation" target="_blank">accommodation</a>, please let us know during the&nbsp;<a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process" target="_blank">recruiting process</a>.</p></div>]]></job_description>
   </job>
   <job>
+    <reference_id>greenhouse_gitlab_8922013002_canada</reference_id>
+    <apply_url>https://job-boards.greenhouse.io/gitlab/jobs/8922013002</apply_url>
+    <job_url>https://job-boards.greenhouse.io/gitlab/jobs/8922013002</job_url>
+    <company_name>Gitlab</company_name>
+    <company_website>https://gitlab.com</company_website>
+    <company_logo_url>https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/254/300/original/Tanuki_white_square.png</company_logo_url>
+    <job_title>Senior Data Scientist, Enterprise Analytics</job_title>
+    <job_type>full-time</job_type>
+    <category>Data</category>
+    <city></city>
+    <state></state>
+    <country>Canada</country>
+    <is_remote>True</is_remote>
+    <salary_from>126400.0</salary_from>
+    <salary_to>213600.0</salary_to>
+    <salary_currency>USD</salary_currency>
+    <salary_period>annual</salary_period>
+    <post_date>10/30/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p>
+<p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href="https://www.youtube.com/watch?v=OuZIb5zszQI">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p>
+<p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h1><strong>An Overview of this role</strong></h1>
+<p>As a Senior Data Scientist at GitLab on the Enterprise Analytics team, you’ll be a trusted analytical partner to Sales, Revenue Operations, and Finance, helping define how we measure go-to-market performance and where we invest to grow. This is a strategic and hands-on role. You’ll apply statistical, experimentation, and machine learning methods to forecast outcomes, explain what drives activation, conversion, expansion, and retention, and size opportunities. You’ll also help build the company-level reporting and GTM performance views that executives use to run the business, covering consumption, ARR, and first orders.</p>
+<h1><strong>What you’ll do</strong></h1>
+<ul>
+<li>Embed yourself with business teams to become a trusted partner supporting insight generation and strategic decision making across GTM.</li>
+<li>Perform exploratory data analysis to uncover behavioral trends, long-term patterns, and the key drivers and levers behind business performance, and communicate their impact clearly to non-technical audiences.</li>
+<li>Build and productionize machine learning models - such as propensity, product-qualified lead (PQL) scoring, churn, and expansion models - including training, validation, testing, and feature engineering, using MLOps practices and tooling (CI/CD for ML pipelines, model registries, automated retraining, and monitoring) to move work reliably from notebook to production</li>
+<li>Design, run, and evaluate growth experiments (A/B tests and quasi-experiments) on onboarding, pricing and packaging, and upgrade flows, and measure their impact on activation, conversion, and retention</li>
+<li>Build and operationalize agentic workflows for analysis, modeling, and pipeline automation, with evaluation and monitoring that keep agent-generated insights accurate, traceable, and trustworthy.</li>
+<li>Contribute to GitLab’s Semantic Layer enabling stakeholders and agents to self-serve metrics using trusts and tested sources.</li>
+<li>Write production-grade Python and SQL that meets internal standards for style, maintainability, and performance in a high-scale database environment; maintain and advocate for these standards through code review</li>
+<li>Help grow the Data Science function by defining and socializing best practices within a DataOps and MLOps data ecosystem</li>
+</ul>
+<h1><strong>What you’ll bring</strong></h1>
+<ul>
+<li>5+ years of professional experience in GTM analytics, data science, or a similar technical role</li>
+<li>Demonstrated ability to translate ambiguous business problems into clear, measurable questions and communicate technical concepts effectively to non-technical stakeholders.</li>
+<li>Experience with experimentation and causal inference (A/B testing, power analysis, quasi-experimental methods) and with statistical and machine learning methods such as regression, classification, clustering, and survival analysis</li>
+<li>Deep, hands-on understanding of SQL in cloud data warehouses (like Snowflake SQL), including working with product usage and event data, and in business intelligence tools (Looker, Tableau, Hex, or similar)</li>
+<li>Professional experience using Python for statistical modeling, machine learning, and production data science. With hands-on experience in pandas, NumPy, scikit-learn, Jupyter, and related libraries such as LightGBM and XGBoost</li>
+<li>Hands-on experience building agentic workflows with AI coding agents (e.g., Claude Code, OpenCode, or similar), including connecting agents to the right context, tools, and platforms such as MLflow, and evaluating their output for accuracy and reliability.</li>
+<li>Practical understanding of the ML lifecycle in production: CI/CD for models, versioning, automated retraining, drift/performance monitoring, and rollback</li>
+<li>Experience working in a B2B company working with motions and metrics, including Consumption, CRR, ARR, and Churn &amp; Contraction</li>
+<li>Track record of building and shipping 2 or more production models or data products (e.g., propensity, PQL scoring, churn, or expansion models) and of delivering 4 or more analyses or experiments that influenced product or go-to-market decisions</li>
+<li>Self-motivated and self-managing, with strong organizational skills</li>
+<li>Ability to use GitLab and to thrive in a fully remote organization</li>
+</ul>
+<p><strong>About the Team</strong><strong><br></strong><strong><br></strong>The Enterprise Analytics team builds the trusted data products and insights behind GitLab’s company-wide sales, revenue, and finance reporting. We work across the business on metrics including First Orders, pipeline, CRR, ARR, and other key indicators, helping leaders make informed decisions and teams understand how their work contributes to GitLab’s growth.</p><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p><em>The base salary range for this role’s listed level is currently for residents of the&nbsp;United States only. This range is intended to reflect the role's base salary rate in locations throughout the US.&nbsp;Grade level and salary ranges are determined through interviews and a review of education, experience, knowledge, skills, abilities of the applicant, equity with other team members, alignment with market data,&nbsp;and geographic location.&nbsp;The base salary range does not include any bonuses, equity, or benefits. See more information on our <a class="waffle-rich-text-link" href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/" data-sheets-formula-bar-text-link="https://bit.ly/GLBeneUS" data-sheets-formula-bar-text-style="font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">benefits</a><span data-sheets-formula-bar-text-style="font-size:12px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;"> and </span><a class="waffle-rich-text-link" href="https://about.gitlab.com/handbook/stock-options/" data-sheets-formula-bar-text-link="https://bit.ly/GLequity" data-sheets-formula-bar-text-style="font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">equity</a>. Sales roles are also eligible for incentive pay targeted at up to 100% of the offered base salary.</em></p></div><div class="title">United States Salary Range</div><div class="pay-range"><span>$126,400</span><span class="divider">&mdash;</span><span>$213,600 USD</span></div></div></div><div class="content-conclusion"><h4><strong>How GitLab Supports Full-Time Employees</strong></h4>
+<ul>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/">Benefits to support your health, finances, and well-being</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto">Flexible Paid Time Off&nbsp;</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/">Team Member Resource Groups</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/total-rewards/stock-options/">Equity Compensation &amp; Employee Stock Purchase Plan</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/">Growth and Development Fund</a></li>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave">Parental Leave</a>&nbsp;</li>
+</ul>
+<p>Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from <a href="https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups">underrepresented groups</a> are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.</p>
+<hr>
+<p><strong>Country Hiring Guidelines: </strong>GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&nbsp;&nbsp;</p>
+<p><strong>Privacy Policy: </strong>Please review our <a href="https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/" target="_blank">Recruitment Privacy Policy.</a> Your privacy is important to us.</p>
+<p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy" target="_blank">GitLab’s EEO Policy</a>&nbsp;and&nbsp;<a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices" target="_blank">EEO is the Law</a>. If you have a disability or special need that requires&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation" target="_blank">accommodation</a>, please let us know during the&nbsp;<a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process" target="_blank">recruiting process</a>.</p></div>]]></job_description>
+  </job>
+  <job>
+    <reference_id>greenhouse_gitlab_8922013002_unitedstates</reference_id>
+    <apply_url>https://job-boards.greenhouse.io/gitlab/jobs/8922013002</apply_url>
+    <job_url>https://job-boards.greenhouse.io/gitlab/jobs/8922013002</job_url>
+    <company_name>Gitlab</company_name>
+    <company_website>https://gitlab.com</company_website>
+    <company_logo_url>https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/254/300/original/Tanuki_white_square.png</company_logo_url>
+    <job_title>Senior Data Scientist, Enterprise Analytics</job_title>
+    <job_type>full-time</job_type>
+    <category>Data</category>
+    <city></city>
+    <state></state>
+    <country>United States</country>
+    <is_remote>True</is_remote>
+    <salary_from>126400.0</salary_from>
+    <salary_to>213600.0</salary_to>
+    <salary_currency>USD</salary_currency>
+    <salary_period>annual</salary_period>
+    <post_date>10/30/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p>
+<p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href="https://www.youtube.com/watch?v=OuZIb5zszQI">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p>
+<p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h1><strong>An Overview of this role</strong></h1>
+<p>As a Senior Data Scientist at GitLab on the Enterprise Analytics team, you’ll be a trusted analytical partner to Sales, Revenue Operations, and Finance, helping define how we measure go-to-market performance and where we invest to grow. This is a strategic and hands-on role. You’ll apply statistical, experimentation, and machine learning methods to forecast outcomes, explain what drives activation, conversion, expansion, and retention, and size opportunities. You’ll also help build the company-level reporting and GTM performance views that executives use to run the business, covering consumption, ARR, and first orders.</p>
+<h1><strong>What you’ll do</strong></h1>
+<ul>
+<li>Embed yourself with business teams to become a trusted partner supporting insight generation and strategic decision making across GTM.</li>
+<li>Perform exploratory data analysis to uncover behavioral trends, long-term patterns, and the key drivers and levers behind business performance, and communicate their impact clearly to non-technical audiences.</li>
+<li>Build and productionize machine learning models - such as propensity, product-qualified lead (PQL) scoring, churn, and expansion models - including training, validation, testing, and feature engineering, using MLOps practices and tooling (CI/CD for ML pipelines, model registries, automated retraining, and monitoring) to move work reliably from notebook to production</li>
+<li>Design, run, and evaluate growth experiments (A/B tests and quasi-experiments) on onboarding, pricing and packaging, and upgrade flows, and measure their impact on activation, conversion, and retention</li>
+<li>Build and operationalize agentic workflows for analysis, modeling, and pipeline automation, with evaluation and monitoring that keep agent-generated insights accurate, traceable, and trustworthy.</li>
+<li>Contribute to GitLab’s Semantic Layer enabling stakeholders and agents to self-serve metrics using trusts and tested sources.</li>
+<li>Write production-grade Python and SQL that meets internal standards for style, maintainability, and performance in a high-scale database environment; maintain and advocate for these standards through code review</li>
+<li>Help grow the Data Science function by defining and socializing best practices within a DataOps and MLOps data ecosystem</li>
+</ul>
+<h1><strong>What you’ll bring</strong></h1>
+<ul>
+<li>5+ years of professional experience in GTM analytics, data science, or a similar technical role</li>
+<li>Demonstrated ability to translate ambiguous business problems into clear, measurable questions and communicate technical concepts effectively to non-technical stakeholders.</li>
+<li>Experience with experimentation and causal inference (A/B testing, power analysis, quasi-experimental methods) and with statistical and machine learning methods such as regression, classification, clustering, and survival analysis</li>
+<li>Deep, hands-on understanding of SQL in cloud data warehouses (like Snowflake SQL), including working with product usage and event data, and in business intelligence tools (Looker, Tableau, Hex, or similar)</li>
+<li>Professional experience using Python for statistical modeling, machine learning, and production data science. With hands-on experience in pandas, NumPy, scikit-learn, Jupyter, and related libraries such as LightGBM and XGBoost</li>
+<li>Hands-on experience building agentic workflows with AI coding agents (e.g., Claude Code, OpenCode, or similar), including connecting agents to the right context, tools, and platforms such as MLflow, and evaluating their output for accuracy and reliability.</li>
+<li>Practical understanding of the ML lifecycle in production: CI/CD for models, versioning, automated retraining, drift/performance monitoring, and rollback</li>
+<li>Experience working in a B2B company working with motions and metrics, including Consumption, CRR, ARR, and Churn &amp; Contraction</li>
+<li>Track record of building and shipping 2 or more production models or data products (e.g., propensity, PQL scoring, churn, or expansion models) and of delivering 4 or more analyses or experiments that influenced product or go-to-market decisions</li>
+<li>Self-motivated and self-managing, with strong organizational skills</li>
+<li>Ability to use GitLab and to thrive in a fully remote organization</li>
+</ul>
+<p><strong>About the Team</strong><strong><br></strong><strong><br></strong>The Enterprise Analytics team builds the trusted data products and insights behind GitLab’s company-wide sales, revenue, and finance reporting. We work across the business on metrics including First Orders, pipeline, CRR, ARR, and other key indicators, helping leaders make informed decisions and teams understand how their work contributes to GitLab’s growth.</p><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p><em>The base salary range for this role’s listed level is currently for residents of the&nbsp;United States only. This range is intended to reflect the role's base salary rate in locations throughout the US.&nbsp;Grade level and salary ranges are determined through interviews and a review of education, experience, knowledge, skills, abilities of the applicant, equity with other team members, alignment with market data,&nbsp;and geographic location.&nbsp;The base salary range does not include any bonuses, equity, or benefits. See more information on our <a class="waffle-rich-text-link" href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/" data-sheets-formula-bar-text-link="https://bit.ly/GLBeneUS" data-sheets-formula-bar-text-style="font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">benefits</a><span data-sheets-formula-bar-text-style="font-size:12px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;"> and </span><a class="waffle-rich-text-link" href="https://about.gitlab.com/handbook/stock-options/" data-sheets-formula-bar-text-link="https://bit.ly/GLequity" data-sheets-formula-bar-text-style="font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">equity</a>. Sales roles are also eligible for incentive pay targeted at up to 100% of the offered base salary.</em></p></div><div class="title">United States Salary Range</div><div class="pay-range"><span>$126,400</span><span class="divider">&mdash;</span><span>$213,600 USD</span></div></div></div><div class="content-conclusion"><h4><strong>How GitLab Supports Full-Time Employees</strong></h4>
+<ul>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/">Benefits to support your health, finances, and well-being</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto">Flexible Paid Time Off&nbsp;</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/">Team Member Resource Groups</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/total-rewards/stock-options/">Equity Compensation &amp; Employee Stock Purchase Plan</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/">Growth and Development Fund</a></li>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave">Parental Leave</a>&nbsp;</li>
+</ul>
+<p>Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from <a href="https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups">underrepresented groups</a> are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.</p>
+<hr>
+<p><strong>Country Hiring Guidelines: </strong>GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&nbsp;&nbsp;</p>
+<p><strong>Privacy Policy: </strong>Please review our <a href="https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/" target="_blank">Recruitment Privacy Policy.</a> Your privacy is important to us.</p>
+<p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy" target="_blank">GitLab’s EEO Policy</a>&nbsp;and&nbsp;<a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices" target="_blank">EEO is the Law</a>. If you have a disability or special need that requires&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation" target="_blank">accommodation</a>, please let us know during the&nbsp;<a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process" target="_blank">recruiting process</a>.</p></div>]]></job_description>
+  </job>
+  <job>
     <reference_id>greenhouse_gitlab_8922062002_canada</reference_id>
     <apply_url>https://job-boards.greenhouse.io/gitlab/jobs/8922062002</apply_url>
     <job_url>https://job-boards.greenhouse.io/gitlab/jobs/8922062002</job_url>
@@ -11336,6 +11464,71 @@
 <h2><strong>About the team</strong></h2>
 <p>You will join the <strong>Enterprise Technology &amp; AI</strong> team in the CIO organization. We build and improve the internal systems and workflows that help GitLab team members make decisions, operate at scale, and do their best work.</p>
 <p>We believe the best AI solutions start with understanding the system, not the technology. We value people who think in constraints and flow, who build with conviction, and who never stop learning. We work in an all-remote, asynchronous setting, guided by GitLab's operating principles of Speed with Quality, Ownership Mindset, and Customer Outcomes, built on a Culture of Excellence.</p><div class="content-conclusion"><h4><strong>How GitLab Supports Full-Time Employees</strong></h4>
+<ul>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/">Benefits to support your health, finances, and well-being</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto">Flexible Paid Time Off&nbsp;</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/">Team Member Resource Groups</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/total-rewards/stock-options/">Equity Compensation &amp; Employee Stock Purchase Plan</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/">Growth and Development Fund</a></li>
+<li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave">Parental Leave</a>&nbsp;</li>
+</ul>
+<p>Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from <a href="https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups">underrepresented groups</a> are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.</p>
+<hr>
+<p><strong>Country Hiring Guidelines: </strong>GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&nbsp;&nbsp;</p>
+<p><strong>Privacy Policy: </strong>Please review our <a href="https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/" target="_blank">Recruitment Privacy Policy.</a> Your privacy is important to us.</p>
+<p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy" target="_blank">GitLab’s EEO Policy</a>&nbsp;and&nbsp;<a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices" target="_blank">EEO is the Law</a>. If you have a disability or special need that requires&nbsp;<a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation" target="_blank">accommodation</a>, please let us know during the&nbsp;<a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process" target="_blank">recruiting process</a>.</p></div>]]></job_description>
+  </job>
+  <job>
+    <reference_id>greenhouse_gitlab_8961167002</reference_id>
+    <apply_url>https://job-boards.greenhouse.io/gitlab/jobs/8961167002</apply_url>
+    <job_url>https://job-boards.greenhouse.io/gitlab/jobs/8961167002</job_url>
+    <company_name>Gitlab</company_name>
+    <company_website>https://gitlab.com</company_website>
+    <company_logo_url>https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/254/300/original/Tanuki_white_square.png</company_logo_url>
+    <job_title>Enterprise Applications Engineer, Zendesk</job_title>
+    <job_type>full-time</job_type>
+    <category>Enterprise Applications</category>
+    <city></city>
+    <state></state>
+    <country>United States</country>
+    <is_remote>True</is_remote>
+    <salary_from>86400.0</salary_from>
+    <salary_to>146400.0</salary_to>
+    <salary_currency>USD</salary_currency>
+    <salary_period>annual</salary_period>
+    <post_date>11/26/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<div class="content-intro"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p>
+<p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href="https://www.youtube.com/watch?v=OuZIb5zszQI">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p>
+<p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2><strong>An Overview of this Role</strong></h2>
+<p>As an Enterprise Application Developer at GitLab, you'll build and maintain the custom applications and internal platforms that GitLab Support teams rely on to do their best work. This is a centralised application development role within the Enterprise AI team. You'll build it, ship it, and own it: software used right across the company, taken from specification through to a running, well-maintained service.</p>
+<p>You'll work in an AI-accelerated way. Modern AI coding tools are central to how this team builds, so strong engineering fundamentals matter more than ever. Clean, well-tested, maintainable code is what keeps an AI-assisted codebase from becoming a liability. You'll also be Customer Zero for GitLab's own platform and agentic development capabilities, helping us understand what world-class internal adoption and guardrails look like, and feeding that back to R&amp;D.</p>
+<h2><strong>What you’ll do</strong></h2>
+<ul>
+<li>Own the full platform lifecycle, from requirements gathering and solution design through development, testing, deployment, monitoring, troubleshooting, and ongoing optimization.</li>
+<li>Design, build, test, and maintain automated workflows, request forms, routing logic, approvals, SLAs, queues, and integrations across enterprise teams.</li>
+<li>Develop and manage integrations with platforms including Snowflake, Claude, Salesforce, Slack, GitLab, Zendesk, and internal application catalogs.</li>
+<li>Enable automated ticket creation, intelligent routing, provisioning, offboarding, and employee lifecycle processes.</li>
+<li>Partner with cross-functional stakeholders, application owners, and engineering teams to translate business requirements into scalable technical solutions.</li>
+<li>Establish and maintain standards for security, compliance, auditability, documentation, and operational reliability.</li>
+<li>Lead platform modernization and automation initiatives by identifying opportunities to replace manual processes, improve self-service, and increase operational efficiency.</li>
+<li>Define governance practices and reusable standards for enterprise workflows, integrations, and support operations.</li>
+</ul>
+<h2><strong>What you’ll bring</strong></h2>
+<ul>
+<li>Experienced Ruby developer with strong knowledge of GitLab, Zendesk, and Linux environments.</li>
+<li>Proven ability to translate technical solutions into practical, supportable operating processes—and to translate operational needs into effective technical designs.</li>
+<li>Advanced expertise in automation, workflow design, systems integration, and platform governance.</li>
+<li>Bachelor’s degree in Engineering, IT or equivalent professional experience is required.</li>
+<li>Demonstrated ability to design reliable solutions across complex technical and organizational environments.</li>
+<li>Experience working on projects with multiple stakeholders and knowledge of Change Management best practices is a plus.</li>
+<li>Strong written and verbal communication skills — technical writing experience a plus</li>
+<li>Well-organized, excellent work ethic, attention to detail, and self-starting</li>
+<li>Experience troubleshooting and resolving urgent, high-visibility technical problems</li>
+<li>Excellent problem solving, analytical, and troubleshooting skills</li>
+</ul>
+<h2><strong>About the Team</strong></h2>
+<p>The work is full-stack, fast, and pragmatic. This is a build-fast role, so expect rapid prototyping through to MVP and quick iteration on what you learn. You'll partner with business stakeholders to understand what they actually need, turn that into working software quickly, and own it once it's live. You won't have a full product-and-engineering pod around you, so you'll be comfortable picking up a spec, asking good questions, and driving it to completion.</p><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p><em>The base salary range for this role’s listed level is currently for residents of the&nbsp;United States only. This range is intended to reflect the role's base salary rate in locations throughout the US.&nbsp;Grade level and salary ranges are determined through interviews and a review of education, experience, knowledge, skills, abilities of the applicant, equity with other team members, alignment with market data,&nbsp;and geographic location.&nbsp;The base salary range does not include any bonuses, equity, or benefits. See more information on our <a class="waffle-rich-text-link" href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/" data-sheets-formula-bar-text-link="https://bit.ly/GLBeneUS" data-sheets-formula-bar-text-style="font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">benefits</a><span data-sheets-formula-bar-text-style="font-size:12px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;"> and </span><a class="waffle-rich-text-link" href="https://about.gitlab.com/handbook/stock-options/" data-sheets-formula-bar-text-link="https://bit.ly/GLequity" data-sheets-formula-bar-text-style="font-size:12px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;">equity</a>. Sales roles are also eligible for incentive pay targeted at up to 100% of the offered base salary.</em></p></div><div class="title">United States Salary Range</div><div class="pay-range"><span>$86,400</span><span class="divider">&mdash;</span><span>$146,400 USD</span></div></div></div><div class="content-conclusion"><h4><strong>How GitLab Supports Full-Time Employees</strong></h4>
 <ul>
 <li><a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/">Benefits to support your health, finances, and well-being</a></li>
 <li><a href="https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto">Flexible Paid Time Off&nbsp;</a></li>
@@ -27632,6 +27825,177 @@
 <p><span style="color: rgb(85, 85, 85);"><strong><em>Equal Opportunity Statement:<br></em></strong></span><em style="color: rgb(85, 85, 85);">We’re an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or veteran status, or any other basis protected by law.</em></p></div>]]></job_description>
   </job>
   <job>
+    <reference_id>greenhouse_castaigroupinc_4387933009_india_bengaluru_karnataka</reference_id>
+    <apply_url>https://cast.ai/careers/apply/?gh_jid=4387933009</apply_url>
+    <job_url>https://cast.ai/careers/apply/?gh_jid=4387933009</job_url>
+    <company_name>Cast AI</company_name>
+    <company_website>https://cast.ai</company_website>
+    <company_logo_url>https://cast.ai/wp-content/uploads/2025/01/logo-cast-ai-black.svg</company_logo_url>
+    <job_title>Technical Account Manager | India</job_title>
+    <job_type>full-time</job_type>
+    <category>Customer Success</category>
+    <city>Bengaluru</city>
+    <state>Karnataka</state>
+    <country>India</country>
+    <is_remote>False</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>08/31/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<h4>Why CAST AI?</h4>
+<p>CAST AI is the leading Kubernetes automation platform for AWS, GCP and Azure customers. The company is on a mission to deliver a fully automated Kubernetes experience. What’s unique about CAST AI is that its platform goes beyond monitoring clusters and making recommendations; it utilizes advanced machine learning algorithms to analyze and automatically optimize clusters, saving customers 50% or more on their cloud spend, improving performance and reliability, and boosting DevOps and engineering productivity.</p>
+<p>The company has raised $73M from investors, including Cota Capital, Creandum, Uncorrelated Ventures, and Vintage Investment Partners. CAST AI has nearly 200 employees globally and is headquartered in Miami, Florida.</p>
+<p>However, this is merely the beginning. Our product roadmap is filled with exciting innovations that are yet to come. We are searching for intelligent, motivated, and self-reliant people to help us fulfill this ambitious mission.</p>
+<h4>Core values that hold us all together:</h4>
+<p><strong>DEVELOP AND HIRE THE BEST:</strong> Be curious and improve continuously to foster personal development and professional growth.</p>
+<p><strong>LEAD:</strong> Take ownership, never kick the can, and drive things forward in a full-power mode. The company is in your hands.</p>
+<p><strong>EXPECT AND ADVOCATE CHANGE:</strong> Constantly welcome new ideas and opinions. Share insights responsibly with unwavering openness, honesty, and respect.</p>
+<p><strong>PRACTICE CUSTOMER OBSESSION:</strong> The customer always, always, always comes first. Solve the customer’s problem, be open to feedback, act on it, and the rest will follow.</p>
+<hr>
+<h4>A Glimpse into the Customer Success Team</h4>
+<p>Our customer-obsessed technical account management team is dedicated to delivering world-class assistance to our clients. They are the bridge between our customers and the wider CAST AI organization, representing the customer's voice to CAST AI and the voice of CAST AI to the customer. The team ensures that our customers are successful in their use of our platform.</p>
+<hr>
+<h4>Role overview</h4>
+<p><strong>Technical Leadership:</strong> The technical account manager is the technical leader and trusted advisor for their assigned customers. Your customers should not hesitate to reach out to you as the first point of escalation, and you are responsible for orchestrating resources to achieve our team’s shared goal of customer delight.</p>
+<p><strong>Technical Customer Onboarding:</strong> You will lead the technical onboarding process for new customers, ensuring that all their clusters are connected to CAST AI in 90 days. This is a highly technical role; you will work closely with DevOps engineers and SREs. We are looking for candidates with a strong technical background who can easily convey complex technical concepts to a variety of audiences.</p>
+<p><strong>Renewals:</strong> Own and drive the renewal process to closure in partnership with the account team. We believe that a successful renewal is a natural outcome of delivering continuous proactive value through regular check-ins.</p>
+<p><strong>FinOps Business Reviews</strong>: You are responsible for continuously showcasing the value of CAST AI through monthly and quarterly business reviews. You will lead these discussions (remote and in-person) and highlight cost savings, automation,&nbsp;upcoming innovation and new products.</p>
+<p><strong>Technical Up-skilling:</strong> We take great pride in continuously improving our technical skills. All technical account managers at CAST AI are either CKAD/CKA holders. If you do not have a CKAD certification, it is mandatory to achieve the certification&nbsp;within 6 months of joining, sponsored by us.&nbsp;</p>
+<hr>
+<h4>Requirements</h4>
+<ul>
+<li>Bachelor's or Master's degree in Computer Science, Engineering, or a related field. Foundational knowledge is crucial for understanding the complex technical aspects of our product.</li>
+<li>Minimum of 5 years of professional experience in cloud computing, focusing on major platforms like AWS, Azure, or GCP. Additionally, experience in container orchestration with Kubernetes is highly desirable.</li>
+<li>Strong problem-solving skills and technical acumen. It would help you navigate complex technical environments and develop solutions that align with client needs.</li>
+<li>Excellent communication skills, both written and verbal. You must be able to articulate technical concepts clearly and understandably to various audiences, including those who may need a technical background.</li>
+<li>CKAD and/or CKA certification(s) is an immense advantage.</li>
+</ul>
+<hr>
+<h4>What's in&nbsp;it for you?</h4>
+<ul>
+<li>Join a fast-growing, cutting-edge company that’s redefining cloud-native automation and optimization.</li>
+<li>Collaborate with a global team of cloud experts and innovators, passionate about pushing the boundaries of <em>Kubernetes</em> technology.</li>
+<li>Enjoy a flexible, remote-first work environment with opportunities to travel and engage with customers worldwide.</li>
+<li>Receive a competitive compensation package, equity options, and extensive benefits.</li>
+</ul>]]></job_description>
+  </job>
+  <job>
+    <reference_id>greenhouse_castaigroupinc_4387933009_india_delhi</reference_id>
+    <apply_url>https://cast.ai/careers/apply/?gh_jid=4387933009</apply_url>
+    <job_url>https://cast.ai/careers/apply/?gh_jid=4387933009</job_url>
+    <company_name>Cast AI</company_name>
+    <company_website>https://cast.ai</company_website>
+    <company_logo_url>https://cast.ai/wp-content/uploads/2025/01/logo-cast-ai-black.svg</company_logo_url>
+    <job_title>Technical Account Manager | India</job_title>
+    <job_type>full-time</job_type>
+    <category>Customer Success</category>
+    <city></city>
+    <state>Delhi</state>
+    <country>India</country>
+    <is_remote>False</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>08/31/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<h4>Why CAST AI?</h4>
+<p>CAST AI is the leading Kubernetes automation platform for AWS, GCP and Azure customers. The company is on a mission to deliver a fully automated Kubernetes experience. What’s unique about CAST AI is that its platform goes beyond monitoring clusters and making recommendations; it utilizes advanced machine learning algorithms to analyze and automatically optimize clusters, saving customers 50% or more on their cloud spend, improving performance and reliability, and boosting DevOps and engineering productivity.</p>
+<p>The company has raised $73M from investors, including Cota Capital, Creandum, Uncorrelated Ventures, and Vintage Investment Partners. CAST AI has nearly 200 employees globally and is headquartered in Miami, Florida.</p>
+<p>However, this is merely the beginning. Our product roadmap is filled with exciting innovations that are yet to come. We are searching for intelligent, motivated, and self-reliant people to help us fulfill this ambitious mission.</p>
+<h4>Core values that hold us all together:</h4>
+<p><strong>DEVELOP AND HIRE THE BEST:</strong> Be curious and improve continuously to foster personal development and professional growth.</p>
+<p><strong>LEAD:</strong> Take ownership, never kick the can, and drive things forward in a full-power mode. The company is in your hands.</p>
+<p><strong>EXPECT AND ADVOCATE CHANGE:</strong> Constantly welcome new ideas and opinions. Share insights responsibly with unwavering openness, honesty, and respect.</p>
+<p><strong>PRACTICE CUSTOMER OBSESSION:</strong> The customer always, always, always comes first. Solve the customer’s problem, be open to feedback, act on it, and the rest will follow.</p>
+<hr>
+<h4>A Glimpse into the Customer Success Team</h4>
+<p>Our customer-obsessed technical account management team is dedicated to delivering world-class assistance to our clients. They are the bridge between our customers and the wider CAST AI organization, representing the customer's voice to CAST AI and the voice of CAST AI to the customer. The team ensures that our customers are successful in their use of our platform.</p>
+<hr>
+<h4>Role overview</h4>
+<p><strong>Technical Leadership:</strong> The technical account manager is the technical leader and trusted advisor for their assigned customers. Your customers should not hesitate to reach out to you as the first point of escalation, and you are responsible for orchestrating resources to achieve our team’s shared goal of customer delight.</p>
+<p><strong>Technical Customer Onboarding:</strong> You will lead the technical onboarding process for new customers, ensuring that all their clusters are connected to CAST AI in 90 days. This is a highly technical role; you will work closely with DevOps engineers and SREs. We are looking for candidates with a strong technical background who can easily convey complex technical concepts to a variety of audiences.</p>
+<p><strong>Renewals:</strong> Own and drive the renewal process to closure in partnership with the account team. We believe that a successful renewal is a natural outcome of delivering continuous proactive value through regular check-ins.</p>
+<p><strong>FinOps Business Reviews</strong>: You are responsible for continuously showcasing the value of CAST AI through monthly and quarterly business reviews. You will lead these discussions (remote and in-person) and highlight cost savings, automation,&nbsp;upcoming innovation and new products.</p>
+<p><strong>Technical Up-skilling:</strong> We take great pride in continuously improving our technical skills. All technical account managers at CAST AI are either CKAD/CKA holders. If you do not have a CKAD certification, it is mandatory to achieve the certification&nbsp;within 6 months of joining, sponsored by us.&nbsp;</p>
+<hr>
+<h4>Requirements</h4>
+<ul>
+<li>Bachelor's or Master's degree in Computer Science, Engineering, or a related field. Foundational knowledge is crucial for understanding the complex technical aspects of our product.</li>
+<li>Minimum of 5 years of professional experience in cloud computing, focusing on major platforms like AWS, Azure, or GCP. Additionally, experience in container orchestration with Kubernetes is highly desirable.</li>
+<li>Strong problem-solving skills and technical acumen. It would help you navigate complex technical environments and develop solutions that align with client needs.</li>
+<li>Excellent communication skills, both written and verbal. You must be able to articulate technical concepts clearly and understandably to various audiences, including those who may need a technical background.</li>
+<li>CKAD and/or CKA certification(s) is an immense advantage.</li>
+</ul>
+<hr>
+<h4>What's in&nbsp;it for you?</h4>
+<ul>
+<li>Join a fast-growing, cutting-edge company that’s redefining cloud-native automation and optimization.</li>
+<li>Collaborate with a global team of cloud experts and innovators, passionate about pushing the boundaries of <em>Kubernetes</em> technology.</li>
+<li>Enjoy a flexible, remote-first work environment with opportunities to travel and engage with customers worldwide.</li>
+<li>Receive a competitive compensation package, equity options, and extensive benefits.</li>
+</ul>]]></job_description>
+  </job>
+  <job>
+    <reference_id>greenhouse_castaigroupinc_4387933009_india_mumbaicentral_maharashtra</reference_id>
+    <apply_url>https://cast.ai/careers/apply/?gh_jid=4387933009</apply_url>
+    <job_url>https://cast.ai/careers/apply/?gh_jid=4387933009</job_url>
+    <company_name>Cast AI</company_name>
+    <company_website>https://cast.ai</company_website>
+    <company_logo_url>https://cast.ai/wp-content/uploads/2025/01/logo-cast-ai-black.svg</company_logo_url>
+    <job_title>Technical Account Manager | India</job_title>
+    <job_type>full-time</job_type>
+    <category>Customer Success</category>
+    <city>Mumbai Central</city>
+    <state>Maharashtra</state>
+    <country>India</country>
+    <is_remote>False</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>08/31/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<h4>Why CAST AI?</h4>
+<p>CAST AI is the leading Kubernetes automation platform for AWS, GCP and Azure customers. The company is on a mission to deliver a fully automated Kubernetes experience. What’s unique about CAST AI is that its platform goes beyond monitoring clusters and making recommendations; it utilizes advanced machine learning algorithms to analyze and automatically optimize clusters, saving customers 50% or more on their cloud spend, improving performance and reliability, and boosting DevOps and engineering productivity.</p>
+<p>The company has raised $73M from investors, including Cota Capital, Creandum, Uncorrelated Ventures, and Vintage Investment Partners. CAST AI has nearly 200 employees globally and is headquartered in Miami, Florida.</p>
+<p>However, this is merely the beginning. Our product roadmap is filled with exciting innovations that are yet to come. We are searching for intelligent, motivated, and self-reliant people to help us fulfill this ambitious mission.</p>
+<h4>Core values that hold us all together:</h4>
+<p><strong>DEVELOP AND HIRE THE BEST:</strong> Be curious and improve continuously to foster personal development and professional growth.</p>
+<p><strong>LEAD:</strong> Take ownership, never kick the can, and drive things forward in a full-power mode. The company is in your hands.</p>
+<p><strong>EXPECT AND ADVOCATE CHANGE:</strong> Constantly welcome new ideas and opinions. Share insights responsibly with unwavering openness, honesty, and respect.</p>
+<p><strong>PRACTICE CUSTOMER OBSESSION:</strong> The customer always, always, always comes first. Solve the customer’s problem, be open to feedback, act on it, and the rest will follow.</p>
+<hr>
+<h4>A Glimpse into the Customer Success Team</h4>
+<p>Our customer-obsessed technical account management team is dedicated to delivering world-class assistance to our clients. They are the bridge between our customers and the wider CAST AI organization, representing the customer's voice to CAST AI and the voice of CAST AI to the customer. The team ensures that our customers are successful in their use of our platform.</p>
+<hr>
+<h4>Role overview</h4>
+<p><strong>Technical Leadership:</strong> The technical account manager is the technical leader and trusted advisor for their assigned customers. Your customers should not hesitate to reach out to you as the first point of escalation, and you are responsible for orchestrating resources to achieve our team’s shared goal of customer delight.</p>
+<p><strong>Technical Customer Onboarding:</strong> You will lead the technical onboarding process for new customers, ensuring that all their clusters are connected to CAST AI in 90 days. This is a highly technical role; you will work closely with DevOps engineers and SREs. We are looking for candidates with a strong technical background who can easily convey complex technical concepts to a variety of audiences.</p>
+<p><strong>Renewals:</strong> Own and drive the renewal process to closure in partnership with the account team. We believe that a successful renewal is a natural outcome of delivering continuous proactive value through regular check-ins.</p>
+<p><strong>FinOps Business Reviews</strong>: You are responsible for continuously showcasing the value of CAST AI through monthly and quarterly business reviews. You will lead these discussions (remote and in-person) and highlight cost savings, automation,&nbsp;upcoming innovation and new products.</p>
+<p><strong>Technical Up-skilling:</strong> We take great pride in continuously improving our technical skills. All technical account managers at CAST AI are either CKAD/CKA holders. If you do not have a CKAD certification, it is mandatory to achieve the certification&nbsp;within 6 months of joining, sponsored by us.&nbsp;</p>
+<hr>
+<h4>Requirements</h4>
+<ul>
+<li>Bachelor's or Master's degree in Computer Science, Engineering, or a related field. Foundational knowledge is crucial for understanding the complex technical aspects of our product.</li>
+<li>Minimum of 5 years of professional experience in cloud computing, focusing on major platforms like AWS, Azure, or GCP. Additionally, experience in container orchestration with Kubernetes is highly desirable.</li>
+<li>Strong problem-solving skills and technical acumen. It would help you navigate complex technical environments and develop solutions that align with client needs.</li>
+<li>Excellent communication skills, both written and verbal. You must be able to articulate technical concepts clearly and understandably to various audiences, including those who may need a technical background.</li>
+<li>CKAD and/or CKA certification(s) is an immense advantage.</li>
+</ul>
+<hr>
+<h4>What's in&nbsp;it for you?</h4>
+<ul>
+<li>Join a fast-growing, cutting-edge company that’s redefining cloud-native automation and optimization.</li>
+<li>Collaborate with a global team of cloud experts and innovators, passionate about pushing the boundaries of <em>Kubernetes</em> technology.</li>
+<li>Enjoy a flexible, remote-first work environment with opportunities to travel and engage with customers worldwide.</li>
+<li>Receive a competitive compensation package, equity options, and extensive benefits.</li>
+</ul>]]></job_description>
+  </job>
+  <job>
     <reference_id>greenhouse_castaigroupinc_4455375009</reference_id>
     <apply_url>https://cast.ai/careers/apply/?gh_jid=4455375009</apply_url>
     <job_url>https://cast.ai/careers/apply/?gh_jid=4455375009</job_url>
@@ -27711,16 +28075,15 @@
     <expiration_date></expiration_date>
     <job_description><![CDATA[<h4><strong>About the role</strong></h4>
 <p>Kimchi is Cast AI's newest product: an agentic platform for running AI workloads. We are building in a greenfield space where the technology, customer expectations, and the competitive landscape shift constantly. The problem space is broad and ambiguous by design. If you are at your best when the playbook is still being written, you will thrive here.</p>
-<p>This is not a role for maintaining a mature product line. It's a hands-on, zero-to-one PMM job inside a startup-like team with the backing of a unicorn. You must be curious. You'll speak directly with early customers, run messaging and channel experiments, and help build Kimchi's ICP and positioning from the ground up. Then you'll help turn that evidence into the business's first go-to-market playbook.</p>
-<p>You'll report to the Head of Product Marketing, who sets the strategic direction and reviews the big calls, while you own defined workstreams end to end. You'll work alongside Product, Engineering, and company leadership, with support from Content, Growth, Design, and Sales Enablement as the work scales. You'll have room to identify quick wins on your own, with a review partner to help you balance short-term execution with a longer-term roadmap.</p>
-<h4><strong>Why Cast AI?</strong></h4>
+<p>This is not a role for maintaining a mature product line. It's a hands-on, zero-to-one PMM job inside a startup-like team with the backing of a unicorn. You must be curious. You'll speak directly with early customers, run messaging and channel experiments, and work with your Sr. PMM team mate to build Kimchi's GTM from the ground up.</p>
+<p>You'll report to the Head of Product Marketing, and work alongside Product, Engineering, and company leadership, with support from Content, Growth, Design, and Sales Enablement as the work scales. You'll have room to identify quick wins on your own, with a review partner to help you balance short-term execution with a longer-term roadmap.</p>
+<h4>Why Cast AI?</h4>
 <p>Cast AI is an automation platform that operates cloud-native and AI infrastructure at scale. By embedding autonomous decision-making directly into Kubernetes and cloud environments, Cast AI continuously optimizes performance, reliability, and efficiency in production.</p>
 <p>The old way doesn't work. As Kubernetes and AI environments grow, manual decisions don’t. Cast AI replaces tickets, alerts, and manual tuning with continuous automation that adapts infrastructure as conditions change. Efficiency and cost savings follow naturally from that automation.</p>
 <p>Over 2,100 companies already rely on Cast AI, including Akamai, BMW, Cisco, FICO, HuggingFace, NielsenIQ, Swisscom, and TGS.</p>
 <p><strong>Global team, diverse perspectives<br></strong>We're headquartered in Miami, but our impact is international. We take a global and intentional approach to diversity. Today, Cast AI operates across 34 countries spanning Europe, North America, Latin America, and APAC, bringing a wide range of perspectives into how we build and lead.&nbsp;</p>
 <p><strong>Unicorn momentum<br></strong>In January 2026, we achieved unicorn status with a strategic investment from Pacific Alliance Ventures, the corporate venture arm of Shinsegae Group (a $50+ billion Korean conglomerate). Our valuation now exceeds $1 billion, and we're just getting started.</p>
-<p><strong>Join us as we build the future of autonomous infrastructure.</strong></p>
-<h4><strong>What success looks like in 90 days</strong></h4>
+<h4>What success looks like in 90 days</h4>
 <ul>
 <li>You understand Kimchi's product, the problems it solves, and its priority audiences.</li>
 <li>You scope the highest-priority PMM problems instead of trying to solve everything at once, with guidance on where to focus.</li>
@@ -27728,16 +28091,15 @@
 <li>You take ownership of your workstreams: you bring clear recommendations and trade-offs, and you know when to decide and when to escalate.</li>
 <li>You build working relationships with Product and Engineering, and learn the product deeply.</li>
 </ul>
-<h4><strong>Requirements:</strong></h4>
+<h4>Requirements:</h4>
 <ul>
 <li>3+ years of product marketing experience with technical audiences, preferably developer tools or AI tooling.</li>
-<li>Strong technical fluency. You can grasp nuances without an engineer walking you through every detail.</li>
+<li>Technical fluency. You can grasp nuances without an engineer walking you through every detail.</li>
 <li>Hands-on, sprint-based working style with an experimental mindset.</li>
 <li>Experience contributing to ICP definition and messaging work, ideally for an early-stage or unvalidated product.</li>
 <li>Experience conducting customer interviews and extracting patterns that refine positioning.</li>
 <li>Experience designing or running GTM experiments, and the willingness to change direction based on what the data shows.</li>
 <li>Data literacy: you can define success criteria and read funnel or adoption data.</li>
-<li>Exposure to win/loss research and competitive deal support.</li>
 <li>Sound commercial judgment on pricing, packaging, and willingness to pay, even when Product owns the final call.</li>
 <li>Fluent English, written and spoken.</li>
 <li>You have thrived in an early-stage or ambiguous product environment.</li>
@@ -27748,20 +28110,20 @@
 <li>Excellent writing, backed by work samples such as positioning docs, launch content, and sales narratives.</li>
 <li>Experience with agentic AI tools or developer-facing products.</li>
 </ul>
-<h4><strong>Responsibilities:</strong></h4>
+<h4>Responsibilities<strong>:</strong></h4>
 <ul>
-<li>Run direct customer research to define and validate Kimchi's ICP, with the Director setting the research agenda.</li>
-<li>Drive positioning and messaging day to day, and keep it consistent as new features ship, with final review from the Director of PMM.</li>
+<li>Run customer research.</li>
+<li>Drive positioning and messaging day to day, and keep it consistent as new features ship.</li>
 <li>Contribute to the commercial hypothesis - audience, message, positioning - and design GTM tests across trial flow, content, and channels. Growth, Product, and Demand Gen will help execute the experiments and measure results.</li>
 <li>Translate Kimchi's technical differentiation into a value story that technical buyers recognize as true.</li>
 <li>Support feature launches end to end, from early positioning through GA.</li>
-<li>Build the first version of sales enablement assets, battlecards, proof points, and demo narrative.</li>
+<li>Build sales enablement assets, battlecards, proof points, and demo narrative.</li>
 <li>Maintain the feedback loop from customer and market signal back into roadmap input.</li>
 <li>Track the competitive landscape and share what is changing with Product and leadership.</li>
 <li>Partner directly with Engineering to keep messaging accurate as the product evolves quickly.</li>
 <li>Build and maintain AI-assisted workflows that make this function faster, more consistent, or easier to measure.</li>
 </ul>
-<h4><strong>What’s in it for you?</strong></h4>
+<h4>What’s in it for you?</h4>
 <ul>
 <li>Competitive salary (depending on the level of experience).</li>
 <li>Enjoy a flexible, remote-first global environment.</li>
@@ -27774,7 +28136,7 @@
 <li data-renderer-start-pos="917">Equipment budget to ensure you have everything you need.</li>
 <li data-renderer-start-pos="917">Extra days off to help maintain a healthy work-life balance.</li>
 </ul>
-<h4><strong>Hiring process</strong></h4>
+<h4>Hiring process</h4>
 <ul>
 <li>Screening call with a Recruiter.</li>
 <li>Interview with the Hiring Manager.</li>
@@ -28180,6 +28542,167 @@
 </ul>
 <p><em>*As part of our standard hiring process, we would like to inform you that a background check may be conducted at the final stage of recruitment through our third-party provider, Checkr.</em><br><em>*Please note that Cast AI </em><u><em>does not</em></u><em> provide any form of visa sponsorship/work permit.</em></p>
 <p><span style="color: rgb(255, 255, 255);">#LI-Remote</span></p>]]></job_description>
+  </job>
+  <job>
+    <reference_id>greenhouse_castaigroupinc_4525064009</reference_id>
+    <apply_url>https://cast.ai/careers/apply/?gh_jid=4525064009</apply_url>
+    <job_url>https://cast.ai/careers/apply/?gh_jid=4525064009</job_url>
+    <company_name>Cast AI</company_name>
+    <company_website>https://cast.ai</company_website>
+    <company_logo_url>https://cast.ai/wp-content/uploads/2025/01/logo-cast-ai-black.svg</company_logo_url>
+    <job_title>VP Channel | USA</job_title>
+    <job_type>full-time</job_type>
+    <category>Sales</category>
+    <city></city>
+    <state></state>
+    <country>United States</country>
+    <is_remote>False</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>11/27/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<h4>Why Cast AI?</h4>
+<p>Cast AI is the leading Kubernetes automation platform for cloud-native and AI infrastructure. Instead of raising alerts for someone else to fix, it acts directly in production. It scales and rightsizes workloads, live-migrates eligible workloads, and sources GPU capacity across clouds and regions through OMNI. Every optimization is verified and logged, so customers see lower costs, stronger performance and reliability, and less manual toil.</p>
+<p>Over 2,100 companies rely on Cast AI, including Akamai, BMW, Cisco, FICO, HuggingFace and Swisscom.</p>
+<p><strong>Global team, diverse perspectives</strong></p>
+<p>We’re headquartered in Miami, but our impact is international. We take a global and intentional approach to diversity, with a team across 35 countries in Europe, the Americas and APAC, including our newest market, Australia, bringing a wide range of perspectives into how we build and lead.</p>
+<p><strong>Unicorn momentum</strong></p>
+<p>In January 2026, we reached unicorn status with a strategic investment from Pacific Alliance Ventures, the venture arm of Korea’s Shinsegae Group. Our valuation now exceeds $1 billion, and we’re just getting started.</p>
+<p><strong>Join us as we build Kubernetes automation that engineering teams can verify and trust.</strong></p>
+<h4>About the role</h4>
+<p>This is a ground-floor build, not a maintenance job. The foundation is real - a defined partner tiering model, a growing partner base, and Partner Managers already running the MSP and VAR tiers day-to-day. What's missing is the person who turns that into a forecastable revenue engine: recruiting and activating the partners that actually move the needle across regional and boutique SIs, resellers, VARs, distributors, and MSPs, managing and growing the PAM team, and being the person sales leadership turns to for how the channel is performing and where it's headed.</p>
+<p>As Cast AI scales past unicorn status, this is a genuine build-and-own mandate for the Americas channel, not an inherited process to maintain.</p>
+<p><strong>What you'll own</strong></p>
+<ul>
+<li>A scaled strategy for regional SIs, VARs, and MSPs that turns each tier into its own revenue stream</li>
+<li>The PAM team, managed directly across the Americas, with room to hire and develop as the function grows</li>
+<li>Recruitment, onboarding, and activation across all tiers, with direct focus on top strategic MSP and VAR targets</li>
+<li>The operating cadence across the programme - QBRs, joint account planning, partner advisory input</li>
+<li>Program infrastructure - tiering criteria, incentive structures, deal registration process, enablement and certification content</li>
+<li>Cross-functional alignment with Sales, SEs, Marketing, Product, Finance, and Legal to keep channel strategy tied to company priorities</li>
+</ul>
+<p><strong>What you'll bring</strong></p>
+<ul>
+<li>Proven track record building or scaling a multi-tier partner programme (MSP, VAR, regional SI, or similar) at a high-growth SaaS or cloud infrastructure company</li>
+<li>Demonstrated experience managing a team of PAMs or channel reps - hiring, coaching, and performance-managing multiple direct reports, with the judgment to know when to let them run and when to get involved</li>
+<li>Strong executive presence - able to represent Cast AI credibly with partner stakeholders and with internal sales leadership</li>
+<li>Comfortable selling to and through DevOps, Platform Engineering, and FinOps personas; working familiarity with AWS, GCP, and Azure</li>
+<li>Hands-on with the mechanics of a channel programme: deal registration, joint account planning, QBRs, co-sell motions, partner incentives</li>
+</ul>
+<p><strong>What makes you stand out</strong></p>
+<ul>
+<li>Background at a digital-native company, startup, or ISV - someone who has scaled a channel function before, not just inherited one</li>
+</ul>
+<p><strong>Who you'll work with</strong></p>
+<p>Reports to Ryan McGahan, VP/GM of Sales, Americas, who brings over 25 years of enterprise sales leadership. You'll also work closely with Cast AI's alliances team, who own our strategic relationships with the world's largest systems integrators and hyperscalers, while you drive the day-to-day channel relationships that turn partners into real revenue.</p>
+<p><strong>What we offer</strong></p>
+<ul>
+<li>Join a fast-growing company at the forefront of cloud-native automation and Kubernetes technology.</li>
+<li>Enjoy a flexible, remote-first global environment.</li>
+<li>401(k) retirement plan - 100% company match on employee contributions up to 6% of pay (available after 3 months of employment).</li>
+<li>Access UnitedHealthcare plans including medical, dental, and vision coverage.</li>
+<li>Equity options.</li>
+<li>Learning budget for your professional and personal growth.</li>
+<li>Team-building budget and company events to connect with your colleagues.</li>
+<li>Equipment budget to ensure you have everything you need.</li>
+<li>Competitive salary&nbsp;</li>
+</ul>
+<p>Please note that Cast AI does not provide any form of visa sponsorship/work permit.</p>
+<p><strong>How we hire</strong></p>
+<ul>
+<li>Screening call with Recruiter</li>
+<li>Hiring Manager interview</li>
+<li>1-2 additional interviews based on the role</li>
+<li>Culture Check interview with an executive</li>
+</ul>
+<p>As part of our standard hiring process, we would like to inform you that a background check may be conducted at the final stage of recruitment through our third-party provider, Checkr.</p>]]></job_description>
+  </job>
+  <job>
+    <reference_id>greenhouse_castaigroupinc_4525148009</reference_id>
+    <apply_url>https://cast.ai/careers/apply/?gh_jid=4525148009</apply_url>
+    <job_url>https://cast.ai/careers/apply/?gh_jid=4525148009</job_url>
+    <company_name>Cast AI</company_name>
+    <company_website>https://cast.ai</company_website>
+    <company_logo_url>https://cast.ai/wp-content/uploads/2025/01/logo-cast-ai-black.svg</company_logo_url>
+    <job_title>Account Executive | Mid-Market | UK</job_title>
+    <job_type>full-time</job_type>
+    <category>Sales</category>
+    <city>London</city>
+    <state>England</state>
+    <country>United Kingdom</country>
+    <is_remote>False</is_remote>
+    <salary_from></salary_from>
+    <salary_to></salary_to>
+    <salary_currency></salary_currency>
+    <salary_period></salary_period>
+    <post_date>11/27/2026</post_date>
+    <expiration_date></expiration_date>
+    <job_description><![CDATA[<h4><strong>Why Cast AI?</strong></h4>
+<p>Cast AI is an automation platform that operates cloud-native and AI infrastructure at scale. By embedding autonomous decision-making directly into Kubernetes and cloud environments, Cast AI continuously optimizes performance, reliability, and efficiency in production.</p>
+<p>The old way doesn’t work. As Kubernetes and AI environments grow, manual decisions don’t. Cast AI replaces tickets, alerts, and manual tuning with continuous automation that adapts infrastructure as conditions change. Efficiency and cost savings follow naturally from that automation.</p>
+<p>Over 2,100 companies already rely on Cast AI, including Akamai, BMW, Cisco, FICO, HuggingFace, NielsenIQ, Swisscom, and TGS.</p>
+<p><strong>Global team, diverse perspectives</strong><strong><br></strong>We’re headquartered in Miami, but our impact is international. We take a global and intentional approach to diversity. Today, Cast AI operates across 34 countries spanning Europe, North America, Latin America, and APAC, bringing a wide range of perspectives into how we build and lead.&nbsp;</p>
+<p><strong>Unicorn momentum</strong><strong><br></strong>In January 2026, we achieved unicorn status with a strategic investment from Pacific Alliance Ventures, the corporate venture arm of Shinsegae Group (a $50+ billion Korean conglomerate). Our valuation now exceeds $1 billion, and we’re just getting started.</p>
+<p><strong>Join us as we build the future of autonomous infrastructure.</strong></p>
+<h4><strong>About the role</strong></h4>
+<p>Every fast-growing company in the UK is running more Kubernetes and more cloud than it can manage by hand. Most of them have never heard from Cast AI. That's the opportunity.</p>
+<p>This is the first dedicated mid-market seat in the UKI &amp; Nordics. There's no book of business to inherit and no playbook to follow. You'll write it: which accounts to go after, how to open them, and how to turn a cold conversation into a new logo. What works for you becomes how Cast AI sells mid-market across the region.</p>
+<p>You won't be doing it alone. The product is proven across 2,100+ companies, you'll have dedicated sales engineers alongside you, and you'll work for a leader who treats the team like a squad, not a leaderboard. EMEA is one of Cast AI's biggest bets right now, and the people who join now shape how it's built.</p>
+<p>And it doesn't stop at mid-market. This role has a clear path into enterprise for the person who proves the model.</p>
+<h4><strong>What'll you own</strong></h4>
+<ul>
+<li>Your own pipeline: consistent outbound pipeline generation every week, ideally every day, is the core of the job</li>
+<li>New logos across the UK &amp; Ireland mid-market, with every deal yours end to end, from picking target accounts to closing</li>
+<li>The mid-market playbook for the region: the targeting, messaging, and sales motion others will follow</li>
+<li>Opportunity Assessments that identify and qualify the accounts worth pursuing</li>
+<li>Value Discovery conversations that connect Cast AI's platform to each prospect's infrastructure and cost challenges</li>
+<li>Proving concrete value to both technical (CTOs, platform and DevOps leaders) and business stakeholders, hand in hand with Sales Engineering</li>
+<li>Negotiation and close, with an eye on long-term customer outcomes, not just a signed contract</li>
+<li>Value Delivery with implementation teams, measured against the business case</li>
+<li>AI tools as part of your everyday workflow for research, prospecting, and account planning</li>
+</ul>
+<p><strong>What'll you need</strong></p>
+<ul>
+<li>Proven experience closing new business as an Account Executive, with hands-on experience selling into mid-market companies</li>
+<li>A demonstrated track record as a hunter: you've built your own pipeline through outbound and won new logos, rather than relying on inbound or expansion</li>
+<li>A history of running full sales cycles yourself, from first outreach through negotiation and close</li>
+<li>Experience selling B2B SaaS, ideally in cloud infrastructure, data, DevOps, security, or a closely adjacent technical space</li>
+<li>Hands-on experience running deals with MEDDIC (or a similar qualification framework)</li>
+<li>Comfort using AI tools day to day to research, prioritise, and prepare</li>
+<li>A team-first mindset: you win with the group, not at its expense</li>
+<li>Fluency in English</li>
+</ul>
+<h4><strong>What makes you stand out</strong></h4>
+<ul>
+<li>Experience with Kubernetes or the broader cloud-native space</li>
+<li>Experience in a startup or scale-up where you had to do a lot yourself</li>
+</ul>
+<h4 data-lfile-container="92518007-d4cb-4ad5-ac65-9ca3cfec0ea4" data-pm-slice="1 1 []"><strong>Who you'll work with</strong></h4>
+<p data-lfile-container="92518007-d4cb-4ad5-ac65-9ca3cfec0ea4" data-pm-slice="1 1 []">You'll report to Antoine Aubrun, one of our sales leaders, who brings years of experience in technical sales.</p>
+<p>Day to day, you'll also work closely with sales engineers, partner account managers, and your colleagues in account management and the BDR team.</p>
+<h4>What’s in it for you</h4>
+<ul>
+<li>Competitive salary + equity</li>
+<li>Collaborate with a global team of cloud experts and innovators, passionate about pushing the boundaries of Kubernetes technology</li>
+<li>Equity options</li>
+<li>Learning budget for professional and personal development, including access to international conferences and courses</li>
+<li>Team-building budget and company events to connect with your colleagues</li>
+<li>Equipment budget to ensure you have everything you need</li>
+<li>Extra days off to help maintain a healthy work-life balance</li>
+</ul>
+<h4>Hiring process</h4>
+<ul>
+<li>Screening call with Recruiter</li>
+<li>Hiring Manager interview</li>
+<li>Sales deep-dive interview</li>
+<li>Sales Engineering interview</li>
+<li>Sales assignment and panel presentation</li>
+</ul>
+<p><em>*As part of our standard hiring process, we would like to inform you that a background check may be conducted at the final stage of recruitment through our third-party provider, Checkr.</em><br><em>*Please note that Cast AI </em><u><em>does not</em></u><em> provide any form of visa sponsorship/work permit.</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></job_description>
   </job>
   <job>
     <reference_id>greenhouse_castaigroupinc_4267145009</reference_id>
@@ -31677,28 +32200,6 @@
     <post_date>11/09/2026</post_date>
     <expiration_date></expiration_date>
     <job_description><![CDATA[<p>As an AI Engineer, you're responsible for designing, building, and shipping AI systems that real people use, from AI features inside products used on over 30 million websites to internal tools built on our behavioral and operational data. You will turn messy real-world data and a user's goals into output people can trust and act on: generated campaigns and content, plain-English recommendations, and automations that save hours of work. We hire for caliber first, then match you to the team where you will have the most impact.</p><p><em><strong>Interested in applying?</strong></em></p><p><em><strong>Please read/follow the next steps outlined in "How to Apply" at the bottom of this listing.</strong></em></p><p><em><strong>Attention to detail is one of our core values! This is your chance to stand out :)</strong></em></p><p><strong>To love this role, here's the type of person you are:</strong></p><ul><li>You're a builder at heart. You don't just use AI tools, you understand how they work under the hood, and you think about how to make them useful for real people, not just technically impressive.</li><li>You care more about how good the output is than which model produced it, and you get restless when an AI feature is just fine.</li><li>You're a self-starter who can take a loosely defined problem, figure out the right approach, and ship a working solution without needing to be told what to do next.</li><li>You think about the user and the decision first, not the pipeline and the model. When you see data, your first instinct is to ask what question it answers for the person who needs it.</li><li>You're comfortable owning the full stack of an AI project, from data exploration and model selection to the API, the interface, and deployment, and making sure it actually works in production.</li><li>You build with AI every day, and you still verify everything before it ships. "The AI did it" is never your answer.</li><li>You're an excellent communicator, fluent in both verbal and written English. You can explain complex technical decisions to non-technical stakeholders without dumbing it down.</li><li>You take pride in the quality and craftsmanship of your work: clean code, proper error handling, thoughtful architecture, not just something that works on the happy path.</li><li>You have the curiosity and desire to learn and grow. The AI landscape moves fast and you keep up because you genuinely enjoy it, and you share what you learn so the people around you get faster too.</li><li>You're a team player who is comfortable working alongside developers, product, design, and marketing, and doesn't take critical feedback personally.</li></ul><p><strong>Common responsibilities include (but are not limited to):</strong></p><ul><li>Designing and shipping AI features that turn a user's goal, website, or data into campaigns, content, and recommendations they can act on.</li><li>Building AI-powered internal tools and data-driven systems used across the organization: analytics platforms, reporting automation, and workflow intelligence.</li><li>Designing and building LLM pipelines with solid prompt design, structured and validated output, RAG, guardrails, and agentic workflows.</li><li>Cleaning and analyzing messy product and behavioral data, and grounding AI output in the facts so it never makes numbers up.</li><li>Building data pipelines that ingest, transform, and serve behavioral and operational data at scale.</li><li>Setting up evaluation and observability so every iteration is measurably better than the last, and failures are caught before users see them.</li><li>Owning the full path from model output to what the user sees, across backend and frontend.</li><li>Evaluating and selecting the right models, frameworks, and infrastructure for each use case, balancing quality, cost, and latency.</li><li>Watching how people actually use what you build, and turning that into the next improvement.</li><li>Writing clean, well-tested, production-grade code with proper error handling, logging, and observability.</li><li>Documenting your work, including how you used AI to build it, so others can learn from it and reuse it.</li><li>Keeping up with the rapidly evolving AI landscape and bringing new ideas, tools, and approaches to the team.</li><li>Communicating with the team and supporting your peers using chat, audio, and video.</li></ul> <h2 id="job-requirements-title">Requirements</h2> <ul><li>3+ years of professional experience building AI/ML systems in production, with AI features that real users touch (not just POCs or hackathon projects).</li><li>Strong proficiency in Python, including production-grade practices: proper packaging, testing, type hints, and async where appropriate.</li><li>Full-stack experience. You can lean backend or frontend, but you work on both: Python or Node services and a modern frontend such as React.</li><li>Hands-on LLM engineering: prompt design, structured output, tool calling, RAG, guardrails, and evaluation of output quality.</li><li>Hands-on experience with LLM frameworks such as LangChain, LangGraph, LlamaIndex, or similar. You should be able to build a RAG pipeline from scratch.</li><li>Experience with vector databases (Pinecone, ChromaDB, FAISS, Qdrant, or similar) and embedding models.</li><li>Solid understanding of ML fundamentals, not just API calls: how models work, when to fine-tune versus prompt engineer, and how to evaluate properly.</li><li>Experience with data processing at scale (SQL, pandas, Spark, or similar), and comfort cleaning messy real-world data.</li><li>Experience building and deploying APIs (FastAPI, Flask, or similar) that serve AI features in production.</li><li>Familiarity with cloud infrastructure (AWS, GCP, or Azure) and containerization (Docker, Kubernetes).</li><li>Daily use of AI coding tools such as Claude Code, Cursor, or Codex, with a workflow you can explain.</li><li>Competent with version control through Git and GitHub: clean commit history, proper branching, and code review through PRs.</li><li>A product mindset: you care whether people use what you build and whether it moves a number.</li><li>The ability to iterate and ship ideas quickly without sacrificing code quality.</li><li>Exceptional troubleshooting skills: when something breaks in production at scale, you can diagnose it.</li><li>Ability to keep complex systems simple. Simplicity is a core value.</li><li>Previous remote work experience. You know how to manage your time, communicate proactively, and stay productive without supervision.</li><li>Personal computer with reliable internet access.</li><li>Availability to participate in audio/video meetings and be available on Slack between the hours of 9 AM - 1 PM EST daily.</li></ul><p><strong>Bonus points if you also have:</strong></p><ul><li>Experience building AI features in a builder, landing-page tool, popup product, or other marketing product.</li><li>Experience generating layouts, designs, or ready-to-publish content, not just text.</li><li>Conversion optimization, marketing tech, analytics, or personalization experience.</li><li>Experience with eval and observability tooling such as Langfuse, DeepEval, RAGAS, or LLM-as-a-judge setups.</li><li>Experience building multi-agent systems using CrewAI, LangGraph, AutoGen, or similar frameworks.</li><li>Experience with MCP (Model Context Protocol), function calling, or similar LLM integration patterns.</li><li>Experience with model fine-tuning (PEFT, LoRA, QLoRA) and quantization for cost optimization.</li><li>Familiarity with MLOps practices: model versioning, drift monitoring, and experiment tracking (MLflow, Weights &amp; Biases, etc).</li><li>Experience with Databricks, AWS SageMaker, or similar ML platforms.</li><li>Familiarity with the WordPress ecosystem, PHP, or SaaS product development. Understanding the end user (small business owners, bloggers, ecommerce operators) is valuable context.</li><li>Experience building internal tools and data platforms that non-technical teams rely on daily.</li><li>Published research, open-source contributions, or technical writing that demonstrates depth of understanding.</li></ul> <h2 id="job-benefits-title">Benefits</h2> <p><strong>Working for a fast-growing bootstrapped company is a rare opportunity, one we consider a lifestyle choice rather than a job choice. Our positions are challenging, but also come with amazing advantages and fulfillment to those who earn them. Here's what we offer.</strong></p><ul><li>Competitive Salary.</li><li>Term Life Insurance and Accidental Death &amp; Dismemberment for all full-time team members during their employment.</li><li>Health, Dental, and Vision Insurance benefits for full-time U.S. employees.</li><li>Health Insurance benefits for all employees in Argentina, Brazil, Egypt, India, Indonesia, Jamaica, Kenya, Mexico, Nepal, Nigeria, Pakistan, Philippines, Poland, Romania, Serbia, Spain, and Ukraine.</li><li>Work from your home. We're spread out all over the world – United States, Canada, Ukraine, India, Pakistan, Singapore, and more.</li><li>Flexible PTO after 90 days of employment. We encourage employees to take the time they need for a vacation, stay healthy, and spend time with friends and family.</li><li>Holidays (based on your location)</li><li>Paid Parental Leave.</li><li>We happily provide or reimburse software you'll need as well as books or courses that promote continued learning.</li><li>We cover all costs of company travel (including our annual all-company retreat and mini-team meetups).</li><li>Additional Perks include AM Welcome Box for new team members, Yearly Anniversary Gifts, and Technology Stipend each work anniversary.</li><li>We give you the opportunity to solve challenging and meaningful problems that make a difference.</li><li>Ability to work with some of the best people in the business through frequent, if not daily, interactions.</li><li>And in case you were wondering: no politics, no b.s., and no jerks.</li></ul><p><strong>Location</strong></p><p><strong>This is a remote position - our team is spread around the globe! Our home base is in Florida, USA, so company operating hours are 9am - 5pm ET (UTC -5). While full coverage is not a requirement, you must be available during a portion of the day.</strong></p><p><strong>Inclusion Statement</strong></p><p><strong>At Awesome Motive, we strive to have the broadest possible view of diversity, going beyond visible differences to include the background, experiences, skills, and perspectives that make each person unique. Awesome Motive is proud to be an equal opportunity workplace and is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, or any other basis protected by federal, state, or local law.</strong></p><p><strong>How to apply?</strong></p><p><strong>If all of this sounds interesting, then please submit your application!</strong></p><p><em>Also note, don't forget to proofread before submitting. Check spelling, capitalization, etc. This is your chance to make your application stand out :)</em></p><p>We won't be able to individually respond to all applications, but if we feel you're a strong match, someone will be in touch shortly.</p><p>Thanks and we look forward to hearing from you!</p>]]></job_description>
-  </job>
-  <job>
-    <reference_id>workable_cloudtalk_6178074</reference_id>
-    <apply_url>https://apply.workable.com/j/29CA0D388A/apply</apply_url>
-    <job_url>https://apply.workable.com/j/29CA0D388A</job_url>
-    <company_name>Cloudtalk</company_name>
-    <company_website>https://www.cloudtalk.io</company_website>
-    <company_logo_url>https://workablehr.s3.amazonaws.com/uploads/account/logo/533655/logo</company_logo_url>
-    <job_title>Account Manager (Spanish Speaker)</job_title>
-    <job_type></job_type>
-    <category>Revenue</category>
-    <city>Toronto</city>
-    <state></state>
-    <country>Canada</country>
-    <is_remote>False</is_remote>
-    <salary_from></salary_from>
-    <salary_to></salary_to>
-    <salary_currency></salary_currency>
-    <salary_period></salary_period>
-    <post_date>10/08/2026</post_date>
-    <expiration_date></expiration_date>
-    <job_description><![CDATA[<p><strong>🌍 Global SaaS Scale-up&nbsp;| Series B<br>💡 Personalised 1:1 Coaching&nbsp; <br>📍 Toronto, Hybrid (3 days in-office, </strong>320 Bay St, M5H 4A6)<br>💰 <strong>OTE</strong> <strong>CA $120k-130k gross/year</strong></p><p></p><h3>About CloudTalk</h3><p>CloudTalk is an<strong> AI-powered business phone system and AI Voice Agent platform</strong> built for sales and support teams. It brings <strong>business calling</strong>, <strong>AI-powered call intelligence</strong>, and <strong>autonomous AI voice agents</strong> together<strong> in one platform</strong>, helping small and mid-sized businesses make more calls, handle more conversations, and deliver better customer experiences.</p><p><br>Serving customers in 160+ countries, CloudTalk is<strong> backed by $36M in funding</strong> from leading investors, including KPN Ventures, Point Nine, and HenQ. We’re investing in <strong>making AI a natural part of every business conversation </strong>and helping companies get more value from every call.</p><p><br>With a team of 200 people, CloudTalk values <strong>growth</strong>, <strong>innovation</strong>, <strong>teamwork</strong>, <strong>customer focus</strong>, and<strong> human connection</strong>. The company moves fast, builds for the future, and cares deeply about creating products and a culture that people genuinely love.</p><p></p><h3></h3><h3><strong>Why Join CloudTalk Now?</strong></h3><p>We're in an era of rapid innovation — taking our top-tier communication infrastructure to the next level by integrating cutting-edge AI. Join us as we pioneer the future of business communication and drive toward $100M ARR.<br></p><p>🚀<strong>Be part of one of Europe’s fastest-growing SaaS companies<br><br>🤖 Work with cutting-edge AI products in a high-growth market. From real-time call intelligence, automated summaries, and AI coaching to AI voice agents and AI receptionists that are transforming how our clients handle volume at scale<br><br>🎯 Have a front-row seat in our journey to $100M ARR<br></strong></p><h3><strong>The Role</strong></h3><p>Our <strong>Account Managers</strong> are the business owners of their portfolio. This is a quota-carrying role where you will <strong>own Customer Retention and Portfolio Expansion</strong>. You will be a trusted strategic partner to your clients, accountable for their success metrics and the health of your book of business.</p><p>This is not a reactive support role. We need someone who runs their portfolio like a business: setting health benchmarks, building save plays before risk surfaces, and consistently translating CloudTalk's capabilities into measurable ROI for clients.</p><p></p><h3>What You Will Do<br></h3><p><strong>Be the Strategic Business Partner</strong></p><p>Run regular Executive Business Reviews that tie CloudTalk performance directly to your clients' KPIs. Position yourself as a trusted advisor — not just a vendor contact — and build durable relationships with decision makers and executive stakeholders.</p><p></p><p><strong>Own Retention &amp; Expansion</strong></p><p>Lead the full renewal cycle across your portfolio — forecast risk, build proactive save strategies, and consistently hit retention targets quarter over quarter. Churn on your accounts should never come as a surprise.</p><p></p><p>Identify and close organic growth opportunities within your portfolio — whether that's increased seat count, platform adoption, or premium add-ons. You should know your accounts well enough to see expansion plays before clients do.</p><p></p><p><strong>Own Portfolio Health</strong></p><p>Build and maintain customer health frameworks for your book of business. Define the leading indicators that matter, track them in HubSpot and your analytics stack, and intervene early — before issues become escalations.</p><p></p><p><strong>Act as the Internal Advocate</strong></p><p>Be the voice of your clients inside CloudTalk. Partner closely with Product, Support, and Customer Engineering to resolve issues, surface feedback, and influence the roadmap — while confidently representing CloudTalk's direction back to your accounts.</p><p></p><h3>What Makes You a Great Fit</h3><p>We're looking for experienced Account Managers or Customer Success Managers who've owned meaningful books of business in B2B SaaS — not just managed relationships, but driven commercial outcomes.</p><p></p><ul><li><strong>Hands-on experience in Account Management or Customer Success in B2B SaaS</strong>, with a demonstrable track record of hitting retention and expansion targets</li><li>Proven <strong>ownership of a book of business independently</strong> — you've managed renewals, run save plays, and grown accounts without heavy oversight</li><li><strong>Experience owning customer health metrics</strong>: you've built or worked within health score frameworks and used leading indicators to drive proactive action</li><li>Comfortable running Executive Business Reviews and navigating multi-stakeholder accounts up to C-suite</li><li><strong>Highly commercial mindset </strong>— you think like a revenue owner, not just a relationship manager</li><li><strong>Data-driven</strong>: comfortable in Excel/Sheets, BI dashboards, and CRM reporting to manage your portfolio analytically</li><li><strong>Technical aptitude</strong> — you enjoy learning SaaS products deeply and can guide customers to maximise platform value</li><li><strong>Familiarity with CS/AM tooling</strong>: HubSpot, Gainsight, Planhat, or similar</li><li>Business fluency in <strong>English and Spanish.</strong></li></ul><h3></h3><h3>Why you’ll love being a CloudTalker</h3><p><em>Unlimited PTO that people actually take. Fully remote with four European hubs. A coach you can book, a career path in writing, and equity when you deliver. Here's the full package.</em></p><h3><strong>Get better, faster</strong></h3><ul><li>💬 <strong>A coach you can actually book.</strong> Recurring 1-on-1 sessions with our resident coach. A real conversation about your career, on company time.</li><li>🪜 <strong>Promotions without guesswork.</strong> Our job-leveling framework is transparent: every level and its expectations, in writing. You'll always know what the next step requires and where you stand.</li><li>📈 <strong>A path to equity.</strong> At CloudTalk, equity is earned over time. Seniority, tenure, and consistent impact, together, are what get you there. Not an automatic perk. Something you grow into.</li></ul><h3><strong>Work the way you work best</strong></h3><ul><li>🌴 <strong>Unlimited PTO, and we mean it.</strong> Taking 30 days a year is normal here. Deliver beyond expectations, and you've bought yourself room for more.</li><li>🌍 <strong>The right setup for your role.</strong> Depending on the team, you’ll either work from one of our hubs four days a week or have the option to work fully remotely. Our offices are fully equipped and centrally located.</li><li>⏰ <strong>Flexible hours, built around your team.</strong> No clocking in, no clocking out. Be there for your team, clients, and the meetings that matter. The rest is yours.</li><li>💻 <strong>Gear that doesn't fight you.</strong> A MacBook for work, plus a home-office allowance for remote roles to build a setup you like sitting at.</li></ul><h3><strong>Rest like you mean it</strong></h3><ul><li>🔋 <strong>Recharge Fridays: 4 extra all-company days off a year.</strong> Once a quarter, everyone is off at the same time. You come back to zero pings, not a doubled backlog. That's the point.</li><li>🏃 <strong>Fitness allowance.</strong> Gym, climbing, yoga, whatever keeps you moving. You choose, we pay.</li></ul><h3><strong>People worth staying for</strong></h3><ul><li>💸 <strong>Up to €5,000 per referral.</strong> You know great people. When we hire one of them, you get paid for it.</li><li>✈️ <strong>Two offsites a year worth packing a bag for.</strong> The all-company offsite (last year: <a href="https://www.youtube.com/watch?v=RJYfbHH9Fak" rel="nofollow noreferrer noopener" class="external">Tuscany</a> 🇮🇹) plus a dedicated function-specific offsite, both somewhere remote enough that people actually talk.</li><li>👕 <strong>Fresh CloudTalk swag every year!</strong></li></ul><p></p><p><strong>+Private Health Insurance</strong></p><p></p><p><strong>This is for an immediate hire. Apply now and be part of our journey to $100M ARR!</strong></p><p></p><p><em>By submitting your application, you acknowledge that Cloudtalk will process your personal data based on Cloudtalk’s legitimate interest in finding the most suitable candidate and a pre-contractual relationship with you. For more information on how Cloudtalk processes your personal data, please refer to our </em><a href="https://www.cloudtalk.io/privacy-notice/#:~:text=CloudTalk%20reserves%20the%20right%20to,and%20integrity%20of%20Your%20data." target="_blank" rel="nofollow noreferrer noopener" class="external">Privacy Notice</a><em>.</em><br></p>]]></job_description>
   </job>
   <job>
     <reference_id>workable_cloudtalk_6079654</reference_id>
